@@ -1,12 +1,16 @@
 package main
 
 import (
+	_ "embed"
 	"encoding/csv"
 	"fmt"
 	"io"
 	"os"
 	"strings"
 )
+
+//go:embed sage-x3-table-dictionary.csv
+var embeddedCSV []byte
 
 // tableInfo holds lookup data for a Sage X3 table abbreviation.
 type tableInfo struct {

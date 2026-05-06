@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"bytes"
 	"flag"
 	"fmt"
 	"net/http"
@@ -9,10 +10,8 @@ import (
 	"strings"
 )
 
-const csvFile = "sage-x3-table-dictionary.csv"
-
 func main() {
-	csvPath := flag.String("tables", csvFile, "path to the Sage X3 table dictionary CSV")
+	csvPath := flag.String("tables", "", "path to a custom Sage X3 table dictionary CSV (overrides the built-in)")
 	serveAddr := flag.String("serve", "", "start HTTP server on this address (e.g. :8080)")
 	lspMode := flag.Bool("lsp", false, "start LSP server communicating over stdin/stdout")
 	flag.Usage = func() {
@@ -25,7 +24,13 @@ func main() {
 	}
 	flag.Parse()
 
-	tables, err := loadTables(*csvPath)
+	var tables map[string]tableInfo
+	var err error
+	if *csvPath != "" {
+		tables, err = loadTables(*csvPath)
+	} else {
+		tables, err = parseTables(bytes.NewReader(embeddedCSV))
+	}
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "error: %v\n", err)
 		os.Exit(1)
