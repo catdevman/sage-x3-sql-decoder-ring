@@ -1,0 +1,2484 @@
+Table V2023R1,V9.0 (P12),V11 (P22),Abbreviation,Description,Module,Activity code
+AABREV,,,AAB,Abbreviation,Supervisor,
+ABANK,,,ABN,Bank sort codes,Supervisor,
+ABATABT,Modification,,ABA,Batch server (recurring tasks),Supervisor,
+ABATABTD,,,ABD,Batch server (recurring tasks),Supervisor,
+ABATABTD2,,,A22,Batch server (recurring tasks),Development,
+ABATCAL,,,ABC,Batch server calendar,Supervisor,
+ABATGRP,Modification,Modification,ABG,Batch server (groups),Supervisor,
+ABATHOR,,,ABH,Hourly constraints,Supervisor,
+ABATPAR,,,ABP,Batch server (parameters),Supervisor,
+ABATRQT,Modification,Modification,ABR,Batch server (queries),Supervisor,
+ABATRQT2,,,A11,Batch server (queries),Development,
+ABATRQTL,,,ABL,Batch server (queries),Supervisor,
+ABATTAC,Modification,Modification,ABT,Batch server (tasks),Supervisor,
+ABICOND,,,AII,Predefined conditions,Supervisor,ABI
+ABIDATMRT,,,ABM,Datamart,Supervisor,ABI
+ABIDATWRH,,,ABW,Data warehouse,Supervisor,ABI
+ABIDIM,,,ABI,Dimensions,Supervisor,ABI
+ABIDIMFLD,,,ABJ,Dimensions (fields),Supervisor,ABI
+ABIHIERA,,,AHH,Hierarchies,Supervisor,ABI
+ABIPRFUSR,,,AIU,BI user profile,Supervisor,ABI
+ABIREGDES,,,ABY,Synchronization rules (dest),Supervisor,ABI
+ABIREGORG,,,ABV,Synchronisation rules,Supervisor,ABI
+ABIREPORT,,,ABO,Business objects reports,Supervisor,ABI
+ABIREPORTD,,,ABQ,Business objects reports,Supervisor,ABI
+ABIREPORTID,,,ABOID,Business objects reports,Supervisor,ABI
+ABITABAGG,,,ABE,Fact table (aggregates),Supervisor,ABI
+ABITABDAT,,,ABF,Fact tables,Supervisor,ABI
+ABITABFLD,,,ABZ,Fact table (fields),Supervisor,ABI
+ABITABIND,,,ABX,Fact table (index),Supervisor,ABI
+ABITABLNK,,,ABK,Fact table (links),Supervisor,ABI
+ABITRAUNV,,,ATV,Report translation,Supervisor,ABI
+ABLBSYS,,,ASB,Graphic components,Supervisor,
+ABLOB,,,ABB,Special folders,Supervisor,
+ACALCUL,,,AKL,Calculator history,Supervisor,
+ACCCOD,,,ACS,Access codes,Supervisor,
+ACCES,,,ACC,Access by user,Supervisor,
+ACHANGE,,,ACG,Key change set up,Supervisor,
+ACLACOL,,,ACLAC,Classes (Collections),Supervisor,
+ACLAFLD,,,ACLAF,Classes (lines),Supervisor,
+ACLALNK,,,ACLAK,Classes (tables),Supervisor,
+ACLAMAP,,,ACLAKP,Classes (mapping),Supervisor,
+ACLAMET,,,ACLAM,Classes (methods),Supervisor,
+ACLAMETSTD,,,ACLAT,Classes (standard methods),Supervisor,
+ACLAOPT,,,ACLAO,Classes (options),Supervisor,
+ACLAPARDEF,,,ACLPD,Classes (parameters),Supervisor,
+ACLAPARFLD,,,ACLFP,Classes (parameters),Supervisor,
+ACLASSE,,,ACLA,Classes,Supervisor,
+ACLBSYS,,,ASA,Graphic components,Supervisor,
+ACLOB,,,ACB,Special folders,Supervisor,
+ACODIF,,,ACO,Section coding,Supervisor,
+ACODNUM,Modification,Modification,ANM,Doc sequence numbers,Supervisor,
+ACONSTANT,,,ACST,Constants,Supervisor,
+ACONSULT,,,ACN,Inquiries,Supervisor,
+ACONTEXT,,,ACTX,Context,Supervisor,
+ACTCODPAR,,,AAR,Action parameters,Supervisor,
+ACTION,,,ACT,Action dictionary,Supervisor,
+ACTIV,,,ACV,Activity codes,Supervisor,
+ACTL,,,ACL,Control tables,Supervisor,
+ACTLDEV,,,ACD,Reserved brackets,Supervisor,
+ACTLSPE,New table,New table,ASPE,Customization audit,Supervisor,
+ACTLSPELINE,New table,New table,ASPEL,Customization audit,Supervisor,
+ACTPAR,,,ATR,Action parameters,Supervisor,
+ADELETE,,,ADL,Deletion,Supervisor,
+ADELIVER,,,ADLV,Deliverable,Supervisor,
+ADELIVERB,,,ADLB,Deliverable,Supervisor,
+ADELIVERD,,,ADLD,Deliverable,Supervisor,
+ADELIVERL,,,ADLL,Deliverable,Supervisor,
+ADELIVERO,,,ADLO,Deliverable,Supervisor,
+ADELIVERP,,,ADLP,Deliverable,Supervisor,
+ADELIVERR,,,ADLR,Deliverable,Supervisor,
+ADELIVERT,,,ADLT,Deliverable,Supervisor,
+ADICTRT,,,ADC,Processes dictionary,Supervisor,
+ADIMENSION,,,ADM,Sizing elements,Supervisor,
+ADOCBLB,,,ADB,Documentation (linked files),Supervisor,
+ADOCCLB,,,ADH,Documentation (texts),Supervisor,
+ADOCFLD,,,ADZ,Field documentation,Supervisor,
+ADOCFNC,,,ADF,Documentation links,Supervisor,
+ADOCUMENT,,,ADO,Documentation,Supervisor,
+ADOPAR,Modification,Modification,ADP,Parameters,Supervisor,
+ADOSACT,,,ADA,Activity codes,Supervisor,
+ADOSDIM,,,ADE,Sizing elements,Supervisor,
+ADOSLEG,New table,New table,ADLEG,Legislations,Supervisor,
+ADOSLIV,,,ADK,Deliverables,Supervisor,
+ADOSSIER,Modification,Modification,ADS,Folder table,Supervisor,
+ADOSSOL,Modification,Modification,ADD,Solution by folder,Supervisor,
+ADOVAL,,,ADW,Parameter values,Supervisor,
+ADOVALAUS,,,ADU,User parameter values,Supervisor,
+ADOVALGRP,,,ADG,Sets of values,Supervisor,
+ADOVALHIS,,,AHW,Parameter values,Supervisor,
+AECLIDBG,,,AEG,Eclipse,Supervisor,
+AECLIRDV,,,AEC,Eclipse,Supervisor,
+AELT,Modification,Modification,AEL,Web elements dictionary,Supervisor,
+AELTLINK,,,AEK,Web element links,Supervisor,
+AENCHAINE,,,AEN,Import/export sequence,Supervisor,
+AENTREE,,,APE,Entry points,Supervisor,
+AENUMBDGH,New table,New table,AENUMH,Enum binding header,Supervisor,
+AENUMBDGL,New table,New table,AENUML,Enum binding lines,Supervisor,
+AESPION,,,AES,Trace system transactions,Supervisor,
+AEXPV3,,,AEV,Table setup/import,Supervisor,
+AEXPV3D,,,AED,Table setup/import,Supervisor,
+AFCTCUR,Modification,,AFU,Current function,Supervisor,
+AFCTEXE,,,AFE,Last functions executed,Supervisor,
+AFCTFCT,,,AFT,User function profile,Supervisor,
+AFCTFCY,,,AFF,Site profile function,Supervisor,
+AFCTPRF,,,AFP,Functional authorization,Supervisor,
+AFONCTION,Modification,Modification,AFC,Function dictionary,Supervisor,
+AFORDIM,,,AFO,Sizing formulas,Supervisor,
+AGDPRMAI,,,AGMAI,,Supervisor,
+AGDPRPHONE,,,AGPHO,,Supervisor,
+AGDPRSETTING,,,AGS,GDPR setting,Supervisor,
+AGDPRVCR,,,AGVCR,GDPR search,Supervisor,
+AGLOBVAR,,,AGB,Global variables,Supervisor,
+AGRPCPY,,,AGC,Company groupings,Supervisor,
+AGRPFCY,,,AGF,Site groupings,Supervisor,
+AHISTO,,,AHI,History/purge,Supervisor,
+AHISTOD,,,AHD,History/purge,Supervisor,
+AINDEX,,,ANX,Specific index,Supervisor,
+AIOBENCH,New table,New table,AIOBE,Performance index results,Supervisor,
+AITRLNK,,,AIT,Interactive components,Supervisor,
+AJSAUDIT,,,AJA,Audit,Supervisor,ASD
+AJSCONT,,,AJC,Sdata contract,Supervisor,ASD
+AJSEXCEPT,,,AJE,Exception,Supervisor,ASD
+AJSSYNC,,,AJS,Synchro,Supervisor,ASD
+ALINK,,,ALI,Link explorer,Supervisor,
+ALISTEC,,,ALC,Graphical query tool,Supervisor,
+ALISTED,,,ALD,Query tool,Supervisor,
+ALISTEH,,,ALH,Query tool,Supervisor,
+ALISTEL,,,ALL,Graphical query tool,Supervisor,
+ALISTER,,,ALR,Query tool,Supervisor,
+ALISTET,,,ALT,Graphical query tool,Supervisor,
+ALNKSUB,,,ALB,Subdivision links,Supervisor,
+ALOGIN,Modification,Modification,ALO,Login table,Supervisor,AUDIT
+ALSTRD,,,ALS,Last records read,Supervisor,
+AMAINT,,,AMI,Database mass update,Supervisor,
+AMEMO,,,AMM,Memo,Supervisor,
+AMENLOC,Modification,Modification,AML,Header messages,Supervisor,
+AMENUSER,,,AMU,User profile menu,Supervisor,
+AMETUTI,,,AME,Professional profile,Supervisor,
+AMIGKEY,Modification,,AMY,Keys,Supervisor,
+AMOTCLE,,,AMC,Help key-words,Supervisor,
+AMOULIN,,,AI0,Migration process,Supervisor,
+AMOULIN1,,,AI1,Migration plan,Supervisor,
+AMOULIN2,,,AI2,Migration plan detail,Supervisor,
+AMSK,Modification,Modification,AMK,Screen dictionary,Supervisor,
+AMSKACT,,,AMA,Action-object assignment table,Supervisor,
+AMSKPAR,,,AMP,Action-object parameters,Supervisor,
+AMSKZON,Modification,Modification,AMZ,Screen field dictionary,Supervisor,
+ANAVCRE,,,ANI,Navigation,Supervisor,
+ANAVFIL,,,ANH,Navigation,Supervisor,
+ANAVIG,,,ANG,Navigation,Supervisor,
+ANNUAIRE,,,ANU,User directory,Supervisor,
+ANODCPS,New table,New table,ANODCP,Composite references,Supervisor,
+ANODCPT,New table,New table,ANODCT,Computed properties,Supervisor,
+ANODE,New table,New table,ANODE,Node (API),Supervisor,
+ANODEBDG,New table,New table,ANODEB,Node binding,Supervisor,
+ANODGVAR,New table,New table,ANGV,Global variable for API,Supervisor,
+ANODPBDG,New table,New table,ANODPB,Node binding properties,Supervisor,
+ANODPROP,New table,New table,ANODP,Node properties,Supervisor,
+ANODREF,New table,New table,ANODRF,Node references,Supervisor,
+AOBJBUR,,,AOA,Office documents,Supervisor,
+AOBJBURMOD,,,AON,Default documents,Supervisor,
+AOBJET,,,AOB,Basic objects,Supervisor,
+AOBJEXT,Modification,Modification,AOE,Import/export templates,Supervisor,
+AOBJEXTD,,,AOD,Object import/export lines,Supervisor,
+AOBJEXTMP,,,AOW,Import/export temporary storage space,Supervisor,
+AOBJEXTMPB,,,AOZ,Import/export temporary storage space,Supervisor,
+AOBJEXTMPC,,,AOY,Import/export temporary storage space,Supervisor,
+AOBJEXTMPD,,,AOV,Import/export temporary storage space,Supervisor,
+AOBJEXTMPE,Modification,Modification,AOU,Import/export temporary storage space,Supervisor,
+AOBJEXTR,,,AOR,Transcribe import/export,Supervisor,
+AOBJLNK,,,AOK,Link explorer,Supervisor,
+AOBJLST,,,AOL,Basic objects,Supervisor,
+AOBJPROP,,,AOP,Object properties,Supervisor,
+AOBJSEL,,,AOS,Select memo file,Supervisor,
+AOBJTAB,,,AOT,Object table,Supervisor,
+AOBJTXT,Modification,Modification,AOX,Attachments,Supervisor,
+AOBJTXTA,,,AOM,Key word table,Supervisor,
+APACKACV,New table,New table,APACACV,Activity code for packages,Supervisor,
+APACKAGE,New table,New table,APACK,Package name (API),Supervisor,
+APARIMPEXP,,,APX,Import/export parameters,Supervisor,
+APATCH,Modification,,APT,Patch tracking,Supervisor,
+APATCHLOG,,,APL,Patch tracking,Supervisor,
+APATCHLOGD,,,APLD,Patch tracking,Supervisor,
+APATCHMOD,,,APH,Setup templates,Supervisor,
+APATCHTMP,,,APATMP,Patch integration,Supervisor,
+APIOPE,New table,New table,APIOPE,Operation (API),Supervisor,
+APLCOM,,,ACM,Sequence number definition,Supervisor,
+APLCOMH,,,ACMH,Sequence number definition,Supervisor,
+APLLCK,,,ALK,Lock table,Supervisor,
+APLSTD,,,AST,Local menus,Supervisor,
+APOOLBRG,,,APB,Java bridge pool,Supervisor,
+APOOLWS,,,APW,Web services pool,Supervisor,
+APORTMOD,,,AMO,Dashboard modules,Supervisor,
+APORTTAB,Modification,Modification,APA,Dashboard gadgets,Supervisor,
+APORTTYP,,,ATP,Gadget group,Supervisor,
+APORTUSER,,,APU,User dashboard,Supervisor,
+APORTVIG,,,AVP,Gadgets,Supervisor,
+APRINTDES,,,AID,Printer description,Supervisor,
+APRINTER,,,AIM,Destinations,Supervisor,
+APROCESSUS,,,APR,Processes,Supervisor,
+APROCTEXTE,,,AXP,Process texts,Supervisor,
+APROFIL,,,APF,User profile,Supervisor,
+APROMEN,,,APO,Process menu,Supervisor,
+APRTAUS,,,AIA,Destinations by user,Supervisor,
+APRTBRW,,,AP2,Multilists,Supervisor,APL
+APTLPAGE,,,APS,Dashboard pages,Supervisor,APL
+APTLPAR,,,APP,Dashboard view parameters,Supervisor,APL
+APTLVW,,,APV,Dashboard views,Supervisor,APL
+AQRESULTS,Deleted table,,AQR,Test 51137,Supervisor,
+ARCHPAR,,,ARC,Archiving rules,Supervisor,
+ARCHPARE,,,ARE,Archiving parameters,Supervisor,
+ARCHPARU,,,ARU,EDM user profile,Supervisor,
+ARCHPARW,,,ARW,Archiving parameters,Supervisor,
+AREFAML,,,ARN,Text cross references,Supervisor,
+AREFTXT,,,ART,Text cross references,Supervisor,
+AREPORT,,,ARP,Report dictionary,Supervisor,
+AREPORTA,,,ARA,Printer setup,Supervisor,
+AREPORTD,,,ARD,Report parameters,Supervisor,
+AREPORTG,,,ARG,Printer setup,Supervisor,
+AREPORTM,,,ARM,Temporary print key table,Supervisor,
+AREPORTS,,,ARO,Reports - data sources,Supervisor,
+AREPORTV,,,ARV,Reports,Supervisor,
+AREPORTX,,,ARX,Reports,Supervisor,
+AREPORTZ,,,ARZ,ZPL reports,Supervisor,
+AROLE,,,ARL,Row level permissions,Supervisor,
+ASHW,,,ASW,Representations,Supervisor,
+ASHWBLC,Modification,Modification,ASWB,Representation (Blocks),Supervisor,
+ASHWCOL,,,ASWC,Representations (Collections),Supervisor,
+ASHWEXPPRO,Modification,Modification,ASWR,Representations (displayed),Supervisor,
+ASHWFLD,,,ASWF,Representations (Lines),Supervisor,
+ASHWLNK,,,ASWK,Representations (Anchors),Supervisor,
+ASHWMENU,,,ASWMN,Representations (Menus),Supervisor,
+ASHWMET,,,ASWM,Representation (methods),Supervisor,
+ASHWOPT,,,ASWO,Representations (Options),Supervisor,
+ASHWPAR,,,ASWP,Representation (parameters),Supervisor,
+ASHWPARMET,,,ASWMP,Representation (method param),Supervisor,
+ASHWSEC,Modification,Modification,ASWS,Representation (Sections),Supervisor,
+ASTYLE,,,ASY,Presentation styles,Supervisor,
+ASTYLEC,,,ASL,Conditional styles,Supervisor,
+ASTYLEP,,,AYP,Personalized styles,Supervisor,
+ASUBPROG,,,ASU,Subprogram table,Supervisor,
+ASUBPROGD,,,ASP,Sub-program (fields),Supervisor,
+ASYSSMDBASSO,New table,Modification,ASM3,X3,Supervisor,
+ASYSSMEXTERN,New table,,ASM1,X3,Supervisor,
+ASYSSMINTERN,New table,,ASM0,X3,Supervisor,
+ASYSSMPROCES,New table,,ASM2,X3,Supervisor,
+ATABAUD,,,ATA,Fields audited,Supervisor,AUDIT
+ATABDIV,,,ADI,Miscellaneous tables,Supervisor,
+ATABIND,Modification,Modification,ATI,Index dictionary,Supervisor,
+ATABLE,Modification,Modification,ATB,Table dictionary,Supervisor,
+ATABTAB,,,ADV,Miscellaneous table set-up,Supervisor,
+ATABZON,Modification,Modification,ATZ,Field dictionary,Supervisor,
+ATEXMOD,,,ATM,Text sequence number by module,Manufacturing,
+ATEXTE,,,ATX,Dictionary messages,Supervisor,
+ATEXTEXCEP,,,AEX,Exceptions (translations),Supervisor,DIS
+ATEXTRA,,,AXX,Texts to translate,Supervisor,
+ATMPTRA,,,ATT,Temporary trace file,Supervisor,
+ATRADIS,,,TAT,Import/export tracking,Development,DIS
+ATRANSAC,,,ATN,Transaction type,Supervisor,
+ATYPE,,,ATY,Data types,Supervisor,
+ATYPELNK,,,ATYL,Data type links,Supervisor,
+ATYPELPAR,,,ATYLP,Data type parameters,Supervisor,
+ATYPEPRO,,,ATYP,Content type,Supervisor,
+ATYPERPAR,,,ATYRP,Data type parameters,Supervisor,
+ATYPERUL,,,ATYR,Data type rules,Supervisor,
+AUDITBI,Modification,,AUI,Audit bl,Supervisor,AUDIT
+AUDITH,Modification,Modification,AUD,Audit - header,Supervisor,AUDIT
+AUDITL,,,AUL,Audit - lines,Supervisor,AUDIT
+AUPDATE,New table,New table,AUPD,Update,Supervisor,
+AUPDATELINE,New table,New table,AUPDL,Update,Supervisor,
+AUPDATEPATH,New table,New table,AUPDP,Update,Supervisor,
+AURL,,,AUR,Definition of URL,Supervisor,
+AUSRBPR,,,AUB,BP users,Supervisor,
+AUSRSOL,,,AUO,Solution users,Supervisor,
+AUSRSTA,,,AUA,Statistics,Supervisor,
+AUTILIS,,,AUS,Users,Supervisor,
+AUTILITY,New table,New table,AUTI,Utilities,Supervisor,
+AVALATT,,,AVA,Sequence number values,Supervisor,
+AVALNUM,,,AVN,Sequence number values,Supervisor,
+AVARLOC,,,AVR,Formula wizard setup,Supervisor,
+AVIEW,Modification,Modification,AVW,Dictionary of views,Supervisor,
+AVIEWB,,,AVB,Dictionary of views,Supervisor,
+AVIEWC,,,AVC,Dictionary of keys,Supervisor,
+AVIEWD,,,AVD,Dictionary of views,Supervisor,
+AVIEWE,New table,New table,AVE,List of tables and views,Supervisor,
+AVOCAB,,Modification,AVO,Personalized vocabulary,Supervisor,
+AVOLUME,Modification,Modification,AVL,Volume,Supervisor,
+AWEBSERDES,,,AWY,Web service mapping,Supervisor,
+AWEBSERVIC,,,AWE,Web services,Supervisor,
+AWINBOUT,,,AWT,Window button dictionary,Supervisor,
+AWINBRO,,,AWB,Browser window dictionary,Supervisor,
+AWINDOW,,,AWI,Window dictionary,Supervisor,
+AWINPAR,,,AWP,Window parameters,Supervisor,
+AWRKHISDES,,,AWO,Workflow history,Supervisor,
+AWRKHISJOI,,,AWJ,Workflow history,Supervisor,
+AWRKHISMES,Modification,Modification,AWG,Worksflow message history,Supervisor,
+AWRKHISSUI,Modification,,AWS,Workflow tracking archive,Supervisor,
+AWRKLNK,Modification,Modification,AWM,Data models,Supervisor,
+AWRKPAR,Modification,Modification,AWA,Workflow rules,Supervisor,
+AWRKPARC,,,AWC,Workflow rules (actions),Supervisor,
+AWRKPARF,,,AWF,Workflow rules (signature),Supervisor,
+AWRKPARH,,,AWH,Workflow rules (recipient),Supervisor,
+AWRKPARX,,,AWX,Simplified workflow,Supervisor,
+AWRKREG,,,AWR,Assignment rules,Supervisor,
+AWRKREGVAL,,,AWV,User assignment,Supervisor,
+AWRKTAB,Modification,Modification,AWK,Data models,Supervisor,
+AWRKTRN,,,AWW,Workflow workbench,Supervisor,
+AWRKTRND,,,AWD,Workflow workbench,Supervisor,
+AWRKUSR,,,AWU,User delegates,Supervisor,
+AWSDL,,,AXL,Web services,Supervisor,
+AWSDL1,,,AX1,Web services structure,Supervisor,
+AYTACT,,,AYA,Web action,Supervisor,AYT
+AYTADVPAR,,,AYU,Advanced setup,Supervisor,AYT
+AYTBASKED,,,AYK,Basket line,Supervisor,AYT
+AYTDOC,,,AYY,Html document,Supervisor,AYT
+AYTELTBLC,,,AYB,Blocks,Supervisor,AYT
+AYTELTBLCW,,,AYW,Conditioned blocks,Supervisor,AYT
+AYTELTDLK,,,AYL,Dynamic links,Supervisor,AYT
+AYTELTFLD,,,AYF,Field token,Supervisor,AYT
+AYTELTSPE,,,AYX,Special fields,Supervisor,AYT
+AYTENT,,,AYE,Entity,Supervisor,AYT
+AYTFCY,,,AYS,Websites,Supervisor,AYT
+AYTFRM,,,AYZ,Form,Supervisor,AYT
+AYTINT,,,AYI,Interface,Supervisor,AYT
+AYTLINES,,,AYN,Lines by types,Supervisor,AYT
+AYTMEN,,,AYC,List of values,Supervisor,AYT
+AYTMES,,,AYM,Messages,Supervisor,AYT
+AYTPAG,,,AYG,Web pages,Supervisor,AYT
+AYTPOOWEB,,,AYO,Web services pools,Supervisor,AYT
+AYTPRF,,,AYD,Web site profile,Supervisor,AYT
+AYTPRFUSR,,,AYH,Safe X3 WAS profile,Supervisor,AYT
+AYTPRFX3,,,AYR,Website user,Common Data,AYT
+AYTTEST,,,AYT,Tests,Supervisor,AYT
+BADDTER,New table,New table,BAT,Bad debt terms,Financials,BADBT
+BALAGEEOY,,,BGY,EOFY aged overdue invoice list,Financials,
+BALANA,,,BLA,Analytical balance,Financials,
+BALANCE,,,BAL,General balance,Financials,
+BALCONSO,Modification,,BLC,Consolidation trial balance,Financials,CSL1
+BALDEM,,,BAM,Double entry balance,Financials,KRU
+BALDEMIDT,,,BAI,Double entry balance index,Financials,KRU
+BALPRECSL,New table,,BLP,Pre-consolidation balances,Financials,PRCSL
+BANK,Modification,Modification,BAN,Bank accounts,Common Data,
+BANKCASHREG,New table,New table,BCREG,Bank/Cash register,A/P-A/R accounting,REGBC
+BANKPOSD,,,BPL,Banking position,A/P-A/R accounting,BANFO
+BANREC,,,BEH,Bank Reconciliation Statement,A/P-A/R accounting,
+BANRECD,,,BED,Bank Statement Lines,A/P-A/R accounting,
+BAPPOINT,Modification,,BAP,Appointment,Common Data,
+BASGEN,New table,,BAS,Profit-sharing base,Human Resources administration,
+BASIND,New table,,HRBAI,Individ. DPS scheme base,Human Resources administration,
+BATCH,Modification,Modification,BTC,Batch job parameters,Common Data,
+BBLOB,New table,,BBB,Special folders,Common Data,FHRPA
+BCKITOREN,New table,,BREN,Backup integration reason,Common Data,KPO
+BCLOB,New table,Modification,BCB,Special folders,Common Data,FHRPA
+BDTTRK,New table,New table,BDT,Bad debts,Financials,BADBT
+BENCHTRS,Modification,Modification,BTS,Plan transaction,Stock,
+BETCPY,,,BCH,Intercompany parameters,Common Data,
+BETCPYL,,,BCL,Intercompany parameters,Common Data,
+BGRBAN,,,BGR,Bank group,A/P-A/R accounting,BANFO
+BID,Modification,,BID,Bank ID statement,Supervisor,
+BIDXT,New table,New table,BIDXT,Bank ID statement,Common Data,
+BILIND,New table,Modification,BIN,Annual employee report indicators,Human Resources administration,FBIL
+BILLLADC,,,BOLC,Bill of lading contents,Common Data,
+BILLLADD,,,BOLD,Bill of lading detail,Common Data,
+BILLLADH,,,BOLH,Bill of lading header,Common Data,
+BILLLADWRK,Modification,,BOLW,Bill of lading report,Common Data,
+BILRES,New table,Modification,BIL,Annual employee report,Human Resources administration,FBIL
+BILSTA,Modification,,BES,BOE statement and promissory note,A/P-A/R accounting,
+BILTXT,New table,Modification,BIX,Annual employee report,Human Resources administration,FBIL
+BITMPPORDERP,,,BIPOP,POs price,Purchasing,
+BITMPPORDERQ,,,BIPOQ,POs quantities,Purchasing,
+BITMPSORDERP,,,BISOP,Sales orders - price,Sales,
+BITMPSORDERQ,,,BISOQ,Sales orders - quantities,Sales,
+BLACMM,,,BLM,Analytical commitment balance,Financials,
+BLAQTY,,,BLQ,Analytical quantity balance,Financials,
+BLOBEXPENSES,,,BEXP,Expense note photo,A/P-A/R accounting,
+BNKTRSIMP,,,BTI,Import transfers from Sage treasury,Financials,CASIN
+BOM,Modification,Modification,BOH,Header BOMS,Common Data,
+BOMCREF,New table,New table,BCR,Component reference,Common Data,
+BOMD,Modification,Modification,BOD,Detail BOMs,Common Data,
+BOMPRN,Modification,,BOP,Print BOMs,Common Data,
+BOMRET,Modification,Modification,BMR,Trial kitting,Common Data,
+BOMWUS,,,BOW,Where-used BOM,Common Data,
+BOSIMP,New table,Modification,BOSI,Subcontract BOM,Common Data,
+BOX1099,,,BX9,1099 box,Financials,S1099
+BP1096PRN,,,B96R,1096 print table,Financials,S1099
+BP1099BEGBAL,,,B9B,1099 beginning balance,Financials,S1099
+BP1099PRN,,,B9R,1099 print table,Financials,S1099
+BPADDRESS,Modification,Modification,BPA,Addresses,Supervisor,
+BPADDRESSPOR,New table,New table,BPAPOR,Addresses,Common Data,FPOPH
+BPADDRESSSA,New table,,BPASA,Addresses,Common Data,FZAPH
+BPADDRESSXT,New table,New table,BPAXT,Addresses,Common Data,
+BPARTNER,Modification,Modification,BPR,Business partner,Common Data,
+BPCARRIER,,,BPT,Carriers,Common Data,
+BPCCATEG,Modification,,BCG,Customer category,Common Data,
+BPCINVLIG,Modification,Modification,SIL,Customer invoice lines,A/P-A/R accounting,
+BPCINVLIGA,,,SIA,Customer analytical line,A/P-A/R accounting,
+BPCINVLIGLOC,New table,New table,SILLOC,Customer invoice lines,A/P-A/R accounting,
+BPCINVVAT,,,SIT,Tax rates,A/P-A/R accounting,
+BPCUSTMVT,,,MVC,Customer transactions,Common Data,
+BPCUSTOMER,Modification,,BPC,Customers,Common Data,
+BPCUSTOMERXT,New table,New table,BPCTX,Customers,Common Data,
+BPDLVCUST,,,BPD,Ship-to customer,Common Data,
+BPDLVCUSTXT,New table,New table,BPDXT,Ship-to customer,Common Data,
+BPEXCEPT,Modification,Modification,BPE,BP-Company exception,Common Data,MUL
+BPMISC,,,BPM,Order-giver/miscellaneous BP,Common Data,
+BPMISCCGF,,,BPG,Miscellaneous BP configuration,Common Data,
+BPS1099GEN,,,B9G,1099 generation,Financials,S1099
+BPS1099MNT,,,B9M,Supplier 1099 maintenance,Financials,S1099
+BPS1099PAY,,,B9P,Supplier 1099 payments,Financials,S1099
+BPSCATEG,Modification,Modification,BSG,Supplier category,Common Data,
+BPSHISUPLN,,,BSL,Ship-to addresses,Common Data,
+BPSHISUPP,,,BSS,Shipping site suppliers,Common Data,
+BPSINVLIG,Modification,Modification,PIL,Supplier invoice lines,A/P-A/R accounting,
+BPSINVLIGA,,,PIA,Supplier analytical line,A/P-A/R accounting,
+BPSUPPLIER,Modification,Modification,BPS,Suppliers,Common Data,
+BPSUPPMVT,,,MVS,Supplier transactions,Common Data,
+BRDKEY,,,BRD,Distribution key,Fixed Assets,
+BSEINQ,New table,,BSI,Balance sheet inquiry,Financials,
+BSIBPRNUM,New table,,BSIBPN,BP number definition,A/P-A/R accounting,BSI
+BSIBPRNUMD,New table,,BSIBPND,BP number definition detail,A/P-A/R accounting,BSI
+BSIDUD,New table,,BSIDUD,Open items,A/P-A/R accounting,BSI
+BSIELTMAP,New table,,BSIELT,Camt element mapping detail,A/P-A/R accounting,BSI
+BSIELTMAPD,New table,,BSIELTD,Camt element mapping,A/P-A/R accounting,BSI
+BSIFILFMT,New table,Modification,BSIFFM,Bank import format definition,A/P-A/R accounting,BSI
+BSIFILFMTD,New table,,BSIFFD,Bank import format def. detail,A/P-A/R accounting,BSI
+BSIIMP,New table,Modification,BSIIMP,Bank statement import,A/P-A/R accounting,BSI
+BSIIMPD,New table,Modification,BSIIMPD,Bank statement import detail,A/P-A/R accounting,BSI
+BSIIMPDS,New table,Modification,BSIIMPS,Bank statement imp. sub-detail,A/P-A/R accounting,BSI
+BSIIMPPAR,New table,Modification,BSIIP,Bank import settings,A/P-A/R accounting,BSI
+BSIIMPTC,New table,Modification,BSITC,Bank import type codes,A/P-A/R accounting,BSI
+BSIINVDIO,New table,,BSIIND,Invoice number definition,A/P-A/R accounting,BSI
+BSIINVDIOD,New table,,BSIINDD,Invoice number def. detail,A/P-A/R accounting,BSI
+BSIITCD,New table,Modification,BSIITCD,Bank import type codes,A/P-A/R accounting,BSI
+BSIMANENT,New table,,BSIMAN,Manual entry,A/P-A/R accounting,BSI
+BSIPAY,New table,New table,BSIPAY,Payments,A/P-A/R accounting,BSI
+BSISCT,New table,,BSISCT,Bank import segment,A/P-A/R accounting,BSI
+BSISCTD,New table,,BSISCTD,Bank import segment detail,A/P-A/R accounting,BSI
+BSISEAEXD,New table,,BSISEA,Excluded terms,A/P-A/R accounting,BSI
+BSISEALIS,New table,,BSILIS,Search term list,A/P-A/R accounting,BSI
+BSISEALISD,New table,,BSILISD,Search term list detail,A/P-A/R accounting,BSI
+BUD,Modification,,BUD,Budget table,Financials,
+BUDAPP,,,BOA,Budget approval,Financials,GDD
+BUDAPPDET,,,BAD,Approval detail,Financials,GDD
+BUDFORCAL,Modification,,BUC,Budget calculation formula,Financials,
+BUDOD,,,BDE,Budget misc. operations,Financials,
+BUDODS,Modification,,BDO,Budget misc. operations,Financials,
+BUDPAR,Modification,,BUP,Budget setup,Financials,
+BUDPURAUD,,,BUA,Audit,Financials,
+BUDREF,New table,Modification,BUR,Reference budget,Human Capital management,FRT
+BUDREV,,,BRV,Budget review,Financials,GDD
+BUDREVDET,,,BVD,Review detail,Financials,GDD
+BUDTYP,,,BUT,Budget type,Financials,GDD
+BUDVARCAL,,,BVC,Budget calculation variable,Financials,
+BUDVER,,,BUV,Budget versions,Financials,
+BUILOCSPA,,,BLS,Building location,Financials,KSP
+BULCAL,New table,New table,BUL,Calendar slip,Common Data,FHRPA
+CAAUZ,,,CAZ,Restriction table,Common Data,
+CACCE,,,CCE,Dimensions,Common Data,
+CACCEDEF,Modification,Modification,CDE,Default dimensions,Common Data,
+CADIEDEF,,,CDI,Default dimension types,Common Data,
+CADIETPS,New table,New table,CDT,Dimension types,Common Data,FHRPA
+CADISTMP,,,DTP,Budget weighting codes,Financials,
+CADSP,,,DSP,Analytical allocations,Common Data,
+CAECOD,New table,Modification,CAEC,CAE code,Common Data,KPO
+CAISSE,New table,Modification,PCA,Contribution funds,Human Resources administration,
+CALCDBG,,,CDG,Calculation,Fixed Assets,
+CALENDAFF,New table,New table,CLF,Project to sold products,Common Data,PRH
+CALENDAR,New table,New table,CLD,Calendars,Common Data,PRH
+CALIBRAT,,,CBT,Calibration,Manufacturing,MWM
+CALIGUIDES,,,CGD,Calibration guides,Manufacturing,MWM
+CALLATTEMP,,,CTT,Call attempt,CRM activities,
+CALRUB,New table,,CRB,Headings to be calculated,Human Resources administration,
+CALRUBHIS,New table,,CRH,Headings to be calculated,Human Resources administration,MAS
+CALVAR,New table,Modification,CVR,Variables to calculate,Human Resources administration,
+CAPFLOTMP,,,CWT,Capital flow,Financials,KPO
+CAPVAR,,,CPV,Capacity variation,Manufacturing,
+CARAREA,,,CAA,Carrier regions,Common Data,
+CARPRICE,,,CAP,Carrier price lists,Common Data,
+CASHING,,,CAS,Collections,Fixed Assets,GRT
+CASHPAYSPA,Modification,Modification,CPS,Cash payments,Financials,KSP
+CBLOB,,,CBB,Special folders,Common Data,
+CBNDET,Modification,Modification,CBD,MRP detail,Stock,
+CBNHEA,,,CBH,MRP processing,Stock,
+CBNWRK,,,CBW,MRP workfile,Stock,
+CCMACTION,Modification,Modification,CCMACT,Actions,Common Data,CCM
+CCMAPPROVER,Modification,Modification,CCMAPPR,Change request approvers,Common Data,CCM
+CCMCHGREQ,Modification,Modification,CCMCR,Change request,Common Data,CCM
+CCMCRDESC,,Modification,CCMCRD,Change request description,Common Data,CCM
+CCMCRNOTES,Modification,Modification,CCMCRN,Change request attachments,Common Data,CCM
+CCMCRORIGC,,Modification,CCMCROC,Customer originators,Common Data,CCM
+CCMCRORIGE,,Modification,CCMCROE,External originators,Common Data,CCM
+CCMCRORIGI,Modification,Modification,CCMCROI,Internal originators,Common Data,CCM
+CCMCRORIGS,,Modification,CCMCROS,Supplier originators,Common Data,CCM
+CCMIMPBOD,,Modification,CCMIBOD,Impact analysis-BOM lines,Common Data,CCM
+CCMIMPBOH,,Modification,CCMIBOH,Impact analysis-BOMs,Common Data,CCM
+CCMIMPFOD,Modification,Modification,CCMIFOD,Impact analysis-Forecasts,Common Data,CCM
+CCMIMPFOH,Modification,Modification,CCMIFOH,Impact analysis-Forecasts,Common Data,CCM
+CCMIMPITM,Modification,Modification,CCMIITM,Impact analysis-Stock,Common Data,CCM
+CCMIMPITMDET,,Modification,CCMITMD,Impact analysis-Stock sites,Common Data,CCM
+CCMIMPMFGD,,Modification,CCMMFGD,Impact analysis-Work orders,Common Data,CCM
+CCMIMPMFGH,,Modification,CCMMFGH,Impact analysis-Work orders,Common Data,CCM
+CCMIMPPOD,,Modification,CCMIPOD,Impact analysis-Purchases,Common Data,CCM
+CCMIMPPOH,,Modification,CCMIPOH,Impact analysis-Purchases,Common Data,CCM
+CCMIMPPRD,,Modification,CCMIPRD,Impact analysis-Purchase req,Common Data,CCM
+CCMIMPPRH,,Modification,CCMIPRH,Impact analysis-Purchase req,Supervisor,CCM
+CCMIMPROD,Modification,Modification,CCMROD,Impact analysis-Routing lines,Common Data,CCM
+CCMIMPROH,Modification,Modification,CCMROH,Impact analysis-Routing,Common Data,CCM
+CCMIMPSCD,,Modification,CCMSCD,Impact analysis-Subcontract,Common Data,CCM
+CCMIMPSCH,,Modification,CCMSCH,Impact analysis-Subcontract,Common Data,CCM
+CCMIMPSOD,,Modification,CCMSOD,Impact analysis-Sales orders,Common Data,CCM
+CCMIMPSOH,,Modification,CCMSOH,Impact analysis-Sales orders,Common Data,CCM
+CCMIMPSQD,,Modification,CCMISQD,Impact analysis-Sales quotes,Common Data,CCM
+CCMIMPSQH,,Modification,CCMISQH,Impact analysis-Sales quotes,Common Data,CCM
+CCMPLAND,,Modification,CCMPD,Change request plan detail,Common Data,CCM
+CCMPLANH,,Modification,CCMPH,Change request plan header,Common Data,CCM
+CCMREJDSC,,Modification,CCMREJ,Rejection description,Common Data,CCM
+CCMVCREXC,Deleted table,,CVE,CCM documents exceptions,Common Data,CCM
+CCNCOE,,,COE,Update coefficients,Fixed Assets,CCN
+CCNRPR,,,RPR,Provisions for renewal,Fixed Assets,CCN
+CDFCOD,,,CDC,Recoding : codes,Fixed Assets,
+CDFCPY,,,CDS,Recoding : select company,Fixed Assets,
+CDFFCY,,,CDY,Recoding : select site,Fixed Assets,
+CDFPAR,,,CDP,Recoding : parameter,Fixed Assets,
+CDIADSP,Modification,Modification,DAD,Dimension allocations,Financials,
+CERTIFCCS,New table,,CCS,Entertainment fund certificate,Common Data,FINTM
+CFGABQ,,,CAB,Simple calculation tables,Stock,CFG
+CFGDEF,,,CDF,Config. default values,Common Data,CFG
+CFGHIS,,,CFH,Configuration history,Stock,CFG
+CFGHISHEA,,,CHH,Configuration history header,Stock,CFG
+CFGLNK,,,CLN,Configurator symbol links,Stock,CFG
+CFGMAC,,,CFM,Standard processes,Stock,CFG
+CFGMEMO,,,CME,Configurator memo,Stock,CFG
+CFGMENLOC,,,CML,Local menus,Stock,CFG
+CFGOPTVAR,,,COV,Options / variants,Stock,CFG
+CFGQST,,,CQU,Configurator symbols,Stock,CFG
+CFGSCE,,,CSC,Configurator scenarios,Stock,CFG
+CFGSCELIN,,,CSL,Configurator scenario lines,Stock,CFG
+CFGSEL,,,CSE,Configurator selections,Stock,CFG
+CFGSHA,,,CSH,Shapes and patterns,Stock,CFG
+CFGTEX,,,CFT,Configurator work file,Stock,CFG
+CFODUDDATE,,,CFODD,Cash forecast management,A/P-A/R accounting,CFOM
+CFOMANMVT,,,CFOMM,Cash forecast movements,A/P-A/R accounting,CFOM
+CFOTYP,,,CFOT,Cash forecast types,A/P-A/R accounting,CFOM
+CGVDET,New table,New table,CGVD,Value change detail,Stock,
+CHEFWRK,New table,,CEW,Signature management,Common Data,FHRPA
+CHGVAL,New table,New table,CGV,Value change,Stock,
+CHQBOK,,,CHB,Checks table,A/P-A/R accounting,CHQ
+CHQDEJHEA,New table,,CQH,Chèques déjeuner,Human Resources administration,FCQH
+CHQDEJLIG,New table,,HRCQL,Chèques déjeuner,Human Resources administration,FCQH
+CHQNUM,,,CHN,Table of checks,A/P-A/R accounting,CHQ
+CIGDEF,,,CIG,IGS definition,Fixed Assets,CIG
+CIGFXDSOR,,,CIB,IGS adjustment : issued assets,Fixed Assets,CIG
+CIGREX,,,CIR,IGS parametern,Fixed Assets,CIG
+CIGREXSEL,,,CIS,IGS asset selection,Fixed Assets,CIG
+CLACTR,New table,Modification,HRCLC,Document clause,Common Data,FHRPA
+CLASSCONV,New table,Modification,HRCCV,Collective agreement classification,Common Data,FHRPA
+CMARKETING,,,CMG,Marketing campaign,CRM activities,
+CNGCPY,New table,New table,CNG,Annual leave periods,Human Resources administration,
+CNGEMP,New table,New table,CNE,Annual leave by employee,Human Resources administration,
+CNSSII,New table,New table,CSII,SII inquiry,Common Data,KSP
+COFAWRK,,,CAW,Certificate of analysis,Sales,
+COMPANY,Modification,Modification,CPY,Company,Supervisor,
+COMPETENCE,New table,Modification,CPC,Skills,Common Data,FHRPA
+COMPETENCED,New table,,CPD,Skills,Common Data,FHRPA
+COMPEVAL,New table,Modification,CEV,Interview campaign,Human Capital management,CAR
+COMREP,,,COM,Sales rep commissions,Common Data,KIT
+CONCESSION,,,CCN,Concession,Fixed Assets,CCN
+CONTACT,,,CNT,Contacts,Supervisor,
+CONTACTCRM,,,AIN,Contact relationships,Supervisor,
+CONTACTSA,New table,,CNTSA,Additional RSA fields,Common Data,FZAPH
+CONTACTXT,New table,New table,CNTXT,Contacts,Common Data,
+CONTAINER,Modification,,CTRH,Freight container,Purchasing,
+CONTAINERD,,,CTRD,Freight container detail,Purchasing,
+CONTAINERS,Modification,Modification,CTN,Containers,Manufacturing,MWM
+CONTAMT,,,CAM,Annual databases,Common Data,
+CONTAMTX,,,CAX,Annual databases,Common Data,
+CONTCARE,,,CCA,Maintenance plan,Common Data,
+CONTCOV,,,CCV,Service contracts coverage,Common Data,
+CONTEXT,Modification,Modification,CNX,Contexts,Fixed Assets,
+CONTIDX,,,CIX,Index values,Common Data,
+CONTITM,,,CIT,Covered product,Common Data,
+CONTPBL,,,CPL,Skills covered,Common Data,
+CONTQUAL,,,CQL,Quality constraints,Common Data,
+CONTREW,,,CRE,Contract renewals,Common Data,
+CONTREWX,,,CRX,Contract renewals,Common Data,
+CONTSERV,Modification,,CON,Service contract,Common Data,
+CONTSERVX,,,COX,Service contract,Common Data,
+CONTTEMPL,,,COT,Service contract template,Common Data,
+CORREP,,,COP,Representative in charge,CRM activities,
+CORRESPOND,,,COR,Outlook contact,CRM activities,
+COSTSTCB,,,STCB,Cost structure - schedules,Common Data,
+COSTSTCD,Modification,,STCD,Cost structure - documents,Purchasing,
+COSTSTCF,Modification,Modification,STCF,Cost structure - site,Common Data,
+COSTSTCH,,,STCH,Cost structure,Common Data,
+COSTSTCL,,,STCL,Cost structure - lines,Common Data,
+COSTSTCR,Modification,Modification,STCR,Cost matching,Purchasing,
+COTISATION,New table,,HRCOT,Contributions,Human Resources administration,
+COURISLIG,New table,Modification,CIL,Individual program lines,Human Capital management,FRT
+COURSEI,New table,,CSI,Individual program,Human Capital management,
+COURSEISA,New table,New table,CSISA,Individual program,Human Capital management,FKSSD
+COUT,New table,Modification,COU,Provisional cost,Human Capital management,
+COUTFIN,New table,,COF,Financial cost,Human Capital management,
+COUTREEL,New table,Modification,HRCOR,Actual cost,Human Capital management,
+CPCEMP,New table,New table,CPE,Skills by employee,Common Data,FHRPA
+CPTANALIN,,,CAL,Analytical accounting lines,Common Data,
+CPTFOOTLNK,,,CFL,Analytical accounting lines,Common Data,
+CRMCLOB,,,CRC,CRM text file,CRM activities,
+CRMTRS,,,CTR,Entry transaction CRM,CRM activities,
+CRMTRSVAL,,,CTV,CRM values entry transaction,CRM activities,
+CSFPARH,,,CWH,Header extraction parameters,Financials,CSFLO
+CSFPARL,,,CWL,Line extraction parameters,Financials,CSFLO
+CSFRES,,,CWR,Extraction result,Financials,
+CSFRESD,,,CSRD,Cash flow analysis,Financials,CSFLO
+CSFRESH,,,CSRH,Cash flow analysis,Financials,CSFLO
+CSFRESL,,,CSRL,Cash flow analysis,Financials,CSFLO
+CSHWRT,New table,New table,DSIIC,SII cash working table,Common Data,KSP
+CSICPC,New table,,CIC,Program skills,Human Capital management,FRT
+CSTAXUID,New table,New table,CSUID,TaxUID,Financials,DCL
+CSVATDAA,New table,New table,CSDAA,Online submission data,Financials,DCL
+CSVATMAP,New table,New table,CSMAP,Online submission mapping,Financials,DCL
+CSVATMAPD,New table,New table,CSMAPD,Online submission mapping,Financials,DCL
+CTRLNIVW,,,CNW,Lev. control workbench,Common Data,
+CTRUKIRT,New table,New table,UKIRT,Additional fields,Common Data,FUKPH
+CTSWSP,New table,Modification,CTSW,Control system,Common Data,
+CUMUL,New table,Modification,CUM,Totals,Human Resources administration,
+CUNLISDET,Modification,Modification,CUD,Counts,Stock,
+CUNLISTE,Modification,,CUL,Count worksheets,Stock,
+CUNSERDET,New table,New table,CSD,Serial number counts,Stock,
+CUNSESSION,Modification,,CUN,Stock count session,Stock,
+DADCPY,,,DCP,DASD company,Financials,DAS
+DADDNA,New table,,DNA,DNA employees,Human Resources administration,
+DADDNA2,New table,,DNB,DNA Premiums,Human Resources administration,
+DADDNA3,New table,,DNC,DNA Monthly allowances,Human Resources administration,
+DADDNA4,New table,,DND,DNA Notice,Human Resources administration,
+DADDNA5,New table,,DNE,DNA Allowances,Human Resources administration,
+DADDNA6,New table,,DNF,DNA Working hours,Human Resources administration,
+DADDNA7,New table,,DNG,DNA Back pay paid,Human Resources administration,
+DADDNA8,New table,,DNH,DNA Entertainment remuneration,Human Resources administration,FINTM
+DADEMP,New table,,HRDAE,DADS-U employees,Human Resources administration,
+DADEMP10,New table,,DAL,GPEC DADS-U allowances,Human Resources administration,
+DADEMP11,New table,,DAM,Overtime DADS-U,Human Resources administration,
+DADEMP12,New table,,DAQ,DADS-U beneficiaries welfare,Human Resources administration,
+DADEMP121,New table,,DQE,DADS-U welfare,Human Resources administration,
+DADEMP2,New table,,DAS,DADS-U employees,Human Resources administration,
+DADEMP3,New table,,DAP,DADS-U welfare,Human Resources administration,
+DADEMP31,New table,,DPE,DADS-U events welfare,Human Resources administration,
+DADEMP32,New table,,DPP,DADS-U salary welfare,Human Resources administration,
+DADEMP33,New table,,DMU,DADS-U comp. health ins.,Human Resources administration,
+DADEMP34,New table,,DME,DADS-U events comp. health ins.,Human Resources administration,
+DADEMP35,New table,,DMP,DADS-U remuneration comp. h. ins.,Human Resources administration,
+DADEMP4,New table,,DAC,DADS-U employees,Human Resources administration,
+DADEMP5,New table,,DAG,DAS-U savings,Human Resources administration,
+DADEMP6,New table,,DAH,DADS-U shares,Human Resources administration,
+DADEMP7,New table,,DAI,DADS-U benefits,Human Resources administration,
+DADEMP8,New table,,DAJ,DADS-U exemptions,Human Resources administration,
+DADEMP9,New table,,DAK,DADS-U allowances,Human Resources administration,
+DADFCY,Modification,Modification,DFC,DAS2 site,Financials,DAS
+DADFCY1,New table,,DFY,DADS site,Human Resources administration,
+DADFCY2,New table,,DFP,DADS site Welfare,Human Resources administration,
+DADFCY3,New table,,DFR,DADS site Retirement,Human Resources administration,
+DADFCY4,New table,,DFQ,DADS site Welfare,Human Resources administration,
+DATEVBPACC,Modification,Modification,DTB,DATEV BP assignment,Financials,DATEV
+DATEVCHRONO,,,DTC,,Financials,KDE
+DATEVGLACC,Modification,Modification,DTA,DATEV general acct. assignment,Financials,DATEV
+DATEVTAX,Modification,Modification,DTT,DATEV tax code assignment,Financials,DATEV
+DCLCUSVATBE,,,DLCB,Annual customer listing,Financials,KBE
+DCLCUSVATBED,,,DLCBD,Annual customer listing,Financials,KBE
+DCLEECVATBE,,,DLEB,EU VAT statement (header),Financials,KBE
+DCLEECVATBED,,,DLEBD,EU VAT statement (detail),Financials,KBE
+DCLINVNX3,New table,New table,DSIII,SII buildings,Common Data,DSII
+DCLROE,New table,,LROE,240 Spanish form,Common Data,DLROE
+DCLROEXT,New table,New table,LROEXT,240 Spanish form external data,Common Data,FAL
+DCLROEXTC,New table,New table,LROEXC,240 Spanish form cadaster data,Common Data,FAL
+DCLSII,New table,New table,DSII,SII monitor,Common Data,KSP
+DCLVAT,Modification,,DLV,Tax declaration on the debits,Financials,
+DCLVATAGRB,New table,New table,VATAGR,VAT aggregated books,Common Data,KSP
+DCLVATBEL,Deleted table,,DLVB,Belgian VAT header,Financials,KBE
+DCLVATBELD,Deleted table,,DLVBD,VAT detail,Supervisor,
+DCLVATBOXDBD,New table,Modification,DLVBD,VAT detail,Financials,DCL
+DCLVATBOXH,New table,,DLVB,VAT header,Financials,DCL
+DCLVATBOXPYD,New table,Modification,DLVBP,VAT detail,Financials,DCL
+DCLVATITA,,,DVI,Italian VAT detail declaration,Financials,KIT
+DCLVATITA2,,,DV2,Italian VAT total declaration,Financials,KIT
+DCLVATITA3,,,DV3,Annual italian VAT declaration,Financials,KIT
+DCLVATPAY,,,DVP,Tax declaration / collection,Financials,
+DCLVATPORB,Modification,Modification,DVPB,VAT base information,Financials,KPO
+DCLVATPORF,,,DVPF,VAT declaration fields,Financials,KPO
+DCLVATPORH,Modification,Modification,DVPH,VAT declaration,Financials,KPO
+DCLVATPORL,,,DVPL,VAT declaration lines,Financials,KPO
+DCLVATPORP,,,DVPP,VAT parameters,Financials,KPO
+DCLVATPORT,Modification,,DVPT,Taxes,Financials,KPO
+DCLVATSPA,Modification,Modification,DVS,Tax working table (SPA),Financials,KSP
+DEB,Modification,Modification,DEB,EU exchange declaration,Common Data,DEB
+DEBPAR,,,DER,Intrastat computation parameters,Common Data,DEB
+DEBREGNAT,,,DRN,Movement rule and nature,Common Data,DEB
+Dec2483,New table,,DEC,2483 declaration,Human Capital management,
+DECAT,New table,,DLA,WI declaration,Common Data,FHRPA
+DECCHARGE,New table,Modification,DCH,Charge declarations,Human Resources administration,
+DEFVAL,,,DVA,Complex default values,Common Data,
+DEMANDE,New table,Modification,DEM,Training request,Human Capital management,
+DEMCONGE,New table,New table,DCG,Holiday requests,Human Resources administration,
+DEMLIG,New table,Modification,DML,Lines of training requests,Human Capital management,
+DEMSPLITS,New table,New table,DCGSP,Leave sub type splits,Human Resources administration,
+DEPREC,Modification,Modification,DEP,Charge,Fixed Assets,
+DEPRECARC,,,DEA,Charge archive,Fixed Assets,
+DEPSIMU,Modification,Modification,DPS,Charge,Fixed Assets,
+DIAHOU,,,DIH,Time table schemas,Common Data,
+DICODAD,New table,Modification,DDA,DADS-U field dictionary,Human Resources administration,POFR
+DICODSN,New table,New table,DSN,DSN field dictionary,Human Resources administration,KFR
+DICOEMP,New table,,DIC,Employee field dictionary,Common Data,FHRPA
+DIETRS,Modification,,DTR,Analytical entry transaction,Common Data,
+DIETRSXX,,,DTX,Analytical entry transaction,Common Data,
+DKSDATA,Modification,,DKD,Electronic signatures,Common Data,DKS
+DKSDATAFRA,,,DKF,Electronic signatures,Common Data,DSFR
+DKSDATAPOR,New table,,DKP,Electronic signatures,Common Data,KPO
+DKSJAV,,,DKJ,Connection parameters,Common Data,DKS
+DKSKEY,,,DKK,Key management,Common Data,
+DKSLOG,,,DKL,Signature log,Common Data,DKS
+DMWBPREXC,New table,,DMWBPE,Waste disposal exceptions,Common Data,DMW
+DMWPAORD,New table,,DMWPAOR,Waste disposal management,Common Data,DMW
+DMWPRODPACKD,New table,,DMWPPAD,Product packaging assignment,Common Data,DMW
+DMWPRODPACKH,New table,,DMWPPAH,Product packaging assignment,Common Data,DMW
+DMWQTY,New table,,DMWQTY,Waste disposal quantity,Common Data,DMW
+DMWQUOTAD,New table,Modification,DMWQUOD,Waste management quota,Common Data,DMW
+DMWQUOTAH,New table,,DMWQUOH,Waste management quota,Common Data,DMW
+DMWSCHEME,New table,,DMWSC,Waste disposal scheme,Common Data,DMW
+DMWWEIGHT,New table,,DMWWEI,Waste disposal weight,Common Data,DMW
+DNODEBNOT,New table,New table,DNO,Interest notes,A/P-A/R accounting,
+DOCSIINX3,New table,New table,DSIID,SII external documents,Common Data,DSII
+DOOBPCINT,,,DBI,Internal customers,Common Data,
+DOOBPCLNK,,,DBL,Order-giver association,Help Desk,
+DPRMOD,,,DPM,Depreciation methods,Fixed Assets,
+DPRMODOPT,,,DMO,Depreciation method option,Fixed Assets,
+DPRMODRAT,,,DMR,Depreciation method rate,Fixed Assets,
+DROITVOTE,New table,Modification,DVT,Voting rights,Common Data,FFRPH
+DUCS0,New table,,DCS,DUCS,Human Resources administration,
+DUCS1,New table,,DCL,DUCS,Human Resources administration,
+DUCS2,New table,,DCT,DUCS Transport,Human Resources administration,
+DUCS3,New table,,DCX,DUCS Transport tax,Human Resources administration,
+DUDLNK,Modification,Modification,DLN,Open item links,Financials,WTHMG
+DUEEMP,New table,Modification,DUE,DUE extraction,Common Data,FFRPH
+ECCNEND,,,E52,Evt - concession end,Fixed Assets,CCN
+ECCNREV,,,E51,Evt - concession add. clause,Fixed Assets,CCN
+ECCSTA,,,ECS,Major version statuses,Common Data,
+ECCVAL,,,EVL,Versions,Common Data,
+EDIBPRCPY,Modification,,EBC,EDI flows by BP/company,Common Data,EDIX3
+EDIBPRCPYD,Modification,Modification,EBCD,EDI flows by BP/company,Common Data,EDIX3
+EDIBPRPAR,Modification,,EBP,EDI partners by BP,Common Data,EDIX3
+EDICAT,Modification,Modification,ECA,EDI category,Common Data,EDIX3
+EDICATD,,,ECAD,EDI category (filters),Common Data,EDIX3
+EDICATK,,,ECAK,EDI category (authorizations),Common Data,EDIX3
+EDICATL,Modification,,ECAL,EDI category (legislations),Common Data,EDIX3
+EDICATREF,New table,,ECR,Category authorization ref.,Common Data,EDIX3
+EDICPYPAR,Modification,,ECP,EDI partners by company,Common Data,EDIX3
+EDICPYPARD,New table,,ECPD,EDI partners by company,Common Data,EDIX3
+EDICPYPARFLO,New table,New table,ECPDF,EDI flow by company,Common Data,EDIX3
+EDIDEB,New table,New table,EDB,EU exchange declaration,Common Data,EDIDB
+EDIFCYPAR,Modification,,EFP,EDI partner by site,Common Data,EDIX3
+EDIFLO,,,EFL,Flow,Common Data,EDIX3
+EDIFLOA,New table,,EFLA,Attachment,Common Data,EDIX3
+EDIFLOAP,New table,,EFLAP,Parameters,Common Data,EDIX3
+EDIFLOD,Modification,,EFLD,Flow detail,Common Data,EDIX3
+EDIFRM,,,EDM,Formulas,A/P-A/R accounting,
+EDIMSG,,,EMS,Message mapping,Common Data,EDIX3
+EDIMSGA,,,EMSA,Inbound authorizations,Common Data,EDIX3
+EDIMSGD,,,EMSD,Message mapping detail,Common Data,EDIX3
+EDIPAR,,,EDP,Message setup,A/P-A/R accounting,
+EDIPARTNER,,,EPR,EDI partners,Common Data,EDIX3
+EDIPARTNERD,Modification,Modification,EPRD,EDI partners,Common Data,EDIX3
+EDIPTC,,,EPT,Protocol,Common Data,EDIX3
+EDIPTCD,Modification,Modification,EPTD,Protocol detail,Common Data,EDIX3
+EDIPTCM,New table,,EPTM,Protocol detail,Common Data,EDIX3
+EDIRUN,Modification,Modification,EDR,Process launch,Common Data,EDIX3
+EDIRUND,,,EDRD,Process launch,Common Data,EDIX3
+EDISEG,,,EDS,Segments,A/P-A/R accounting,
+EDISEQFIL,,,ESF,Sequential file,Common Data,EDIX3
+EDISEQFILD,,,ESFD,Sequential file detail,Common Data,EDIX3
+EDISEQFILF,,,ESFF,Sequential files,Common Data,EDIX3
+EDISTO,,,EST,Temp storage space,Common Data,EDIX3
+EDISTOC,,,ESTC,Text file (clob),Common Data,EDIX3
+EDISTOE,,,ESTE,Events,Common Data,EDIX3
+EDISTOF,,,ESTF,Flow detail,Common Data,EDIX3
+EDISTOJ,,,ESTJ,Error,Common Data,EDIX3
+EDISTOU,,,ESTU,Storage,Common Data,EDIX3
+EDITMPDOC,Modification,,ETC,Documents,Common Data,EDIX3
+EDITMPLOG,,,EDL,Log,Common Data,EDIX3
+EDITRBK,,,EBK,Banking reconciliation report,A/P-A/R accounting,
+EDITRKDOC,,,EDK,Documents,Common Data,EDIX3
+EDIXMLFIL,New table,,EXF,XML file,Common Data,EDIX3
+EDIXMLFILD,New table,Modification,EXFD,XML file detail,Common Data,EDIX3
+EDIXMLFILF,New table,,EXFF,XML files,Common Data,EDIX3
+EDIXMLFILP,New table,Modification,EXFP,XML file detail,Common Data,EDIX3
+EDIXMLFILXSD,New table,,EXSD,XSD files,Common Data,EDIX3
+EDIXSDUPL,New table,,EXU,EDI upload XSD file,Common Data,EDIX3
+EDIXSDUPLFIL,,Deleted table,EXUF,File,Common Data,FAL
+EDIXSDUPLLOB,New table,Modification,EXUL,Lob field,Common Data,EDIX3
+EDTDADSU,,,EDU,DADSU file print,Financials,DAS
+EDTTDS,,,ETD,TDS file report,Financials,DAS
+EECBIDWL,New table,,EWL,Whitelist status,Common Data,KPL
+EFASACT,,,E21,Evt - update,Fixed Assets,
+EFASAFFAGE,,,E22,Evt - analytical/geo transfer,Fixed Assets,
+EFASCCN,,,E53,Evt - concession attribute update,Fixed Assets,CCN
+EFASCCNAGE,,,E34,Evt - provision transfer,Fixed Assets,CCN
+EFASCCNCNL,,,E32,Evt - asset deletion,Fixed Assets,CCN
+EFASCCNISS,,,E33,Evt - asset disposal provision,Fixed Assets,CCN
+EFASCFS,,,E38,Evt -Classification for sale,Fixed Assets,
+EFASCHGIMP,,,E23,Evt - change acct allocation,Fixed Assets,
+EFASCHGPPL,,,E37,Evt-Production plan change,Fixed Assets,
+EFASCNL,,,E30,Evt - asset deletion,Fixed Assets,
+EFASCRT,,,E24,Evt - asset creation,Fixed Assets,
+EFASIML,,,E25,Evt - impairment loss,Fixed Assets,
+EFASISS,,,E26,Evt - asset disposal,Fixed Assets,
+EFASLNKCNL,,,E36,Evt - asset deletion,Fixed Assets,LNK
+EFASMTC,,,E27,Evt - method change,Fixed Assets,
+EFASPLMDR,,,K33,Evt - Improvement,Fixed Assets,KPL
+EFASREEVAL,Modification,,E28,Evt - revaluation,Fixed Assets,
+EFASRNW,,,E31,Evt- renewal,Fixed Assets,CCN
+EFASRNWCNL,,,E35,Evt - asset deletion,Fixed Assets,CCN
+EFASRUCRT,,,K24,Evt - asset creation,Fixed Assets,KRU
+EFASRURST,,,K32,Evt - restart depreciation,Fixed Assets,
+EFASRUSTP,,,K31,Evt - stop depreciation,Fixed Assets,
+EFASVATREG,,,E29,Evt - adjust. asset sales tax,Fixed Assets,
+EGRTCASH,,,E61,Evt - subsidy transfer,Fixed Assets,GRT
+EGRTCNL,,,E64,Evt - Subsidy deletion,Fixed Assets,GRT
+EGRTCRB,,,E63,Evt- subsidy reintegration,Fixed Assets,GRT
+EGRTCRT,,,E62,Evt - subsidy creation,Fixed Assets,GRT
+EINVMAP,New table,New table,EINVMAP,Mapping,Common Data,
+EINVMAPD,New table,New table,EINVMD,Details,Common Data,
+EINVMAPNODES,New table,New table,EINVMND,Node,Common Data,EINV
+EINVMAPXSD,New table,New table,EINVMXS,XSD files,Common Data,
+EINVOUT,New table,New table,EOUT,Customer electronic invoices,Common Data,EINV
+EINVWK,New table,New table,EIVW,eInvoicing working table,Common Data,EINV
+EINVWKD,New table,New table,EIVWD,eInvoicing working table,Common Data,EINV
+ELEAACTU,Modification,,E41,Evt - contract actualization,Fixed Assets,LEA
+ELEACNL,Modification,,E47,Evt - contract deletion,Fixed Assets,LEA
+ELEACRT,Modification,,E42,Evt - contract creation,Fixed Assets,LEA
+ELEAEND,Modification,,E43,Evt - end of contract,Fixed Assets,LEA
+ELEAPAY,Modification,,E44,Evt - contract fee,Fixed Assets,LEA
+ELEARPU,Modification,,E45,Evt - purchase option exercise,Fixed Assets,LEA
+ELEATRM,Modification,,E46,Evt - contract termination,Fixed Assets,LEA
+ELOFCIM,,,E01,Evt - modify expense account,Fixed Assets,
+ELOFCNL,,,E03,Evt - expense deletion,Fixed Assets,
+ELOFVATREG,,,E02,Evt - sales tax adjust expense,Fixed Assets,
+EMODELE,,,E00,Evt - template table,Fixed Assets,
+EMPCTR,New table,Modification,ECT,Current contract,Common Data,FHRPA
+EMPCTRUKIRT,New table,New table,CTRUR,Additional fields,Common Data,PAPI
+EMPCTRUKISTG,New table,New table,CTRUSG,Additional fields,Common Data,PAPI
+EMPLOAD,New table,Modification,AD,Administrative information,Common Data,FHRPA
+EMPLOCHD,New table,Modification,CHD,Children,Common Data,FHRPA
+EMPLOCPT,New table,,CPT,Accounting information,Common Data,FHRPA
+EMPLOCTR,New table,Modification,HRCTR,Contract,Common Data,FHRPA
+EMPLOCTRAFR,New table,Modification,CTRAFR,Additional Africa fields,Common Data,FAFPH
+EMPLOCTRAUS,New table,,CTRAUS,Additional Australia fields,Common Data,FAUPH
+EMPLOCTRCPT,New table,,CPR,Contract accounting information,Common Data,FHRPA
+EMPLOCTREMP,New table,New table,CTE,Contract by employee,Human Resources administration,
+EMPLOCTRFRA,New table,Modification,CTRFRA,Additional France fields,Common Data,FFRPH
+EMPLOCTRMID,New table,Modification,CTRMID,Additional Middle east fields,Common Data,KMIEA
+EMPLOCTRNA,New table,New table,CTRNA,Additional fields,Common Data,FNAPH
+EMPLOCTRPEN,New table,,CPN,Position hazardous cond in cont,Common Data,FFRPH
+EMPLOCTRPOR,New table,Modification,CTRPO,Contract,Common Data,FPAPH
+EMPLOCTRSA,New table,Modification,CTRSA,Additional RSA fields,Common Data,FZAPH
+EMPLOCTRSTG,New table,New table,HRCSG,Contract,Common Data,PAPI
+EMPLOCTRUKI,New table,New table,CTRUKI,Additional fields,Common Data,FUKPH
+EMPLOCUM,New table,,EPC,Totals,Common Data,FHRPA
+EMPLODIRNUM,New table,Modification,HREDM,Directive numbers,Human Resources administration,KZA
+EMPLOELC,New table,,ELC,Electoral lists,Common Data,FHRPA
+EMPLOEXM,New table,,HREXM,Degrees,Common Data,FHRPA
+EMPLOEXN,New table,,EXN,Expense notes,Human Resources administration,
+EMPLOHAB,New table,Modification,HAB,Authorizations,Common Data,FHRPA
+EMPLOID,New table,Modification,ID,Civil status,Common Data,FHRPA
+EMPLOIDAFR,New table,Modification,EAF,Additional Africa fields,Common Data,FAFPH
+EMPLOIDAFRRT,New table,New table,EAFR,Additional Africa fields,Common Data,FAFPH
+EMPLOIDAUS,New table,,EAUS,Additional Australia fields,Common Data,FAUPH
+EMPLOIDESS,New table,New table,IDES,Civil status,Common Data,HRESS
+EMPLOIDMID,New table,Modification,EMID,Additional Middle east fields,Common Data,KMIEA
+EMPLOIDMIDRT,New table,New table,EMIR,Additional Middle east fields,Common Data,KMIEA
+EMPLOIDNA,New table,New table,IDNA,Additional fields,Common Data,FNAPH
+EMPLOIDPOR,New table,Modification,IDPOR,Civil status,Common Data,FPAPH
+EMPLOIDRT,New table,New table,IDRT,Civil status,Common Data,FHRPA
+EMPLOIDSA,New table,Modification,ESA,Additional RSA fields,Common Data,FHRPA
+EMPLOIDSART,New table,New table,ESAR,Additional RSA fields,Common Data,FHRPA
+EMPLOIDSTG,New table,New table,IDSG,Civil status,Common Data,PAPI
+EMPLOIDUKI,New table,New table,IDUKI,Additional fields,Common Data,FUKPH
+EMPLOJNT,New table,Modification,JNT,Spouses (>1),Common Data,FHRPA
+EMPLOMED,New table,Modification,MED,Medical examinations,Common Data,FHRPA
+EMPLOPAR,New table,,PAR,Deferred-based,Common Data,FHRPA
+EMPLOPAS,New table,New table,EPA,WHT customized rates,Human Resources administration,FPAY
+EMPLOPOT,New table,,EPO,Position,Common Data,FHRPA
+EMPLORIB,New table,Modification,RIB,Bank ID statement,Common Data,FHRPA
+EMPLORIBSTG,New table,New table,RIBSG,Bank ID statement,Common Data,PAPI
+EMPLOSAL,New table,,SAL,Salary gains,Common Data,FHRPA
+EMPLOTAXAFR,New table,New table,ETA,Tax info,Human Resources administration,KAFR
+EMPLOTAXREC,New table,Modification,ETR,Tax info,Human Resources administration,FZAPH
+EMPLOTRY,New table,,TRY,Professional experience,Common Data,FHRPA
+EMPSBD,New table,Modification,ESB,Subordinate,Common Data,FHRPA
+EMPUKISTG,New table,New table,IDUSG,Additional fields,Common Data,PAPI
+ENTITE,,,ENT,Entity,Financials,GDD
+ENVELOPPE,,,ENV,Envelope,Financials,GDD
+ENVFIY,,,ENF,Distribute envelope/fiscal year,Financials,GDD
+EPAADDPAY,New table,New table,EPAADP,Additional payments,Human Resources administration,EPA
+EPADETAILS,New table,New table,EPADET,External payments,Human Resources administration,EPA
+EPAGENPAY,New table,New table,EPAGPP,Generate external payments,Human Resources administration,EPA
+EPAHEADER,New table,New table,EPAHEA,External payments,Human Resources administration,EPA
+EPARAT,New table,New table,EPARAT,Standard rates,Human Resources administration,EPA
+EPARATD,New table,New table,EPARATD,External payment rates,Human Resources administration,EPA
+EPASETVAR,New table,New table,EPASLV,Variables,Human Resources administration,EPA
+EPASUSPEND,New table,New table,EPASPD,Suspension,Human Resources administration,EPA
+EPATYP,New table,New table,EPATYP,Type,Human Resources administration,EPA
+EPHYAFFGEO,,,E82,Evt - Phys. asset geo transfer,Fixed Assets,PHY
+EPHYCRT,,,E81,Evt - Physical asset creation,Fixed Assets,PHY
+EPHYISS,,,E83,Evt - Physical asset disposal,Fixed Assets,PHY
+ESCSRE,,,ECE,Escalation history,Common Data,
+ESINVD,New table,New table,ESID,Invoice lines,Common Data,EINV
+ESINVH,New table,New table,ESIH,Invoices,Common Data,EINV
+ESINVNOT,New table,New table,ESIN,Invoice notes,Common Data,EINV
+ESINVTRDPTY,New table,New table,ESI3P,Invoice third parties,Common Data,EINV
+ESLSALTYP,New table,New table,ESTY,EC sales types,Financials,ESL
+ESLSALTYPD,New table,New table,ESTYD,EC sales types,Financials,ESL
+ESLTYPASS,New table,New table,ESTA,Assignment by EC sales types,Financials,ESL
+ESLTYPASSD,New table,New table,ESTAD,Assignment by EC sales types,Financials,ESL
+ESSDCG,New table,New table,ESDCG,Holiday requests,Human Resources administration,
+ESSDOCBLB,New table,New table,ESDL,ESS Document generation,Human Resources administration,HRESS
+ESSDOCGEN,New table,New table,ESDG,ESS Document generation,Human Resources administration,HRESS
+ESSDOCGENDET,New table,New table,ESDGD,ESS Document generation,Human Resources administration,HRESS
+ESSDOCTMP,New table,New table,ESSDT,ESS Document generation,Human Resources administration,HRESS
+ESSEMLBLB,New table,New table,ESBL,ESS payslip generation,Human Resources administration,HRESS
+ESSEMLTMP,New table,New table,ESSMT,Employee values,Human Resources administration,HRESS
+ESSMGRLNK,New table,New table,ESML,Manager link,Human Resources administration,HRESS
+ESSMGRLNKDET,New table,New table,ESMLD,Detail,Human Resources administration,HRESS
+ESSTAXBLB,New table,New table,ESTL,ESS Document generation,Human Resources administration,HRESS
+ESSUSRTRK,New table,New table,ESUT,Users,Human Resources administration,HRESS
+ESSWRKAFR,New table,New table,EWAF,Additional Africa fields,Common Data,HRESS
+ESSWRKCHD,New table,New table,EWCHD,Children,Common Data,HRESS
+ESSWRKEMP,New table,New table,EWID,Civil status,Common Data,HRESS
+ESSWRKEXM,New table,New table,EWEXM,Degrees,Common Data,HRESS
+ESSWRKFLWDET,New table,New table,ESWD,Workflow,Common Data,HRESS
+ESSWRKJNT,New table,New table,EWJNT,Spouses (>1),Common Data,HRESS
+ESSWRKMID,New table,New table,EWMID,Additional Middle east fields,Common Data,KMIEA
+ESSWRKPOR,New table,New table,EWPOR,Civil status,Common Data,HRESS
+ESSWRKRIB,New table,New table,EWRB,Bank ID statement,Common Data,HRESS
+ESSWRKSA,New table,New table,EWSA,Additional RSA fields,Common Data,HRESS
+ESSWRKTRY,New table,New table,EWTRY,Professional experience,Common Data,HRESS
+ESSWRKUKI,New table,New table,EWUKI,Additional fields,Common Data,HRESS
+EURSRVDCL,,,ESH,European services declaration,Financials,ESD
+EURSRVDCLD,,,ESD,European services declaration,Financials,ESD
+EVAEMP,New table,Modification,EVE,Interview,Human Capital management,CAR
+EVAEMPACT,New table,New table,EVI,Action interview,Human Capital management,CAR
+EVAEMPCPC,New table,Modification,EVC,Interview skills,Human Capital management,CAR
+EVAEMPDET,New table,Modification,EVD,Interview performance,Human Capital management,CAR
+EVAEMPIND,New table,New table,EVIN,Responsibility indicator,Human Capital management,CAR
+EVAEMPMIS,New table,Modification,EVM,Mission interview,Human Capital management,
+EVCRESULT,New table,Modification,EVCR,EU VAT ID check result,Common Data,
+EVENTTRNP,Modification,,EVT,Transport incident,Purchasing,
+EXCEPTC,New table,Modification,ECC,Calculation exceptions,Human Resources administration,
+EXCEPTD,New table,Modification,ECD,Calculation exceptions,Human Resources administration,
+EXCEPTH,New table,Modification,ECH,Calculation exceptions,Human Resources administration,
+EXCEPTV,New table,Modification,ECV,Calculation exceptions,Human Resources administration,
+EXKWORD,,,EKW,Existing keywords,Help Desk,
+EXOPAY,New table,Modification,EXO,Pay exemption,Human Resources administration,
+EXPARAM,,,EXM,Parameters,A/P-A/R accounting,
+EXPENSES,Modification,,EXS,Expense,A/P-A/R accounting,
+EXPENSESH,,,EXH,Expense,A/P-A/R accounting,
+EXPENSESHEA,New table,New table,EXSH,Expense notes,Human Resources administration,HRNOF
+EXTRMPRODUCT,New table,New table,EXTRMPR,Showcase item,Common Data,
+EXTRMPROVIDE,New table,New table,EXTRMPV,Showcase supplier,Common Data,
+FACGROUP,,,FGR,Site grouping,Supervisor,
+FACILITY,Modification,Modification,FCY,Sites,Supervisor,
+FACTOR,Modification,,FCT,Factors,Common Data,
+FAEPAR,,,FAE,ACCENTFIL setup,Financials,KFR
+FAMPB,,,PBL,Skill group,Common Data,
+FAMPBQUE,,,PBQ,Corresponding queues,Help Desk,
+FAMPBREP,,,PBR,Qualified employees,Help Desk,
+FASFAM,,,FAM,Asset groups,Fixed Assets,
+FIEDIC,,,FID,Criteria of target,CRM activities,
+FIEDICFIE,,,FDF,Target criteria fields,CRM activities,
+FIFOCONVAR,New table,New table,FIFCV,FIFO rate calculation,Financials,FIFRC
+FIFOCONVARD,New table,New table,FIFCVD,FIFO rate calculation,Financials,FIFRC
+FILEDIH,New table,Modification,FEH,EDI file structure,Common Data,FFRPH
+FILEDIL,New table,Modification,FEL,List of EDI values,Common Data,FFRPH
+FILTDS,,,FTD,File structure DADS-U,Financials,DAS
+FILTDSLIS,New table,,FTL,N4DS file structure list,Human Resources administration,
+FILTDSMSG,New table,,FTM,N4DS file structure list,Human Resources administration,
+FISCALYEAR,,,FIY,Fiscal years,Common Data,
+FISCYEAR,,,FIS,Fiscal year,Fixed Assets,
+FLXJOB,New table,,FJH,Business process,Common Data,FHRPA
+FLXJOBRSP,New table,,FJR,Workflow - Managers,Common Data,FHRPA
+FONDS,New table,,FDS,Funds,Human Resources administration,
+FORCTR,New table,,FOC,Arrival document formula,Common Data,FHRPA
+FRECST,,,FCS,Cost,Common Data,
+FREFLD,,,FRF,Free fields,Fixed Assets,
+FRTCLS,,,FRT,Freight class,Common Data,
+FRTCOMCOD,,,FCC,Freight commodity code,Common Data,
+FUP,Modification,,FUP,Reminders conducted,A/P-A/R accounting,FUP
+FUPGRP,Modification,,FGP,Reminder groups,A/P-A/R accounting,FUP
+FUPTXT,,,FPT,Reminder texts,A/P-A/R accounting,FUP
+FXBLOB,,,FBB,Special folders,Fixed Assets,
+FXDASSETS,Modification,Modification,FAS,Assets,Fixed Assets,
+FXDLIFL,,,FLU,Track funds,Fixed Assets,
+FXDLOFGRP,,,LFG,Grouping of expenses,Fixed Assets,
+FXDMVT,Modification,,FXM,Movement import - Header,Fixed Assets,
+FXDMVTD,,,FXD,Movement import - Detail,Fixed Assets,
+GACCAUZ,,,GCA,Compatible accounts,Common Data,KRU
+GACCCLS,,,CLS,Account classes,Common Data,
+GACCCODE,,,CAC,Accounting codes,Common Data,
+GACCCODLIG,Modification,,CCL,Accounting code lines,Common Data,
+GACCDEF,,,GCF,Default accounts,Common Data,
+GACCDENCOD,,,CDA,Payment attribute,A/P-A/R accounting,
+GACCDIM,,,GCD,Default dimension types,Common Data,
+GACCDUDATE,Modification,Modification,DUD,Open items,Common Data,
+GACCENTRY,Modification,Modification,HAE,Accounting entries,Financials,
+GACCENTRYA,,,DAA,Analytical accounting line,Financials,
+GACCENTRYD,Modification,Modification,DAE,Accounting entry lines,Financials,
+GACCFIX,Modification,Modification,GAF,Recurring entries,Financials,
+GACCFIYENA,,,FYA,C/fwd. temporary file,Financials,
+GACCFIYEND,,,FYD,C/fwd. temporary file,Financials,
+GACCGRUPYM,,,GRY,Account groups,Common Data,
+GACCINTCPY,,,GIC,Intercompany journal entry,Financials,INTCO
+GACCINTCPYA,,,GIA,Intercompany journal ana lines,Financials,INTCO
+GACCINTCPYD,,,GID,Intercompany journal ent lines,Financials,INTCO
+GACCOUNT,Modification,Modification,GAC,Accounts,Common Data,
+GACCOUNTA,New table,,GAA,Accounts (additional table),Common Data,
+GACCPYM,,,GYM,Account pyramids,Common Data,
+GACCPYMLIK,Modification,Modification,GYK,Account pyramid links,Common Data,
+GACCPYMPRT,Modification,Modification,GYP,Print pyramids,Common Data,
+GACCTMP,Modification,Modification,HAT,Accounting entries,Common Data,
+GACCTMPA,,,AAT,Analytical accounting line,Common Data,
+GACCTMPD,Modification,Modification,DAT,Accounting entry lines,Common Data,
+GACM,,,GCM,Account core model,Common Data,
+GAJOUSTA,,,JST,Journals - reports per period,Financials,
+GAPARBSE,Modification,Modification,PBS,Default reporting codes,Common Data,
+GAPARDUM,,,PDM,Account balance transfer,Financials,
+GAUTACE,,,GAU,Automatic journals,Common Data,
+GAUTACED,,,GAD,Automatic journals (lines),Common Data,
+GAUTACEF,,,GAG,Automatic journal formulas,Common Data,
+GAUTACEL,New table,New table,GALEG,Automatic journal legislation,Common Data,
+GAUTRCTMP,,,GTT,Temporary traceability table,Common Data,
+GAUTRCVCR,Modification,,GAT,Automatic journal traceability,Common Data,
+GBAGSCR,,,GBS,Aged balance screen,Financials,
+GCACCOA,,,GCO,Acct. code entry transactions,Common Data,
+GCCEGRUPYM,,,CRY,Group pyramid analysis,Common Data,
+GCCEPYM,,,CYM,Dimension pyramids,Common Data,
+GCCEPYMLIK,Modification,Modification,CYK,Dimension pyramid links,Common Data,
+GCCEPYMPRT,Modification,Modification,CYP,Print pyramids,Common Data,
+GCLCACEPAR,,,CLC,Calculated journal entries,Financials,
+GCOA,,,COA,Chart of accounts,Common Data,
+GCOMMIT,,,CMM,Commitments,Financials,
+GCOMMITD,,,CMD,Commitment details,Financials,
+GCOMMITX,,,CMX,Commitments (ref),Financials,
+GDIAACC,,,GDA,Account scheme header,Financials,
+GDIAACCD,,,GDC,Account scheme lines,Financials,
+GDIAENTRY,,,GDE,Entry transactions,Financials,
+GDIAENTRYD,,,GDD,Journal entry transactions,Financials,
+GDIE,Modification,,DIE,Dimension types,Common Data,
+GDPDUDUD,,,GDPDUD,Open items,Common Data,KDE
+GDUDSCR,,,GDS,Open item screens,A/P-A/R accounting,
+GENTLOT,,,LOT,Accounting journal batches,Financials,
+GENTLOTA,,,LOA,Analytical batch entry lines,Financials,
+GENTLOTD,,,LOD,General batch entry lines,Financials,
+GENTLOTH,,,LOH,Batch entry header,Financials,
+GFSATT,New table,New table,GFSATT,Attribute,Manufacturing,GFSA
+GFSATTVAL,New table,New table,GFSATTV,Attribute value,Manufacturing,GFSA
+GFSCALEXP,New table,New table,GFSCEP,Calendar exception,Manufacturing,
+GFSCUSFLDS,New table,New table,GFSCF,Custom fields,Manufacturing,
+GFSCUSVALS,New table,New table,GFSCV,Custom values,Manufacturing,
+GFSITFATTV,New table,New table,GFSIAV,Product-site attribute,Common Data,GFSA
+GFSITMATT,New table,New table,GFSIA,Product attribute,Common Data,GFSA
+GFSMRK,New table,New table,GFSMRK,Marker,Manufacturing,
+GFSOBJ,New table,New table,GFSOBJ,Objects,Manufacturing,
+GFSOPTLIN,New table,New table,GFSOL,Optimization matrix lines,Manufacturing,GFSA
+GFSOPTMAT,New table,New table,GFSOM,Optimization matrix,Manufacturing,GFSA
+GFSPIN,New table,New table,GFSPIN,Operation pin type,Manufacturing,
+GFSSETEXC,New table,New table,GFSSTE,Setup time exceptions,Manufacturing,GFSA
+GFSSETTIM,New table,New table,GFSST,Setup time matrix,Manufacturing,GFSA
+GFSTAG,New table,New table,GFSTAG,Tag,Manufacturing,
+GFUPSCR,,,GFP,Reminders screen,A/P-A/R accounting,FUP
+GGRILLE,New table,,RIL,Entry grid,Human Resources administration,
+GJOUCOA,,,JCO,Journals - Chart of accounts,Financials,
+GJOURNAL,Modification,,JOU,Journal codes,Financials,
+GLCONSO,,,GLC,Consolidation ledger,Financials,CSL
+GLED,Modification,,LED,Ledger,Common Data,
+GRANTS,,,GRT,Subsidies,Fixed Assets,GRT
+GRILLE,New table,,GRI,Entry grid,Human Resources administration,
+GRPACEMTC,,,GRM,Matching group entries,Common Data,
+GRPAUTACE,,,GRA,Automatic journal group,Common Data,
+GRPCPC,New table,,GCP,Group of skills,Common Data,FHRPA
+GRPCPCD,New table,,HRGCD,Skill set detail,Common Data,FHRPA
+GRPCUR,,,GCU,Currency groups,Financials,
+GRPDSP,,,GSP,Distribution groups,Financials,
+GRPSAC,,,GSC,Control groups,Financials,
+GSTDTL,New table,,GDL,GST detail,Financials,KAU
+GSTGRP,New table,,GSTGH,GST group header,Financials,KAU
+GSTGRPD,New table,,GSTGD,GST group details,Financials,KAU
+GSTHDR,New table,,GHR,GST header,Financials,KAU
+GSTPER,New table,,GSTPH,GST reporting period header,Financials,KAU
+GSTPERD,New table,,GSTPD,GST reporting period details,Financials,KAU
+GTABACC,,,GTC,Inquiry screens,Supervisor,
+GTABACC2,Modification,Modification,GT2,Account inquiries,Common Data,
+GTABACC3,,,GTC3,Balance graph,Financials,
+GTEGRP,New table,New table,GTEGH,Entry type groups,Financials,DCL
+GTEGRPD,New table,New table,GTEGD,Entry type groups,Financials,DCL
+GTMPMTC,,,GMT,Temporary matching table,Financials,
+GTYPACCENT,,,GTE,Document types,Common Data,
+GVARCODPAR,,,GVA,Parameters of variables,Common Data,
+GVARGAU,,,GVG,Automatic journal variables,Common Data,
+GVARPARGAU,,,GVP,Variables parameters,Common Data,
+GVARPARVAL,,,GVV,Parameter values,Common Data,
+HABCODPOR,New table,New table,HRHAB,Habilitation code,Common Data,FPAPH
+HANDLING,Modification,Modification,HSH,Stock process instruction,Manufacturing,MWM
+HANDLINGR,Modification,Modification,HSR,Container instruction,Manufacturing,MWM
+HD1CLOB,,,HD1,Service reqts text files,Common Data,
+HD2CLOB,,,HD2,Actions text files,Common Data,
+HD3CLOB,,,HD3,Solutions text files,Common Data,
+HD4CLOB,,,HD4,Commerl reports text files,Common Data,
+HD5CLOB,,,HD5,Marketing text files,Common Data,
+HD6CLOB,,,HD6,CRM mini text files,Common Data,
+HD7CLOB,,,HD7,Aft-ss srv cons txt files,Common Data,
+HD8CLOB,,,HD8,Clobs lead,CRM activities,
+HDKTASK,,,HDT,After-sales serv. consumption,Help Desk,
+HDKTASKINV,,,HDI,Consumptions to be invoiced,Help Desk,
+HDKTRS,,Modification,HTR,HDK entry transaction,Help Desk,
+HDKTRSVAL,,,HTV,HDK value entry transaction,Help Desk,
+HISCTR,New table,New table,HISC,History,Human Resources administration,HISCT
+HISPARMVT,New table,,HPM,Movement history,Human Resources administration,PAR
+HISPOA,New table,,HIP,Prepayment history,Human Resources administration,
+HISTAXSPA,,,HTS,Tax extraction history,Financials,KSP
+HISTOAMD,Modification,Modification,HAM,Amendment history,Financials,SDD
+HISTOCRM,,,HST,History,Common Data,
+HISTOCTX,New table,Modification,HIC,Archive context,Human Resources administration,HIC
+HISTODUD,,,HDU,Open item archive,A/P-A/R accounting,HDU
+HISTOMDT,Modification,Modification,HMDT,Payments made,Common Data,SDD
+HISTOOMM,,,HIM,Mailing history,Common Data,
+HISTOPAYE,New table,Modification,HSP,Payroll history,Human Resources administration,
+HISTOREGUL,New table,Modification,HRHSR,Payroll history,Human Resources administration,
+HLYDAY,New table,New table,HLY,Public holidays,Common Data,FHRPA
+HON281,Modification,Modification,HHO,281.5 fees (Belgium),Financials,BE281
+HON281D,,,DHO,281.5 fees details,Financials,BE281
+HONLIN,,,HLN,Fee lines,Financials,DAS
+HONPRV,Modification,Modification,PRV,Service suppliers,Financials,FEE2
+HOROITM,,,HOI,Time stamped articles,Common Data,
+HRAEDETAIL,New table,New table,HRAED,Attachable earnings detail,Human Resources administration,KUK
+HRAEHEADER,New table,New table,HRAEH,Attachable earnings header,Human Resources administration,KUK
+HRAESUSPEND,New table,New table,HRAES,Attachable earnings suspension,Human Resources administration,KUK
+HRAFRCLASS,New table,New table,HRAFRCL,African contr. classification,Common Data,FKSQS
+HRAFRCLSOLD,New table,New table,HRCLSO,African contr. classification,Common Data,FKSQS
+HRATTEARRAT,New table,New table,HRAER,AE deduction rate,Human Resources administration,KUK
+HRATTEARTYP,New table,New table,HRAET,Attachable earnings types,Human Resources administration,KUK
+HRCATACTION,New table,New table,HRCAN,Action category,Common Data,FHRPA
+HRCATCSP,New table,,HRCSP,Socio-professional category,Common Data,FHRPA
+HRCLLCVT,New table,Modification,HRCLV,Collective agreement,Common Data,FHRPA
+HRCOMPANYAFR,New table,Modification,CPYAFR,Company,Common Data,KAFR
+HRCOMPANYAUS,New table,New table,CPYAUS,Company,Common Data,FAUPH
+HRCOMPANYKSA,New table,Modification,CPYKSA,Company,Common Data,FZAPH
+HRCOMPANYMID,New table,New table,CPYMID,Company,Common Data,KMIEA
+HRCOMPANYNA,New table,New table,CPYNA,NA legal data,Common Data,FNAPH
+HRCOMPANYPO,New table,Modification,CPYPO,Company,Common Data,FPOPH
+HRCOMPANYUKI,New table,New table,CPYUKI,UK legal data,Common Data,FUKPH
+HRCPYREC,New table,New table,CPYREC,Company reconciliation report,Common Data,
+HRCPYRECPAY,New table,New table,CPYRECP,Company reconciliation report,Common Data,
+HRCPYRECPM,New table,New table,CPYRECM,Company reconciliation report,Common Data,
+HRCPYRECTERM,New table,New table,CPYRECT,Company reconciliation report,Common Data,
+HRCPYUKALL,New table,New table,CUAL,Company allowance,Common Data,KUK
+HRCPYUKCAR,New table,New table,CUCA,Cars / fuel benefits,Common Data,FUKPH
+HRCTRDOC,New table,Modification,HRDOC,Documents to generate,Common Data,FHRPA
+HRCTRGRD,New table,,HRCGD,Arrival reason,Common Data,FHRPA
+HRDCOMMIT,New table,New table,HRDCM,Committee members,Human Resources administration,DCP
+HRDECEXO,New table,New table,HRDEXO,Exemption declaration,Human Resources administration,KMA
+HRDESCTRCOD,New table,New table,HRDTD,Contribution contract description,Human Resources administration,KFR
+HRDESCTRCOT,New table,New table,HRDTC,Contribution contract description,Human Resources administration,KFR
+HRDRECOUR,New table,New table,HRDRR,Appeal,Human Resources administration,DCP
+HRDSANCHEAD,New table,New table,HRDSNH,Sanction header,Human Resources administration,DCP
+HRDSANCTRANS,New table,New table,HRDST,Sanction transgression,Human Resources administration,DCP
+HRDSANCWITN,New table,New table,HRDSW,Sanction witness,Human Resources administration,DCP
+HRDSCFCY,New table,New table,HRCFY,DSN site declaration,Human Resources administration,KFR
+HRDSCFCY2,New table,New table,HRCFP,DSN site welfare,Human Resources administration,KFR
+HRDSCFCY3,New table,New table,HRCFV,DSN site payments,Human Resources administration,KFR
+HRDSCFCY4,New table,New table,HRCFH,DSN site contributions,Human Resources administration,KFR
+HRDSCFCY5,New table,New table,HRCFD,DSN site detail contributions,Human Resources administration,KFR
+HRDSCFCY6,New table,New table,HRCDF,Site contributions,Human Resources administration,KFR
+HRDSCFCY7,New table,New table,HRCDD,Site contribution detail,Human Resources administration,KFR
+HRDSCFCY8,New table,New table,HRCFC,DSN site components,Human Resources administration,KFR
+HRDSFFCY,New table,New table,HRFFY,DSN site fiscal,Human Resources administration,KFR
+HRDSFFCY2,New table,New table,HRFFP,DSN site fiscal,Human Resources administration,KFR
+HRDSFFCY3,New table,New table,HRFFA,DSN site fiscal,Human Resources administration,KFR
+HRDSNAMT,New table,New table,HRDCV,DSN payments contract end,Human Resources administration,KFR
+HRDSNAMT1,New table,New table,HRDCA,DSN remunerations contract end,Human Resources administration,KFR
+HRDSNAMT2,New table,New table,HRDCD,DSN allowances contract end,Human Resources administration,KFR
+HRDSNAMT3,New table,New table,HRDCU,DSN activities contract end,Human Resources administration,KFR
+HRDSNAMT4,New table,New table,HRDCB,Contract end DSN gross income,Human Resources administration,KFR
+HRDSNAYD,New table,New table,HRDAD,DSN beneficiaries,Human Resources administration,KFR
+HRDSNAYD2,New table,New table,HRDAF,DSN welfare beneficiaries,Human Resources administration,KFR
+HRDSNBNF,New table,New table,HRBNF,DSN beneficiaries,Human Resources administration,KFR
+HRDSNBNFORA,New table,New table,HRBNO,DSN welfare beneficiaries,Human Resources administration,KFR
+HRDSNCPY,New table,New table,HRDCP,DSN companies,Human Resources administration,KFR
+HRDSNCPYCNT,New table,New table,HRCCN,DSN companies - Contacts,Human Resources administration,KFR
+HRDSNCPYVLU,New table,New table,HRCPV,DSN companies,Human Resources administration,KFR
+HRDSNCTR,New table,New table,HRDCC,Contr. end DSN contract data,Human Resources administration,KFR
+HRDSNDMC,New table,New table,HRDMC,Monthly DSN contracts,Human Resources administration,KFR
+HRDSNDMC1,New table,New table,HRDMO,Monthly DSN/former contract,Human Resources administration,KFR
+HRDSNDMC2,New table,New table,HRDSS,Monthly DSN/contract susp,Human Resources administration,KFR
+HRDSNDMC3,New table,New table,HRDMR,Monthly DSN welfare history,Human Resources administration,KFR
+HRDSNDMT,New table,New table,HRDMT,Monthly DSN contributions,Human Resources administration,KFR
+HRDSNDMT1,New table,New table,HRDMJ,Monthly DSN contributions,Human Resources administration,KFR
+HRDSNDMT2,New table,New table,HRDMI,Monthly DSN contributions,Human Resources administration,KFR
+HRDSNDMT3,New table,New table,HRDMK,Monthly DSN contributions,Human Resources administration,KFR
+HRDSNDMT4,New table,New table,HRDME,Monthly DSN contributions,Human Resources administration,KFR
+HRDSNDMT5,New table,New table,HRDML,Monthly DSN contributions BS,Human Resources administration,KFR
+HRDSNDMV,New table,New table,HRDMV,Monthly DSN payments,Human Resources administration,KFR
+HRDSNDMV1,New table,New table,HRDMS,Monthly DSN remunerations,Human Resources administration,KFR
+HRDSNDMV2,New table,New table,HRDMD,Monthly DSN allowances,Human Resources administration,KFR
+HRDSNDMV3,New table,New table,HRDMA,Monthly DSN activities,Human Resources administration,KFR
+HRDSNDMV4,New table,New table,HRDMB,Monthly DSN gross income,Human Resources administration,KFR
+HRDSNDMV5,New table,New table,HRDMF,Free shares,Human Resources administration,KFR
+HRDSNDMV6,New table,New table,HRDMG,Stock options,Human Resources administration,KFR
+HRDSNDMV7,New table,New table,HRDMN,BSPCE,Human Resources administration,KFR
+HRDSNDMV8,New table,New table,HRDMP,DSN WHT adjustment,Human Resources administration,KFR
+HRDSNEMP,New table,New table,HRDMM,Monthly DSN employees,Human Resources administration,KFR
+HRDSNFCY,New table,New table,HRDFY,DSN site,Human Resources administration,KFR
+HRDSNFCY2,New table,New table,HRDFV,DSN site welfare,Human Resources administration,KFR
+HRDSNFCY3,New table,New table,HRDFA,DSN site former welfare data,Human Resources administration,KFR
+HRDSNFCYN,New table,New table,HRNIL,Nil DSN site,Human Resources administration,KFR
+HRDSNFEE,New table,New table,HRFEE,Beneficiaries of fees,Human Resources administration,KFR
+HRDSNFEED,New table,New table,HRFED,Fee lines,Human Resources administration,KFR
+HRDSNIND,New table,New table,HRIND,Affiliated former employee,Human Resources administration,KFR
+HRDSNINDBAS,New table,New table,HRINDB,Specific bases,Human Resources administration,KFR
+HRDSNINDRIR,New table,New table,HRINDR,WHT adjustments,Human Resources administration,KFR
+HRDSNLOG,New table,New table,HRLOG,DSN error table,Human Resources administration,KFR
+HRDSNMTH,New table,New table,HRDMH,DSN employees sick leave,Human Resources administration,KFR
+HRDSNORA,New table,New table,HRDMW,DSN welfare affiliation,Human Resources administration,KFR
+HRDSNPEN,New table,New table,HRDEP,DSN hazardous conditions,Human Resources administration,KFR
+HRDSNWST,New table,New table,HRDWS,DSN employees sick leave,Human Resources administration,KFR
+HRDSPDCS,New table,New table,HRDSC,DSN charge declaration,Human Resources administration,KFR
+HRDSPPEX,New table,New table,HRDSE,DSN extraction setup,Human Resources administration,KFR
+HRDSPPRM,New table,New table,HRDSR,DSN setup,Human Resources administration,KFR
+HRDSPPRMCNT,New table,New table,HRDCN,DSN setup - Contacts,Human Resources administration,KFR
+HRDSPPRMVLU,New table,New table,HRDSV,DSN setup,Human Resources administration,KFR
+HREFFTOT,New table,New table,HREFT,Total,Human Resources administration,KMA
+HREMPALO,New table,New table,EMPALO,Employee allowance,Common Data,KUK
+HREMPDLC,New table,New table,HREDC,Declaration,Human Resources administration,KMA
+HREQEEA2,New table,New table,HREEA2,EEA2 Detail,Human Resources administration,FHRPA
+HREQEEA4,New table,New table,HREEA4,EEA4 Detail,Human Resources administration,FHRPA
+HREQEXCLEMP,New table,New table,HREXCL,Excluded employees,Human Resources administration,FHRPA
+HREQNUMDET,New table,New table,HREQDET,Equity numerical goals,Common Data,FKSEQ
+HREQNUMGOAL,New table,New table,HREQGOA,Equity numerical goals,Common Data,FKSEQ
+HREQUITY,New table,New table,HREQTY,Equity extract,Human Resources administration,FHRPA
+HREQUITYTOT,New table,New table,HREQ,Equity info,Common Data,FKSQS
+HRESSATT,New table,New table,HRET,Attachments,Common Data,FHRPA
+HRESUB,New table,New table,HRESUB,E-submission,Human Resources administration,KUK
+HRESUBREG,New table,New table,ESUBREG,E-submission registration,Human Resources administration,FUKPH
+HRETIHIS,New table,New table,HRETI,ETI History,Human Resources administration,KZA
+HRETIHISOLD,New table,New table,HRETIO,ETI History old,Human Resources administration,KZA
+HREXPENSES,New table,New table,HREXS,Cost,Human Resources administration,HRNOF
+HREXSKMETRE,New table,New table,HREXK,Mileage expenses,Human Resources administration,HRNOF
+HREXTRACT,New table,Modification,HREXT,Extract template,Common Data,FHRPA
+HREXTRACTDAT,New table,Modification,HREXD,Source,Common Data,FHRPA
+HREXTRACTDEF,New table,Modification,HREXL,Definition,Common Data,FHRPA
+HREXTRACTFIL,New table,Modification,HREXF,Filters,Common Data,FHRPA
+HREXTRACTGRP,New table,Modification,HREXG,Groups,Common Data,FHRPA
+HREXTRACTPAR,New table,Modification,HREXP,Parameters,Common Data,FHRPA
+HREXTRACTRES,New table,Modification,HREXR,Results,Common Data,FHRPA
+HREXTRACTVAL,New table,Modification,HREXV,Validations,Common Data,FHRPA
+HRFACILITYPO,New table,,FCYPO,Sites,Common Data,FPOPH
+HRFACILITYSA,New table,,FCYSA,South African site fields,Common Data,FZAPH
+HRFILDSN,New table,New table,HRDFS,DSN file structure,Human Resources administration,KFR
+HRFILTDS,New table,Modification,HRFTD,DADS-U/DNA file structure,Human Resources administration,KFR
+HRFISCALNAT,New table,New table,HRFCN,Fiscal nature,Human Capital management,
+HRFRMPAY,New table,New table,HRFRM,Payment slips,Human Resources administration,
+HRGRPRUB,New table,New table,HRGRB,Grouping of headings,Human Resources administration,
+HRHONLIN,New table,New table,HRHLN,Fee lines,Human Resources administration,KFR
+HRHONPRV,New table,New table,HRPRV,Service suppliers,Human Resources administration,KFR
+HRINCDLC,New table,New table,HRIDC,Income declaration,Human Resources administration,KMA
+HRITAXEXT,New table,New table,HRITAX,Tax extract,Human Resources administration,FHRPA
+HRITAXRES,New table,New table,HRITXR,ITax extract results,Human Resources administration,FHRPA
+HRKENRPT,New table,New table,HRKNVAL,Temporary print key table,Human Resources administration,FHRPA
+HRLDETAILS,New table,New table,HRLDET,Loan details,Human Resources administration,LOA
+HRLGENPAY,New table,New table,HRLGPP,Generate loan installment,Human Resources administration,LOA
+HRLHEADER,New table,New table,HRLHEA,Loan header,Human Resources administration,LOA
+HRLICAUT,New table,,HRLIC,Permits and authorizations,Common Data,FHRPA
+HRLOAADDPAY,New table,New table,HRLADP,Additional payments,Human Resources administration,LOA
+HRLOAAMO,New table,New table,HRLAMO,Loan (amortization),Human Resources administration,LOA
+HRLOAEMPHEA,New table,New table,HRLEHEA,Pay info,Human Resources administration,LOA
+HRLOAEMPTOT,New table,New table,HRLETOT,Pay info,Human Resources administration,LOA
+HRLOARAT,New table,New table,HRLRAT,Loan standard rates,Human Resources administration,LOA
+HRLOARATHEA,New table,New table,HRLRATH,Loan standard rates,Human Resources administration,LOA
+HRLOASETHEA,New table,New table,HRLSHEA,Pay info,Human Resources administration,LOA
+HRLOASETTOT,New table,New table,HRLSTOT,Pay info,Human Resources administration,LOA
+HRLOASUSPEND,New table,New table,HRLSPD,Loan suspension setting,Human Resources administration,LOA
+HRLOATYP,New table,New table,HRLTYP,Loan type,Human Resources administration,LOA
+HRLREQAMO,New table,New table,HRLLRA,Loan request (amortization),Human Resources administration,LOA
+HRLREQDET,New table,New table,HRLLRD,Loan request (details),Human Resources administration,LOA
+HRLREQUEST,New table,New table,HRLLR,Loan request,Human Resources administration,LOA
+HRLSETTING,New table,New table,HRLSET,Loan setup,Human Resources administration,LOA
+HRLSETVAR,New table,New table,HRLSLV,Loan variable setup,Human Resources administration,LOA
+HRLSTPMT,New table,New table,HRLOP,Payments,Human Resources administration,KMA
+HRLVEACCRU,New table,New table,HRACCR,Leave accrual,Human Resources administration,
+HRLVEBAL,New table,New table,HRLBAL,Leave balance,Human Resources administration,GLM
+HRLVEBALDET,New table,New table,HRLBALD,Leave balance detail,Human Resources administration,GLM
+HRLVERAT,New table,New table,HRPRAT,,Human Resources administration,GLM
+HRLVEREA,New table,New table,HRLSE,Leave reason,Human Resources administration,GLM
+HRLVESUBDET,New table,New table,HRLSTD,Leave sub type,Human Resources administration,GLM
+HRLVESUBHEA,New table,New table,HRLSTH,Leave sub type,Human Resources administration,GLM
+HRMEDAPT,New table,,HRMDP,Ability,Common Data,FHRPA
+HRMEDTYP,New table,,HRMDT,Visit type,Common Data,FHRPA
+HRMGTDSN,New table,New table,HRMDM,DSN data management,Human Resources administration,KFR
+HRMISCTAB,New table,New table,HRMISC,Miscellaneous screen,Human Resources administration,FHRPA
+HRNATCON,New table,,HRNCT,Nature of contract,Common Data,FHRPA
+HRNUMORDDSN,New table,New table,HRDNO,DSN order number,Human Resources administration,KFR
+HROIDRPT,New table,New table,HROID,Temporary print key table,Human Resources administration,FHRPA
+HRPARVAREXP,New table,New table,HRPVE,Variables to configure,Human Resources administration,HRNOF
+HRPASR,New table,New table,HRPASR,WHT adjustments,Human Resources administration,KFR
+HRPAYTMP,New table,New table,HRPYE,Payments to be posted,Human Resources administration,
+HRPENINDD,New table,New table,HRPID,Individual hazard. cond. record,Common Data,FFRPH
+HRPENINDH,New table,New table,HRPIH,Individual hazard. cond. record,Common Data,FFRPH
+HRPEODET,New table,New table,HRPEOD,Extraction periods,Human Resources administration,
+HRPEOHEA,New table,New table,HRPEOH,Extraction periods,Human Resources administration,
+HRPERFORM,New table,New table,HRPERF,Performance,Human Resources administration,PERID
+HRPOTPEN,New table,,HRPEN,Position hazardous conditions,Common Data,FFRPH
+HRRPLREN,New table,,HRRPL,Replacement reason,Common Data,FHRPA
+HRSAEQU,New table,New table,SAEQU,Employment equity,Common Data,
+HRSCPCPIO,New table,New table,HRCPC,Strategic skills priority,Human Capital management,FKZSD
+HRSCRDSND,New table,New table,HRSDDT,DSN control screens - Detail,Human Resources administration,KFR
+HRSCRDSNH,New table,New table,HRSDH,DSN control screens,Human Resources administration,KFR
+HRSOCSECINC1,New table,New table,HRSIA,Recording,Human Resources administration,KMA
+HRSOCSECINC2,New table,New table,HRSIB,Recording,Human Resources administration,KMA
+HRSOCSECSET1,New table,New table,HRSSA,Declaration,Human Resources administration,KMA
+HRSOCSECSET2,New table,New table,HRSSB,Recording,Human Resources administration,KMA
+HRSOCSECSET3,New table,New table,HRSSC,Recording,Human Resources administration,KMA
+HRSOCSECSETS,New table,New table,HRSSS,Recording,Human Resources administration,KMA
+HRSOFOCOD,New table,,HROFO,OFO code,Human Capital management,FKZSD
+HRSOFOSET,New table,New table,HROFOS,OFO code,Human Capital management,FKZSD
+HRSTADCLBEN,New table,New table,HRSDB,Beneficiary,Human Resources administration,KMA
+HRSTADCLBSP,New table,New table,HRSBP,Declaration,Human Resources administration,KMA
+HRSTADCLDOC,New table,New table,HRSDO,Doctoral student,Human Resources administration,KMA
+HRSTADCLSET,New table,New table,HRSDS,Declaration,Human Resources administration,KMA
+HRSTADCLTRA,New table,New table,HRSDT,Trainee,Human Resources administration,KMA
+HRSTADLM,New table,New table,HRSDM,Statutory exports,Human Resources administration,KMA
+HRSTDINDCLS,New table,,HRSIC,Std. industrial classification,Common Data,FZAPH
+HRSTRAINPER,New table,New table,HRTPER,Training periods add info,Human Capital management,FKSQS
+HRSTRIKE,New table,New table,HRSTRK,Strike,Human Resources administration,KPO
+HRSTRIKEDAT,New table,New table,HRSTRD,Strike dates,Human Resources administration,KPO
+HRSTRIKEREV,New table,New table,HRSTRV,Claims,Human Resources administration,KPO
+HRSYSUSED,New table,New table,HRSUS,System,Common Data,FHRPA
+HRTABDSD,New table,New table,HRDSD,DSN code correspondences,Human Resources administration,KFR
+HRTABDSH,New table,New table,HRDSH,DSN code correspondences,Human Resources administration,KFR
+HRTABEXPENS,New table,New table,HRTES,Expenses codes,Human Resources administration,HRNOF
+HRTABFILBAN,New table,New table,HRTFB,Bank file definitions,Human Resources administration,
+HRTASSEDICSA,New table,,HRATSSA,Job center certificate,Human Resources administration,KGZA
+HRTAXCERT,New table,New table,HRTXCT,SA tax certificates,Human Resources administration,FHRPA
+HRTAXCERTDED,New table,New table,HRTXCTD,Deductions,Human Resources administration,FHRPA
+HRTAXCERTINC,New table,New table,HRTXCTI,Income received,Human Resources administration,FHRPA
+HRTAXCERTSUB,New table,New table,HRTXCTS,Tax withheld,Human Resources administration,FHRPA
+HRTAXEXT,New table,New table,HRTAX,Tax extract,Human Resources administration,FHRPA
+HRTAXMSG,New table,New table,HRMSG,Tax messages,Human Resources administration,FHRPA
+HRTAXRES,New table,New table,HRTXRES,Tax extract results,Human Resources administration,FHRPA
+HRTAXVAL,New table,New table,HRTXVAL,Tax extract validation,Human Resources administration,FHRPA
+HRTMPDSD,New table,New table,HRTDSD,DSN code correspondences,Human Resources administration,FPAY
+HRTOTPAY,New table,New table,HRTPY,Total,Human Resources administration,KMA
+HRTRACSTREP,New table,New table,HRTCR,Training cost distribution,Human Capital management,
+HRTRADECLASS,New table,,HRTCC,Trade classification,Common Data,FZAPH
+HRUKCTRCAR,New table,New table,CTCA,Employee car benefits,Common Data,FUKPH
+HRUKCTRPEN,New table,New table,CTRPEN,Employee pension,Common Data,FUKPH
+HRUKCTRSTA,New table,New table,CTRSTA,Employee pension status,Common Data,FUKPH
+HRVIEWPARAMS,New table,New table,HRVP,View parameters,Common Data,FHRPA
+HRXITGRD,New table,Modification,HRXGD,Disposal reason,Common Data,FHRPA
+HTMMAITXT,,,HTMMAI,CRM email text,Common Data,
+IDADDNA,New table,,IDN,DN-AC employee import,Human Resources administration,
+IDADDNA2,New table,,ID2,DNA import bonuses,Human Resources administration,
+IDADDNA3,New table,,ID3,DNA import monthly allowances,Human Resources administration,
+IDADDNA4,New table,,ID4,DNA import Notice,Human Resources administration,
+IDADDNA5,New table,,ID5,DNA import Allowances,Human Resources administration,
+IDADDNA6,New table,,ID6,DNA import Working hours,Human Resources administration,
+IDADDNA7,New table,,ID7,DNA import Back-pay paid,Human Resources administration,
+IDADDNA8,New table,,ID8,DNA import Entertainment,Human Resources administration,FINTM
+IDADEMP,New table,,IDA,Annual declaration of employee data import,Human Resources administration,
+IDADEMP10,New table,,IDL,Annual declaration of employee data and occupation and skills forecasting,Human Resources administration,
+IDADEMP11,New table,,IDM,DADS-U overtime import,Human Resources administration,
+IDADEMP12,New table,,IDQ,DADS-U welfare claims import,Human Resources administration,
+IDADEMP121,New table,,IDE,Annual declaration of employee data welfare import,Human Resources administration,
+IDADEMP2,New table,,IDS,Annual declaration of employee data import,Human Resources administration,
+IDADEMP3,New table,,HRIDP,Annual declaration of employee data welfare import,Human Resources administration,
+IDADEMP31,New table,,IDF,DADS-U events welfare import,Human Resources administration,
+IDADEMP32,New table,,IDR,DADS-U payment welfare import,Human Resources administration,
+IDADEMP33,New table,,IDU,DADS-U complementary health insurance import,Human Resources administration,
+IDADEMP34,New table,,IDV,DADS-U events complementary health insurance import,Human Resources administration,
+IDADEMP35,New table,,IDW,DADS-U payment complementary health insurance import,Human Resources administration,
+IDADEMP4,New table,,IDC,Annual declaration of employee data import,Human Resources administration,
+IDADEMP5,New table,,IDG,DADS-U savings import,Human Resources administration,
+IDADEMP6,New table,,IDH,Import of DADS-U shares,Human Resources administration,
+IDADEMP7,New table,,IDI,DADS-U benefits import,Human Resources administration,
+IDADEMP8,New table,,IDJ,DADS-U exemptions import,Human Resources administration,
+IDADEMP9,New table,,IDK,DADS-U allowances import,Human Resources administration,
+IDTCCE,New table,,IDTC,Dimension index,Financials,PRCSL
+ILOGIMG,,,ILO,Ilog images,Manufacturing,
+IMCDETPRT,,,IMP,Cost comparison,Common Data,
+IMURANO,New table,,IPM,Spanish payroll interface setup,Financials,MURAN
+IMURANOD,New table,,IPMD,Spanish payroll interface setup,Financials,MURAN
+INCDCL,New table,New table,INC,Income declaration,Human Resources administration,KPO
+INCOTERM,,,ICTH,Incoterms,Common Data,
+INCOTERMD,Modification,Modification,ICTD,Incoterms Detail,Common Data,
+INSCRIPT,New table,Modification,INS,Registrations,Human Capital management,
+INSJOU,New table,Modification,INJ,Registration days,Human Capital management,
+INSJOUA,New table,Modification,INA,Days absent,Human Capital management,
+INTCOFLO,,,ICF,Intercompany transactions,Common Data,INTCO
+INTERVEN,Modification,,ITN,Service response,Common Data,
+INVDACPAR,,,IDP,BP invoice entry settings,A/P-A/R accounting,
+INVENTD,Modification,Modification,INVD,Counts,Stock,KPO
+INVENTH,,,INV,Counts,Stock,KPO
+INVNUMSPA,,,ISP,Source document,Financials,KSP
+IRCTCODPOR,New table,New table,HRIRCT,IRCT Code,Common Data,FPOPH
+IRP5RECONADD,New table,New table,IRPRECA,,Human Resources administration,FZAPH
+IRP5RECONRES,New table,New table,IRPREC,,Human Resources administration,FZAPH
+IRP5RECONVIS,New table,New table,IRPVIS,,Human Resources administration,FZAPH
+ITCDET,,,ICD,Detail cost for printing,Common Data,
+ITCDETPRT,,,ICP,Temporary products - cost,Common Data,
+ITCMAT,,,ICC,Temporary products - cost,Common Data,
+ITCMATCH,,,IMC,Cost comparison,Common Data,
+ITCNAT,,,ICN,Nature detail - costs,Common Data,
+ITCPITTMP,New table,New table,ITCT,Products-costs PIT,Common Data,
+ITCWST,Modification,Modification,IWC,Temporary products - cost,Common Data,
+ITCWSTW,,,IWW,Temporary products - cost,Common Data,
+ITMABCWRK,,,ITK,ABC Class calculation,Stock,
+ITMACGGRP,,,ITA,Product,Fixed Assets,
+ITMBOM,,,ITB,Products - BOMs,Common Data,
+ITMBOMCFG,,,CFB,Products - BOMs,Common Data,CFG
+ITMBPC,,,ITU,Customer product,Common Data,
+ITMBPS,Modification,Modification,ITP,Supplier product,Common Data,
+ITMBPSFCY,New table,New table,ITPF,Supplier product site,Common Data,
+ITMCATEG,Modification,Modification,ITG,Product category,Common Data,
+ITMCOMP,,,ICM,Competitor products,Common Data,
+ITMCOST,,,ITC,Products-costs,Common Data,
+ITMCOSTPIT,New table,New table,ITCP,Products-costs PIT,Common Data,
+ITMCPPLNK,,,ILK,Competitor/product link,Common Data,
+ITMCPTVER,,,ICV,Version counter setup,Common Data,ECC
+ITMCUSNOM,,,INO,NC8 product BOM,Common Data,
+ITMFACILIT,Modification,Modification,ITF,Products-sites,Common Data,
+ITMMASTER,Modification,Modification,ITM,Products,Common Data,
+ITMMVT,,,ITV,Product-site totals,Common Data,
+ITMMVTHIS,,,ITH,Total product - site history,Common Data,
+ITMMVTPIT,New table,New table,ITVP,Product-site totals PIT,Common Data,
+ITMSALES,Modification,,ITS,Products - sales,Common Data,
+ITMWRH,,,ITW,Products-warehouses,Common Data,WRH
+ITVPITTMP,New table,New table,ITVT,Product-site totals PIT,Common Data,
+JOBTYP,New table,Modification,JOT,Standard jobs,Common Data,FHRPA
+JOBTYPDEF,New table,,JOD,Job type default values,Common Data,FHRPA
+JOBTYPKSA,New table,Modification,JSA,Additional RSA fields,Common Data,FKGPH
+JSNX3DET,New table,Modification,JXD,JSON-X3 transform map detail,Common Data,
+JSNX3HEAD,New table,Modification,JXH,JSON-X3 transformation mapper,Common Data,
+JSNX3TRAN,New table,Modification,JXT,JSON-X3 transport,Common Data,
+KCOEF,Modification,,KCO,Impairment loss coefficients,Fixed Assets,KPO
+KPYIMPDTL,Modification,,KPD,Sage 50/Murano payroll detail,Financials,MUIMP
+KPYIMPDTLA,New table,,KPA,Analytical line,Financials,MURAN
+KPYIMPHDR,Modification,,KPH,Sage 50/Murano payroll header,Financials,MUIMP
+KPYIMPTRAN,Modification,Modification,KPT,Sage 50 import transcribe,Financials,MUIMP
+KTEMPPOR,,,KTP,Temporary portuguese lists,Fixed Assets,KPO
+LABADCPRINT,New table,New table,LAP,Label setup,Stock,ADC
+LABELPRN,Modification,Modification,LBP,Label printing,Stock,
+LASTCUSMVT,,,LCM,Last customer movements,Common Data,
+LASTSUPMVT,,,LSM,Last supplier movements,Common Data,
+LAYOUTFAS,,,LOF,Expenses,Fixed Assets,
+LEABILBOOK,Modification,,LBB,Lease contract schedules,Fixed Assets,LEA
+LEAD,Modification,Modification,LDS,Leads,CRM activities,
+LEASE,Modification,,LEA,Lease contracts,Fixed Assets,LEA
+LEGOBGSET,New table,New table,HRLOS,Legal obligations setup,Human Resources administration,KPO
+LEGOBGSETD,New table,New table,HRLOD,Legal obligations setup,Human Resources administration,KPO
+LIVREPAYE,New table,,LPA,Payroll journals,Human Resources administration,
+LNKCPTABD,,,LCD,ABELX3 acc link detail,Fixed Assets,
+LNKCPTABX3,Modification,Modification,LCA,ABELX3 acc link,Fixed Assets,
+LPN,New table,New table,LPN,License plate number,Stock,
+LTAPAR,Modification,,LTP,Sage Sales Tax connection,Sales,LTA
+LTAVCR,,,LTV,Local tax by sales document,Sales,LTA
+MACHINES,Modification,,MAC,Installed base,Common Data,
+MACITN,,,MAI,Machine installations,Common Data,
+MACWARREQ,,,MWR,Warranty request archive,Common Data,
+MAILING,,,OMM,Mass mailing,Common Data,
+MAILXML,,,MXL,Mass mailing XML,Common Data,
+MAILXMLD,,,MXD,Mass mailing lines XML,Common Data,
+MALADIE,New table,Modification,MAL,Sickness certificate/Maternity,Human Resources administration,
+MANDATE,,,MDT,Mandates,Common Data,SDD
+MARASSDEF,,,MAD,Content of sectors,CRM activities,
+MARASSREP,,,MAR,Representative portfolio,CRM activities,
+MARDEF,,,MDF,Definitions of sectors,CRM activities,
+MARDEFVAL,,,MDV,Criteria details,CRM activities,
+MARREPSEC,,,MRS,Allocation of sectors,CRM activities,
+MARSCT,,,MST,Market sectors,CRM activities,
+MATCHCODE,,,MTC,Match letters to use,Financials,
+MATCHTOL,Modification,Modification,MAT,Matching tolerance,Purchasing,
+MATCSTW,,,MAW,Material calculation,Common Data,
+MAXBUILD,New table,New table,MAXB,Maximum build quantity,Common Data,
+MDL10,New table,New table,M10H,Model 10,Human Resources administration,KPO
+MDL10D,New table,New table,M10D,Model 10,Human Resources administration,KPO
+MDL30,New table,New table,M30H,Model 30,Human Resources administration,KPO
+MDL30D,New table,New table,M30D,Model 30,Human Resources administration,KPO
+MEAEMP,New table,Modification,MEA,Monthly employer certificate,Common Data,FINTM
+MEDIA,,,OMN,Media campaign,Common Data,
+MEDWRK,New table,Modification,MEW,Occupational health,Common Data,FHRPA
+MEMFOR,,,FOG,Memos,Common Data,
+MESPAR,,,MPA,MES setup,Manufacturing,
+MFCDETPRT,,,MCP,Material detail,Common Data,
+MFCMAT,,,MCC,Material detail,Common Data,
+MFCNAT,,,MCN,Nature detail - PC,Common Data,
+MFCSCRAP,,,MCS,Scrap cost,Manufacturing,
+MFCTYPREL,,,MTR,Cost comparison,Common Data,
+MFCWST,Modification,,MCW,Operation detail,Common Data,
+MFGANL,,,MFA,WO analysis,Manufacturing,
+MFGCOST,Modification,,MFC,Cost price,Common Data,
+MFGHEAD,Modification,Modification,MFG,Work order - header,Manufacturing,
+MFGHEADTRK,Modification,Modification,MTK,Manufacture tracking - header,Manufacturing,
+MFGITM,Modification,,MFI,Work orders - products,Manufacturing,
+MFGITMTRK,Modification,Modification,MKI,Manufacture tracking - products,Manufacturing,
+MFGMAT,Modification,Modification,MFM,Work order - materials,Manufacturing,
+MFGMATREV,New table,New table,MMR,Work order - materials audit,Manufacturing,
+MFGMATTRK,Modification,,MKM,Manufacture tracking - materia,Manufacturing,
+MFGOPE,Modification,Modification,MFO,Work order - operations,Manufacturing,
+MFGOPEREV,New table,New table,MOR,Work order - operations audit,Manufacturing,
+MFGOPETRK,Modification,Modification,MKO,Manufacture tracking - operati,Manufacturing,
+MFGPRN,,,MFP,Work orders - documents,Manufacturing,
+MFGSERDET,New table,New table,MFSD,WO - serial no. link detail,Manufacturing,
+MFGSERHDR,New table,New table,MFSH,WO - serial no. link header,Manufacturing,
+MFGTRS,Modification,Modification,MTS,Production entry transaction,Manufacturing,
+MFGVERSION,,,MFV,MFG version change,Manufacturing,
+MFGWIP,,,MWH,WIP valuation - header,Common Data,
+MGTATCUD,New table,Modification,ATCUD,ATCUD management,Common Data,KPO
+MGTWASTE,New table,Modification,MGTW,Waste management,Common Data,
+MIGX,New table,New table,MIGX,X3 People - Migration,Common Data,
+MIGXTBLCMP,New table,New table,MIGXTCP,Migration table compare header,Common Data,
+MIGXTBLDIF,New table,New table,MIGXTDF,Migration table schema diff,Common Data,
+MIGXTBLMAP,New table,New table,MIGXTM,Migration table mapping,Common Data,
+MISIND,New table,New table,MID,Responsibility indicator,Common Data,FHRPA
+MISJOTIND,New table,New table,MJI,Responsibility,Common Data,FHRPA
+MISPOTIND,New table,New table,MPI,Responsibility,Common Data,FHRPA
+MISSION,New table,,MIS,Role,Common Data,FHRPA
+MKGLEVEL,,,MKL,Level,CRM activities,
+MKGOPG,,,MOG,Target/operations relations,CRM activities,
+MKGQUR,,,MQR,Marketing targets,CRM activities,
+MKGQURPPL,,,MQP,Intermediate populations,CRM activities,
+MMSDEFVAL,,,MMV,MMS default values,Common Data,
+MMSPAR,,,MMS,MMS setup,Common Data,
+MODSCALE,,,MODL,Weighing scale templates,Manufacturing,MWM
+MOTENT,New table,,MOE,Arrival reason,Common Data,FHRPA
+MSCALR,New table,,MSC,Headings to be calculated,Human Resources administration,MAS
+MSENTEML,New table,,MHE,TP employee arrival hypothesis,Human Resources administration,MAS
+MSFLDATM,New table,,HRMFA,Field initialized for RTP,Human Resources administration,MAS
+MSGGRIL,New table,,MRI,TP entry grids,Human Resources administration,MAS
+MSGRIL,New table,,MGR,TP entry grids,Human Resources administration,MAS
+MSHISTO,New table,,MHS,TP history,Human Resources administration,MAS
+MSHISTOH,New table,,MHH,TP history Tracking,Human Capital management,MAS
+MSHYPENP,New table,,MHP,Hypothesis of non-permanent elts,Human Resources administration,MAS
+MSHYPRUB,New table,,MHR,Heading hypothesis,Human Resources administration,MAS
+MSHYPTXAT,New table,,MHT,WI rate hypothesis,Human Resources administration,MAS
+MSHYPVAD,New table,,MHD,Variable hypotheses,Human Resources administration,MAS
+MSHYPVAH,New table,,MHV,Variable hypotheses,Human Resources administration,MAS
+MSHYPVAL,New table,,MHL,Variable hypotheses,Human Resources administration,MAS
+MSLIVREPAY,New table,,LPM,Total payroll journals,Human Resources administration,MAS
+MSLRUB,New table,,MLR,List of TP headings,Human Resources administration,MAS
+MSMODCTR,New table,,MHC,Contract modification hypotheses,Human Resources administration,MAS
+MSRUB,New table,,MSR,TP headings,Human Resources administration,MAS
+MSSCENAH,New table,,MCH,Scenario,Human Resources administration,MAS
+MSSCENAL,New table,,MCL,Scenario,Human Resources administration,MAS
+MSVALEUR,New table,,MHA,Variable value history TP,Human Resources administration,MAS
+MSXITEML,New table,,MHX,TP employee departure hypothesis,Human Resources administration,MAS
+MTCAUTO,,,MTU,Automatic matching,Financials,
+MTCBATCH,,,MTB,Batch matching,Financials,
+MTCGAUTMP,,,MGT,Document matching preparation,Financials,
+MTHTAXDCL,New table,New table,MTDH,Monthly PAYE declaration,Human Resources administration,KPO
+MTHTAXDCLD,New table,New table,MTDD,Monthly PAYE declaration,Human Resources administration,KPO
+MTKCRDASW,,,MTA,Technical sheets - responses,Manufacturing,
+MTOHEAD,Modification,,MTO,MTO network,Common Data,
+MTOLINK,,,MLK,Demand/resource assignments,Common Data,
+MWMCRDASW,,,MWA,Booth procedures - Responses,Manufacturing,MWM
+N4DSTABD,New table,,N4D,N4DS code correspondences,Human Resources administration,
+N4DSTABH,New table,,N4H,N4DS code correspondences,Human Resources administration,
+NAMETXTEMP,New table,New table,ETX,Namibia monthly employees TAX,Human Resources administration,KNA
+NATACTIV,New table,New table,NAT,Natures of activity,Human Resources administration,
+NCSADES,New table,New table,NCSADE,Non-conformance description,Common Data,NCS
+NCSAPPROVER,New table,New table,NCSAPPR,Non-conformance approvers,Common Data,NCS
+NCSBPC,New table,New table,NCSBPC,Customers,Common Data,NCS
+NCSBPS,New table,New table,NCSBPS,Suppliers,Common Data,NCS
+NCSDES,New table,New table,NCSDES,Non-conformance description,Common Data,NCS
+NCSDOCHDR,New table,New table,NCSDHD,Non-conformance documents,Common Data,NCS
+NCSDOCLIN,New table,New table,NCSDLN,Non-conformance documents,Common Data,NCS
+NCSDOCOPE,New table,New table,NCSDOP,Non-conformance operation info,Common Data,NCS
+NCSEXTUSR,New table,New table,NCSEU,External user,Common Data,NCS
+NCSINTUSR,New table,New table,NCSIU,Internal users,Common Data,NCS
+NCSRECENT,New table,New table,NCSRC,Non-conformance,Common Data,NCS
+NCSREJDES,New table,New table,NCSREJ,Rejection description,Common Data,NCS
+NETAUTO,,,NTO,Netting,A/P-A/R accounting,
+NICDET,New table,New table,NIC,NI category,Common Data,FHRPA
+NOTCATEG,,,NTG,Note category,Common Data,
+NOTE,,,NTS,Notes,Common Data,
+NPICOMPONENT,New table,New table,NPIC,Product design components,Common Data,NPI
+NPICOMPREF,New table,New table,NPICREF,Product design references,Common Data,NPI
+NPIHEADER,New table,New table,NPIH,Product design header,Common Data,NPI
+NPIPWU,New table,New table,NPIW,Where used,Common Data,NPI
+NRYPAR,,,NRY,ENERGY setup,Financials,FAL
+NUMCAI,Modification,,NCA,CAI assignment,Common Data,KAG
+OBJECTIFBI,New table,,OBI,BI objectives,Common Data,FHRPA
+OCPCODPOR,New table,New table,HROCP,Profession code,Common Data,FPOPH
+ODPAY,New table,New table,ODP,Payroll MO,Common Data,FHRPA
+ODPAYA,New table,New table,ODA,Analytical pay MO,Common Data,FHRPA
+ODPAYE,New table,New table,ODE,Pay MO header,Common Data,FHRPA
+OMMRESULT,,,MRE,Merge data,CRM activities,
+OMMRPT,,,OMR,Mailing report,CRM activities,
+OPERATIONS,Modification,Modification,OPS,Load in progress,Manufacturing,
+OPPOR,Modification,Modification,OPP,Project,Common Data,
+OPPORCPP,New table,,OCP,Project competitor,Common Data,
+OPPORCRM,New table,,OPPCRM,CRM project,Common Data,
+OPPORI,New table,New table,OPPI,Project,Common Data,PJM
+OPPORPJM,New table,Modification,OPPPJM,PJM project,Common Data,PJM
+OPPORPJMI,New table,New table,OPJI,Project,Common Data,PJM
+OPPORSBB,New table,Modification,OBB,Sub-project,Common Data,
+OPPORSTA,New table,,OSA,Project after-sales steps,Common Data,
+OPPORSTB,New table,,OSB,Project pre-sales steps,Common Data,
+ORDCOMP,,,DOO,Service caller,Common Data,
+ORDCOV,Modification,,ORC,WIP consideration history,Stock,
+ORDERS,Modification,Modification,ORD,WIP,Common Data,
+ORDOOPAR,,,ORO,APS setup,Manufacturing,
+ORDOPPAR,,,ORP,PREACTOR parameters,Manufacturing,
+ORGAFFIL,New table,Modification,ORA,Organization membership,Common Data,FHRPA
+ORGANISME,New table,Modification,ORG,Organizations,Common Data,FHRPA
+ORGBAN,New table,Modification,ORB,Organization,Common Data,FHRPA
+ORGFINTRA,New table,,OFT,Training funding organizations,Human Capital management,
+OVENAT,,,ONA,Overhead category,Common Data,
+OVERHEAD,,,OVE,Overhead codes,Common Data,
+PARADC,New table,New table,PDC,Mobile Automation setup,Common Data,ADC
+PARCOL,New table,,PAC,Collective DPS scheme,Human Resources administration,
+PARESC,,,PEC,Escalation parameter,Common Data,
+PAREVT,,,PVT,Parameterisation of events,Fixed Assets,
+PAREVTD,,,PVD,Parameterisation of events,Fixed Assets,
+PARFLUX,,,PFL,Parametn of funds(header),Fixed Assets,
+PARFLUXDET,,,PFD,Parametn of funds(detail),Fixed Assets,
+PARIND,New table,,PAI,Individual distribution,Human Resources administration,
+PARJAL,,,PJA,Scheduling parameters,Manufacturing,
+PARLDAP,,,LDA,Expense asset link parameter,Fixed Assets,
+PARMRP,Modification,,PCB,Requirements parameters,Stock,
+PARMTO,,,PTO,Assignment rules,Common Data,
+PARSTA1,,,PS1,Statistical triggers,Supervisor,
+PARSTA2,,,PS2,Statistical parameters,Supervisor,
+PARSTALIG,,,PSL,Statistical report line parameters,Supervisor,
+PARSTOACC,,,PAS,Stock interface setup,Stock,
+PARTAXUSA,,,PTU,American tax parameters,Common Data,
+PARTRZL,,,TZL,Transit fields paramtn,Fixed Assets,
+PARTRZLDET,,,TZD,Transit flds paramtn detl,Fixed Assets,
+PARVAR,New table,,PVR,Variables to configure,Human Resources administration,
+PARVARAEM,New table,New table,PVA,Variables to configure,Human Resources administration,FINTM
+PARVARIND,New table,,PVI,Variables to configure,Human Resources administration,PAR
+PARWIPACC,,,PWA,Wipcost-interface parameter,Manufacturing,
+PARWIPACCS,,,SWA,Wipcost-interface parameter,Purchasing,
+PATCHPDP,New table,,HRPPP,Payment plan patches follow-up,Human Resources administration,
+PATCHPDPOBJ,New table,,PPO,Payment plan patches follow-up,Human Resources administration,
+PAYACCNUM,,,PAN,Accounting payment entry,A/P-A/R accounting,
+PAYACCNUMD,,,PMD,Accounting payment entry,A/P-A/R accounting,
+PAYFRM,Modification,Modification,FRM,Payment slips,A/P-A/R accounting,
+PAYLOT,Modification,,PYL,Entry batch,A/P-A/R accounting,
+PAYMENTA,,,PYA,Analytical payment lines,A/P-A/R accounting,
+PAYMENTD,Modification,Modification,PYD,Payment lines,A/P-A/R accounting,
+PAYMENTH,Modification,Modification,PYH,Payment header,A/P-A/R accounting,
+PAYMENTPORD,New table,Modification,PYPTD,Payment lines,A/P-A/R accounting,
+PAYMENTPORH,New table,Modification,PYPTH,Payment header,A/P-A/R accounting,
+PAYMTCTMP,,,PMP,Payment matching temp table,A/P-A/R accounting,
+PAYMTCTMP2,,,PM2,Payment matching temp table,A/P-A/R accounting,
+PAYORDER,,,PYO,Prepayments,Common Data,
+PAYPTD,,,PYP,Payment order lines/receipt,A/P-A/R accounting,KAG
+PAYPTH,,,PAH,Payment order header/receipts,A/P-A/R accounting,KAG
+PAYPTHDOC,,,PAO,Payment orders/receipt documents,A/P-A/R accounting,KAG
+PAYPTHRIT,,,PRI,Withholdings,A/P-A/R accounting,KAG
+PAYTMP,,,PTP,Temporary payments table,A/P-A/R accounting,
+PAYVAT,Modification,,PYHV,Cash VAT (Portugal),Financials,KPO
+PBDBPGRP,,,PBDBPG,Economic reason/BP groups,Common Data,
+PBDBPGRPD,,,PBDBPD,Economic reason/BP groups,Common Data,
+PBDCONFIG,,,PBDCNF,Payment balance configuration,Financials,PBDCL
+PBDCONFIGD,,,PBDCNFD,Payment balance configuration,Financials,PBDCL
+PBDECOCOD,,,PBDECO,Economic reason code,Common Data,
+PBDECODITM,,,PBDEIT,Economic reason by product,Financials,PBDCL
+PBDGEN,,,PBDGEN,Payment balance declaration,Financials,PBDCL
+PBDGEND,,,PBDGEND,Payment balance decl details,Financials,PBDCL
+PBDUICONF,,,PBDUIC,Payment balance field settings,Financials,PBDCL
+PBDUICONFD,,,PBDUID,Payment balance field lines,Financials,PBDCL
+PDPDET,Modification,Modification,PDD,MPS calculation detail,Manufacturing,
+PDPHEA,,,PDH,MPS calculation header,Manufacturing,
+PERIOD,,,PER,Periods,Common Data,
+PFLCATCODPOR,New table,New table,HRPFL,Professional cat.,Common Data,FPOPH
+PFOOTINV,,,PFI,Purchase invoicing elements,Common Data,
+PHONECALL,Modification,,CLL,Call,Common Data,
+PHONING,,,OMP,Phone campaign,Common Data,
+PHYBUI,,,BUI,Building,Fixed Assets,PHY
+PHYELT,,,PHY,Physical assets,Fixed Assets,PHY
+PHYLCT,,,LCT,Localizations,Fixed Assets,PHY
+PHYMVT,,,PMVT,Physical assets - movements,Fixed Assets,PHY
+PIHRMEMPSET,New table,New table,PIES,Employee,Human Resources administration,PAPI
+PIHRMFAIR,New table,New table,PIFA,People integration,Human Resources administration,PAPI
+PIHRMFAIRCFG,New table,New table,PICF,People integration,Human Resources administration,PAPI
+PIHRMFAIRERR,New table,New table,PHFE,Error,Human Resources administration,PAPI
+PIHRMFAIRSET,New table,New table,PIFS,People integration,Human Resources administration,PAPI
+PIMPL,New table,Modification,PIM,Project link,Common Data,
+PIMPLSEL,New table,Modification,PIS,Temporary allocation lines,Common Data,PJM
+PINVOICE,Modification,Modification,PIH,Purchase invoices,Common Data,
+PINVOICED,Modification,Modification,PID,Purchase invoice detail,Purchasing,
+PINVOICEV,,,PIV,Costing purchase invoices,Purchasing,
+PITCOUNT,,,PCT,Point counter,Common Data,
+PITDEB,,,PDB,Points debit,Common Data,
+PITDEBD,,,PBD,Point debits (line),Common Data,
+PIVOTS,,,PIT,Pivots,Common Data,
+PIVZON,,,PIZ,Pivot areas,Common Data,
+PIWRK,,,PKW,Temporary journal traceability,Common Data,
+PJMAFF,New table,Modification,PAF,Employee assignment,Common Data,PJM
+PJMAUS,New table,Modification,PAUS,Project users,Common Data,PJM
+PJMAUSCAVA,New table,New table,PJCV,PJM capacity variation,Common Data,PJM
+PJMBUD,New table,Modification,PJBU,Project budget,Common Data,PJM
+PJMBUDI,New table,New table,PJBUI,Project budget,Common Data,PJM
+PJMBUDLIG,New table,Modification,PJLB,Budget line,Common Data,PJM
+PJMBUDLIGI,New table,New table,PJLBI,Budget line,Common Data,PJM
+PJMBUDTRQ,New table,Modification,PJQ,Financial overview queries,Common Data,PJM
+PJMBUDTRS,New table,Modification,PJS,Financial overview structure,Common Data,PJM
+PJMCLOB,New table,Modification,PJCB,Special folders,Common Data,PJM
+PJMCNSVTETM1,New table,New table,VT1,Time verification,Common Data,PJM
+PJMCNSVTETM2,New table,New table,VT2,Time verification,Common Data,PJM
+PJMCNSVTETMP,New table,New table,VTE,Time verification,Common Data,PJM
+PJMCOSTCTR,New table,Modification,PJCC,Cost type,Common Data,PJM
+PJMCOSTDAT,New table,,PCD,Rate at a given date,Common Data,PJM
+PJMCOSTGRP,New table,New table,PJCG,Cost group,Common Data,PJM
+PJMDE,New table,,PJE,Detailed expense,Common Data,PJM
+PJMFINCTORPT,New table,Modification,PJMCTO,Cost type reporting,Common Data,PJM
+PJMFINOVRRPT,New table,Modification,PJMRPT,Cost structure reporting,Common Data,PJM
+PJMMSTNEXINV,New table,New table,PJMST,Next invoice milestone,Common Data,PJM
+PJMOPEAFF,New table,Modification,PJOA,Employee assignment,Common Data,PJM
+PJMOPEAFFI,New table,New table,PJOAI,Employee assignment,Common Data,PJM
+PJMOPSNPD,New table,New table,PJSNPD,Project snapshot detail,Common Data,PJM
+PJMOPSNPH,New table,New table,PJSNPH,Project snapshots,Common Data,PJM
+PJMPRGBILD,New table,New table,PBILD,Progress billing plan lines,Sales,PJM
+PJMPRGBILH,New table,New table,PBILH,Progress billing plan,Sales,PJM
+PJMSALITMD,New table,Modification,PSPLD,Saleable product list,Common Data,PJM
+PJMSC,New table,Modification,PJC,Consolidated expenses,Common Data,PJM
+PJMSCCT,New table,Modification,PJCCT,Consolidated expenses,Common Data,PJM
+PJMSNPD,New table,New table,PSNPD,Snapshot detail,Common Data,PJM
+PJMSNPH,New table,New table,PSNPH,Snapshots,Common Data,PJM
+PJMSNPW0,New table,New table,PSW0,Snapshot temporary structure,Common Data,PJM
+PJMSNPW1,New table,New table,PSW1,Snapshot temporary structure,Common Data,PJM
+PJMSOLITMD,New table,Modification,PSOD,Sold product list,Common Data,PJM
+PJMSOLITMH,New table,Modification,PSOH,Sales document creation,Common Data,PJM
+PJMSOLITMO,New table,Modification,PSOO,Sold product list,Common Data,PJM
+PJMTIMACT,New table,New table,PTEAT,Activity template,Common Data,PJM
+PJMTIMACTI,New table,New table,PTEATI,Activity template,Common Data,PJM
+PJMTIMCAT,New table,New table,PJTC,Time category,Common Data,PJM
+PJMTIMEMP,New table,Modification,PTE,Time summary,Common Data,PJM
+PJMTIMEMPH,,Deleted table,PTEH,Time summary,Common Data,PJM
+PJMTIMEMPI,New table,Modification,PTI,Time summary,Common Data,PJM
+PJMTIMEMPRPT,New table,New table,PTER,Time entry report,Common Data,PJM
+PJMTIMEMPTMP,New table,New table,PTET,Time summary,Common Data,PJM
+PJMTSK,New table,Modification,PJTA,Project task,Common Data,PJM
+PJMTSKCAT,New table,Modification,PTC,Project task category,Common Data,PJM
+PJMTSKCATOPE,New table,New table,PTCO,Task category operations,Common Data,PJM
+PJMTSKDEP,New table,,PKD,Project dependencies,Common Data,PJM
+PJMTSKI,New table,New table,PJTAI,Project task,Common Data,PJM
+PJMTSKITM,New table,Modification,JTT,Main product,Common Data,PJM
+PJMTSKITMI,New table,New table,JTTI,Main product,Common Data,PJM
+PJMTSKLNK,New table,New table,PTLNK,Task precedence link,Common Data,PJM
+PJMTSKOPE,New table,Modification,PTKO,Tasks - Operations,Common Data,PJM
+PJMTSKOPEI,New table,New table,PTKOI,Tasks - Operations,Common Data,PJM
+PJMTSKOPELNK,New table,New table,OPLNK,Operation precedence link,Common Data,PJM
+PLANACT,New table,New table,PLAACT,Actions,Common Data,NCS
+PLANDET,New table,New table,PLADET,Plan detail,Common Data,NCS
+PLANEMP,New table,New table,PLE,Employee plannings,Human Resources administration,
+PLANHDR,New table,New table,PLAHDR,Plan header,Common Data,NCS
+PLANTYP,New table,New table,PLN,Reference plannings,Human Resources administration,
+PLGMKG,,,PLG,Marketing schedule management,CRM activities,
+PLGOPG,,,PLO,Marketing schedule management,CRM activities,
+PLMDEFVAL,,,PDV,PLM default values,Common Data,
+PLMPAR,,,PPA,PLM setup,Common Data,
+PLNBUD,New table,Modification,HRPLB,Training plan budget,Human Capital management,
+PLNCOUT,New table,Modification,PLC,Training plan costs,Human Capital management,
+PLNFORM,New table,Modification,PLF,Training plan,Human Capital management,
+POOL,,,POO,Banking pool,A/P-A/R accounting,
+POPSCALEXP,New table,,CEP,Calendar exception,Manufacturing,POPS
+POPSCUSFLDS,New table,,PSCF,Prod. Sched. custom fields,Manufacturing,POPS
+POPSCUSVALS,New table,,PSCV,Prod. Sched. custom values,Manufacturing,POPS
+POPSMRK,New table,,MRK,Planner One marker,Manufacturing,POPS
+POPSOBJ,New table,,PSOBJ,Objects in PS,Manufacturing,POPS
+POPSPIN,New table,Modification,PIN,Operation pin type,Manufacturing,POPS
+POPSTAG,New table,,TAG,Planner One tag,Manufacturing,POPS
+POPUL,New table,,HRPOP,Employee populations,Common Data,FHRPA
+POPULA,New table,Modification,HRPOA,Employee populations,Common Data,FHRPA
+POPULB,New table,,POB,Employee populations,Common Data,FHRPA
+PORDER,Modification,,POH,POs,Purchasing,
+PORDERC,Modification,Modification,POC,Cumulative POs before returns,Purchasing,
+PORDERP,Modification,,POP,POs price,Purchasing,
+PORDERQ,Modification,Modification,POQ,POs quantities,Purchasing,
+PORDITM,Modification,Modification,POI,Purchase orders by product,Purchasing,
+PORQRC,New table,Modification,PORQRC,Portuguese QR-data,Common Data,
+POSCOD,,,POS,Postal codes,Supervisor,
+POSTE,New table,Modification,POT,Position,Common Data,FHRPA
+POSTEDEF,New table,,POD,Item default value,Common Data,FHRPA
+POSTEHAB,New table,,PHA,Authorizations,Common Data,FHRPA
+POSTEKSA,New table,Modification,PSS,Additional RSA fields,Common Data,FKGPH
+PPREASON,,,PPR,Purchase price reasons,Common Data,
+PPREQUESTD,New table,,HRPPD,Prepaid - Requests,Human Resources administration,
+PPREQUESTH,New table,,HRPPH,Prepaid - Requests,Human Resources administration,
+PPRICCONF,,,PPC,Supplier pricing parameters,Common Data,
+PPRICFICH,,,PPF,Supplier prices (records),Common Data,
+PPRICLINK,Modification,Modification,PPK,Purchase price list search (link),Purchasing,
+PPRICLIST,,,PPL,Supplier price lists,Common Data,
+PPRIVARWRK,Modification,Modification,PPV,Purchase price variance report,Purchasing,
+PPVRALISD,New table,,HRPVD,Prepay - List of Variables,Human Resources administration,
+PPVRALISH,New table,,PVH,Prepay - List of Variables,Human Resources administration,
+PQUOTAT,,,PQH,RFQs,Purchasing,
+PQUOTATD,,,PQD,RFQ product detail,Purchasing,
+PQUOTATF,,,PQF,RFQ supplier detail,Purchasing,
+PRECEIPT,Modification,Modification,PTH,Receipt,Purchasing,
+PRECEIPTD,Modification,Modification,PTD,Detail receipts,Purchasing,
+PREPINVOICE,New table,New table,PREPI,Prepayment invoice,A/P-A/R accounting,PREPM
+PREPINVOICED,New table,New table,PREPID,Prepayment invoice detail,A/P-A/R accounting,PREPM
+PREPINVOICEF,New table,New table,PREPIDF,Final invoices,A/P-A/R accounting,PREPM
+PREPINVOICEP,New table,New table,PREPIP,Prepayment invoice payments,A/P-A/R accounting,PREPM
+PREQUIS,Modification,,PSH,Purchase requests,Purchasing,
+PREQUISA,,,PSA,Link purchase requests,Purchasing,
+PREQUISD,Modification,Modification,PSD,Purchase request detail,Purchasing,
+PREQUISO,,,PSO,Link purchase requests,Purchasing,
+PREREPORT,,,PPP,Calculate crystal report currency,Common Data,
+PRESP,,,PPH,RFQ responses,Purchasing,
+PRESPD,,,PPD,Detail RFQ responses,Purchasing,
+PRESTATION,New table,,PSN,Service provision,Common Data,FINTM
+PRESTCOV,,,PCO,Covered services,Common Data,
+PRETURN,Modification,Modification,PNH,Returns,Purchasing,
+PRETURND,Modification,Modification,PND,Detail return,Purchasing,
+PRICSTRUCT,,,PRS,Price structure (cust/supp),Common Data,
+PRJFAS,,,PJF,Assets,Financials,GDFAS
+PRJLOT,,,PJL,Lot,Financials,GDD
+PRMDADSU,,,PRM,Extraction parameterization,Financials,DAS
+PRMDUCS,New table,,DUC,Extraction parameterization,Human Resources administration,
+PRMTDS0,New table,Modification,TD0,Extraction parameterization,Human Resources administration,
+PRMTDS1,New table,Modification,TD1,Extraction parameterization,Human Resources administration,KFR
+PROFIL,New table,Modification,PRF,Employee profile,Common Data,FHRPA
+PROFILDEF,New table,,HRPFD,Employee profile Default values,Common Data,FHRPA
+PROJET,,,PRJ,Project,Financials,GDD
+PROPLN,,,PLP,Production plan,Fixed Assets,
+PROPLNH,,,PLH,Production plan,Fixed Assets,
+PROROG,,,PRO,Due date extension,A/P-A/R accounting,
+PROROGPCE,,,PRP,Due date extension,A/P-A/R accounting,
+PRTSCRWRK,,,PSW,Screen print work,Supervisor,
+PRVCLOB,New table,,HRPCB,Provisional slip texts,Human Resources administration,
+PSEPLN,,,PSE,Seasonality plan,Fixed Assets,PSE
+PTDSTKVAL,New table,New table,PSV,Adjustment,Purchasing,
+PURTRS,Modification,Modification,PTR,Entered purchase transactions,Purchasing,
+PVCRFOOT,,,PVF,Purchase documents - footer elt,Purchasing,
+PVCRVAT,,,PVV,Purchase documents - taxes,Purchasing,
+PWRKORDERS,,,PWO,Requirements considered,Purchasing,
+PWRKPND,Modification,,PWR,Return line detail temporary,Purchasing,
+PWRKPNH,,,PWE,Temporary return,Purchasing,
+PWRKPOC,Modification,Modification,PWC,Temporary product-contract,Purchasing,
+PWRKPOP,Modification,,PWP,Temporary product-contract,Purchasing,
+PWRKPOQ,,,PWQ,Temporary order detail,Purchasing,
+PWRKPQF,,,PWF,RFQ ADR supplier temporary,Purchasing,
+PWRKPTD,Modification,,PWD,Temporary detail receipt,Purchasing,
+PWRKPTH,,,PWH,Temporary receipt,Purchasing,
+PWRKSTT,,,PWS,Subcontract,Purchasing,
+PYHCAS,,,PCH,Treasury interface,Financials,CASIN
+PYRAPAR,,,PYRA,HRMS payroll NA setup,Common Data,PYRA
+QLYCRD,Modification,Modification,QLC,Technical sheets,Common Data,
+QLYCRDASW,Modification,Modification,QLA,Quality records - responses,Common Data,
+QLYCRDNQA,,,NQA,Sampling: AQL criteria,Common Data,
+QLYCRDQST,Modification,Modification,QLQ,Quality records - questions,Common Data,
+QLYWRK,Modification,Modification,QLW,Work file - responses,Common Data,
+QUEUE,,,QUE,Queue,Common Data,
+QURCRI,,,QCR,Criteria of target,CRM activities,
+QURCRIVAL,,,QCV,Criteria values,CRM activities,
+QUREXTRACT,,,QTX,Extraction of targets,CRM activities,
+QURTMP,,,QTP,Target process,CRM activities,
+RBKBELDET,,,RBD,Belgian bank statement detail,A/P-A/R accounting,KBE
+RBKBELDUD,,,RBU,Belgian bank stmnt open item,A/P-A/R accounting,KBE
+RBKBELHEA,,,RBH,Belgian bank statement,A/P-A/R accounting,KBE
+RBKBELTMP,,,RBW,Belgian bank stmnt open item,A/P-A/R accounting,KBE
+RBKRUBBEL,,,RRB,CODA headings,A/P-A/R accounting,KBE
+RCRINVOICE,,,RCH,Recurring invoices,A/P-A/R accounting,
+REACHPAR,,,RPA,REACH setup,Common Data,
+REGUL,New table,Modification,RGL,Adjustments,Human Resources administration,
+RELBANK,Modification,Modification,RBK,Bank account statement,A/P-A/R accounting,
+RELBANKREM,,,RBR,Bank statement comments,A/P-A/R accounting,
+RELMT940,,,RLT,File FMT940 (header),A/P-A/R accounting,KDE
+RELMT940D,,,RLD,File FMT940 (lines),A/P-A/R accounting,
+REPART,New table,,HRREP,Distribution methods,Human Resources administration,
+REPCUMTDS,New table,Modification,RCT,Recovery of Dads-U totals,Human Resources administration,KFR
+REPLINDEF,,,RLI,TaxUID management,Financials,KDEAT
+REPORTMPOR,New table,New table,RMPOR,Temporary print key table,Human Resources administration,KPOAO
+REPSEC,,,RSE,Secondary marketing contacts,Common Data,
+RESOURCES,,,RSS,Resources,CRM activities,
+RESRES,,,RRS,Resource reservations,CRM activities,
+RETRO,New table,,RET,Back-pay file,Human Resources administration,
+RETROCAL,New table,,REC,Back-pay - calculations,Human Resources administration,
+RETROCTR,New table,,RCR,Back-pay - Employees,Common Data,HRPAY
+RETRORUB,New table,,RER,Back-pay - Items,Human Resources administration,
+RETROSAL,New table,,RES,Back-pay - Employees,Human Resources administration,
+RETROVAL,New table,,RVL,Back-pay - Variables,Human Resources administration,
+RETROVRA,New table,,REV,Back-pay - Variables,Human Resources administration,
+REVREC,New table,New table,REVREC,Revenue recognition rules,Financials,REVRC
+REVRECD,New table,New table,RRCD,Rev. recognition rules detail,Financials,REVRC
+REVRECT,New table,New table,RRCT,Revenue recognition,Financials,REVRC
+REVRECV,New table,New table,REVRECV,Revenue recognition header,Financials,REVRC
+REVRECVD,New table,New table,RRCVD,Revenue recognition details,Financials,REVRC
+RHSBONFAC,New table,New table,RHSBF,Invoice printing header,Sales,
+RITCUM,,,RCU,Withholding total,A/P-A/R accounting,KAG
+RITDUD,,,RIU,Withholdings by open item,Common Data,KAG
+RITENZIONE,,,RTZ,Table of withholding codes,Common Data,
+RITHIS,Modification,Modification,RTH,History of paid withholdings,Common Data,WTHMG
+RITMVT,Modification,Modification,RTM,Withholding movements,Common Data,WTHMG
+RLSBONFAC,New table,New table,RLSBF,SBONFACFRA report lines,Sales,
+RLSBONFACI,New table,New table,RLSBFI,SBONFACFRA invoicing elements,Sales,
+RLSBONFACO,New table,New table,RLSBFO,SBONFACFRA open items,Sales,
+RNWPREP,,,RWP,Renewal,Fixed Assets,CCN
+ROUOPE,,,ROO,Routing - operations,Manufacturing,
+ROUOPESTD,,,ROT,Standard operations,Manufacturing,
+ROUSCD,,,ROS,Routing - scheduling operation,Manufacturing,
+ROUTING,,,ROH,Routings - header,Manufacturing,
+RPLWST,Modification,,RPW,Alternate work centers,Manufacturing,
+RPTDS,,,RDS,Report electronic signatures,Common Data,KPO
+RSLINESGER1,,,RSLG1,Recapitulative statement,A/P-A/R accounting,KDEAT
+RSLINESGER2,,,RSLG2,Recapitulative statement,A/P-A/R accounting,KDEAT
+RSSCPC,New table,New table,RCPC,Skills,Human Resources administration,
+RSSCPCH,New table,New table,RCPH,Skills,Human Resources administration,
+RSSCPCL,New table,New table,RCPCL,Skills,Human Resources administration,
+RSSMNG,New table,New table,RSSM,Resource,Human Resources administration,
+RSSMNGHR,New table,New table,RSSMH,Resource,Human Resources administration,
+RSSMNGPIC,New table,New table,RSSP,Resource,Human Resources administration,
+RSSMNGTYP,New table,New table,RSST,Resource,Human Resources administration,
+RSSQLF,New table,New table,RQLF,Qualification,Human Resources administration,
+RSSQLFL,New table,New table,RQLFL,Qualification,Human Resources administration,
+RUBASSDEF,,,RDE,Associations - definition,Fixed Assets,
+RUBASSDEFP,,,RDP,Associations - definition/plan,Fixed Assets,
+RUBASSVAL,,,RVA,Associations - values,Fixed Assets,
+RUBASSVALP,,,RVP,Associations - values/plan,Fixed Assets,
+RUBGAC,New table,New table,RGA,Accounts on headings,Human Resources administration,
+RUBHIS,New table,,RUH,Heading,Human Resources administration,MAS
+RUBRIQUE,New table,Modification,RUB,Heading,Human Resources administration,
+RVACOED,,,COD,Reval. coefficient (detail),Fixed Assets,
+RVACOEH,Modification,,COH,Reval. coefficient (header),Fixed Assets,
+RVMVAL,New table,,RVV,Routing versions,Manufacturing,
+SAFTPTTMP1,,,SAFTP,SAF-T,Common Data,SAFT
+SAITRS,,,SAI,Entry transaction,Fixed Assets,
+SAITRSDET,,,DST,Entry transaction detail,Fixed Assets,
+SALESREP,,,REP,Sales rep,Common Data,
+SALESTAX,,,STB,Sales tax report,Sales,
+SALTRS,Modification,Modification,SLT,Entered sales transactions,Sales,
+SBGEO,,,SBG,Consulting fields of service suppliers,Help Desk,
+SBODLINK,Modification,,SBK,Component qty. calculation (link),Sales,
+SBPBL,,,SBP,Service suppliers' skills,Help Desk,
+SCALE,New table,Modification,HRSCA,Level scale,Common Data,FHRPA
+SCALED,New table,,HRSDD,Detail level scale,Common Data,FHRPA
+SCALENIV,New table,New table,SCN,Level scale,Common Data,FHRPA
+SCALES,,,SLE,Weighing scales,Manufacturing,MWM
+SCHEDULING,Modification,,SCH,Work order scheduling,Manufacturing,
+SCHGD,Modification,Modification,SGD,Stock change line,Stock,
+SCHGH,Modification,Modification,SGH,Stock change header,Stock,
+SCMAPAR,,,SZP,APS Forecast setup,Stock,
+SCMDPAR,,,SDP,SCM n.skep setup,Stock,
+SCOHEAD,,,SCO,Subcontract order,Purchasing,
+SCOITM,Modification,,SCI,Subcontract order,Purchasing,
+SCOMAT,,,SCM,Order sub-contract materials,Purchasing,
+SCOSRV,,,SCS,Order sub-contract services,Purchasing,
+SCOTRK,Modification,,SCK,Sub-contract tracking,Purchasing,
+SCPASW,,,SCA,Call script responses,CRM activities,
+SCPQST,,,SCQ,Call script questions,CRM activities,
+SCPQSTCND,,,SQC,Routing conditions,CRM activities,
+SCREMPD,New table,,HRSMD,Employee screens,Common Data,FHRPA
+SCREMPH,New table,,HRSMH,Employee screens,Common Data,FHRPA
+SCRIPT,,,SCP,Call script,CRM activities,
+SCRMHCD,New table,,SCD,Modif hypothesis transaction,Human Resources administration,MAS
+SCRMHCH,New table,,HRSCH,Modif hypothesis transaction,Human Resources administration,MAS
+SCRMHED,New table,,SED,Arrival hypothesis transaction,Human Resources administration,MAS
+SCRMHEH,New table,,SEH,Arrival hypothesis transaction,Human Resources administration,MAS
+SCRMHXD,New table,,SXD,Departure hypothesis transaction,Human Resources administration,MAS
+SCRMHXH,New table,,SXH,Departure hypothesis transaction,Human Resources administration,MAS
+SCRPLFD,New table,,HRSPD,Entry transactions,Human Capital management,
+SCRPLFH,New table,Modification,HRSPH,Entry transactions,Human Capital management,
+SCRTPSD,New table,New table,STD,Entry transactions,Human Resources administration,
+SCRTPSH,New table,New table,STH,Entry transactions,Human Resources administration,
+SCRVRA,New table,Modification,SVR,Variable entry screens,Human Resources administration,
+SDELIVERY,Modification,Modification,SDH,Delivery header,Sales,
+SDELIVERYD,Modification,Modification,SDD,Delivery detail,Sales,
+SDELIVERYNO,New table,New table,SDN,Sales delivery notification,Sales,EDIX3
+SDELIVERYNOD,New table,New table,SDND,Sales delivery notification,Sales,EDIX3
+SEARESULT,,,LUP,Search result,Common Data,
+SEASON,,,SES,Trend profiles,Common Data,
+SEAUTH,,,SEU,Credit card authorizations,Common Data,SEPP
+SEBPC,,,SEB,Payment gateway customer data,Common Data,SEPP
+SECACT,,,SEA,Activity sector,Fixed Assets,
+SECPST,,,SPT,Lead sector,CRM activities,
+SECPSTSEL,,,SPS,Lead sector selection,CRM activities,
+SELACC,New table,New table,SACC,Selected accounts,Financials,REVRC
+SELCMG,,,SEC,List of marketing selections,CRM activities,
+SELCMGLIS,,,SCL,Marketing selection guide,CRM activities,
+SELSSP,,,SSP,Support of selections,CRM activities,
+SELSSPCPN,,,SSC,Selection support components,CRM activities,
+SENTENCES,,,RSY,Safety risk sentences,Manufacturing,MWM
+SEPAR,Modification,,SEP,Payment gateways,Common Data,SEPP
+SEPRC,,,SER,Payment gateway setup,Common Data,SEPP
+SERREQUEST,Modification,,SRE,Service requests,Common Data,
+SERVICE,New table,,SRV,Services,Common Data,FHRPA
+SESJOU,New table,,SEJ,Session days,Human Capital management,
+SESSIONS,New table,Modification,HRSES,Session,Human Capital management,FRT
+SETMAC,,,SEM,Listed base in requested model,Common Data,
+SETMACCPN,,,SEN,Components concerned,Common Data,
+SETXN,,,SEX,Credit card transactions,Common Data,SEPP
+SFANAPAR,,,SFA,Sage fixed assets NA setup,Common Data,FASNA
+SFOOTINV,Modification,,SFI,Invoicing elements,Common Data,
+SFTINDREF,New table,,SFTIR,Indirect references,Common Data,
+SFTSHIFT,New table,,SFTS,Shift code,Common Data,
+SFTTEM,New table,,SFTTM,Teams,Common Data,
+SFTTEMH,New table,,SFTTH,Team history,Common Data,
+SFTTXN,New table,Modification,SFTX,Shop floor transactions,Manufacturing,
+SFTTXNH,New table,Modification,SFTH,Shop floor trans. history,Manufacturing,
+SHIPDOC,New table,,SHIPD,Shipment documents,Purchasing,
+SHIPMENT,Modification,Modification,SHH,Shipment,Purchasing,
+SHIPMENTD,Modification,,SHD,Shipment detail,Purchasing,
+SHIPTRACK,New table,,SHIPT,Shipment logistical tracking,Purchasing,
+SINCDET,,,SND,Line price review definition,Sales,
+SINCENT,,,SNE,Price update definition,Sales,
+SINVOICE,Modification,Modification,SIH,Sales invoices,Common Data,
+SINVOICED,Modification,Modification,SID,Sales invoice detail,Sales,
+SINVOICEDLOC,New table,New table,SIDLOC,Sales invoice detail,Sales,
+SINVOICELOC,New table,New table,SIHLOC,Sales invoices,Common Data,
+SINVOICEV,Modification,Modification,SIV,Costing sales invoice,Sales,
+SIPARJOU,,,SPJ,Integrale migration,Common Data,SMI
+SIPARVAC,,,SPV,Integrale migration,Common Data,SMI
+SIPARVACB,,,SVB,Integrale migration,Common Data,SMI
+SIPARX3,,,SPX,Integrale migration,Common Data,SMI
+SITEPAYE,New table,Modification,HRSIT,Sites,Common Data,FHRPA
+SITRACAR,,,SIC,Transcoding,Common Data,SMI
+SITRACOD,,,SIR,Transcoding,Common Data,SMI
+SITRAWRK,,,SIW,Transcoding,Common Data,SMI
+SIWRKX3,,,SWX,Integrale migration,Common Data,SMI
+SKLMAP,New table,New table,SKM,New staff requisition to SM,Common Data,FHRPA
+SKLMAPC,New table,New table,SKMC,test,Common Data,FHRPA
+SLFPITTMP,New table,New table,SLFT,Lot-site PIT,Common Data,
+SLOTMD,Modification,Modification,SLD,Lot modification line,Stock,
+SLOTMH,Modification,,SLH,Lot modification header,Stock,
+SMPKIT,New table,New table,KIT,SMP Keep in touch,Human Resources administration,FUKPH
+SMVTD,,,SMD,Stock movement detail,Stock,
+SMVTDVAL,,,SMV,Movement price,Stock,
+SMVTH,Modification,Modification,SMH,Movement header,Stock,
+SNPAFF,New table,New table,SPAF,Employee assignment,Common Data,PJM
+SNPBUD,New table,New table,SPJBU,Project budget,Common Data,PJM
+SNPBUDLIG,New table,New table,SPJLB,Budget line,Common Data,PJM
+SNPMSTNEXINV,New table,New table,SPJMST,Next invoice milestone,Common Data,PJM
+SNPOPEAFF,New table,New table,SPJOA,Employee assignment,Common Data,PJM
+SNPOPPOR,New table,New table,SOPP,Project,Common Data,PJM
+SNPOPPORPJM,New table,New table,SOPPPJM,PJM project,Common Data,PJM
+SNPPIMPL,New table,New table,SPIM,Project link,Common Data,PJM
+SNPTSK,New table,New table,SPJTA,Project task,Common Data,PJM
+SNPTSKITM,New table,New table,SJTT,Main product,Common Data,PJM
+SNPTSKLNK,New table,New table,SPTLNK,Task precedence link,Common Data,PJM
+SNPTSKOPE,New table,New table,SPTKO,Tasks - Operations,Common Data,PJM
+SNPTSKOPELNK,New table,New table,SOPLNK,Operation precedence link,Common Data,PJM
+SOCACTRPT0,New table,New table,SAUR0,Social activity unique report,Common Data,FPOPH
+SOCACTRPT1,New table,New table,SAUR1,Social activity unique report,Common Data,KPO
+SOCACTRPT2,New table,New table,SAUR2,Social activity unique report,Common Data,FPOPH
+SOCACTRPTA,New table,New table,SAURA,Social activity unique report,Common Data,FPOPH
+SOCACTRPTB,New table,New table,SAURB,Social activity unique report,Common Data,FPOPH
+SOCACTRPTC,New table,New table,SAURC,Social activity unique report,Common Data,FPOPH
+SOCACTRPTC1,New table,New table,SAURC1,Social activity unique report,Common Data,FPOPH
+SOCACTRPTC2,New table,New table,SAURC2,Social activity unique report,Common Data,FPOPH
+SOCACTRPTD,New table,New table,SAURD,Social activity unique report,Common Data,FPOPH
+SOCACTRPTE,New table,New table,SAURE,Social activity unique report,Common Data,FPOPH
+SOCACTRPTEK,New table,New table,SAUREK,Social activity unique report,Common Data,FPOPH
+SOCACTRPTH,New table,New table,SAURH,Social activity unique report,Common Data,FPOPH
+SOI,,,SOI,Statement creation,A/P-A/R accounting,
+SOLDPAY,New table,,HRSDP,Payment balance,Human Resources administration,
+SOLRESULT,,,SOR,Solutions found,Help Desk,
+SOLUTION,,,SOL,Solutions,Help Desk,
+SORDER,Modification,Modification,SOH,Sales orders - header,Sales,
+SORDERC,Modification,,SOC,Sales orders - early / late,Sales,
+SORDERP,Modification,Modification,SOP,Sales orders - price,Sales,
+SORDERQ,Modification,Modification,SOQ,Sales orders - quantities,Sales,
+SPACK,,,SPH,Delivery package,Stock,
+SPACKD,Modification,Modification,SPD,Delivery package detail,Stock,
+SPAMOD111,New table,Modification,SPM111,Spanish form 111,Financials,KSP
+SPAMOD115,New table,Modification,SPM115,Spanish form 115,Financials,KSP
+SPAMOD123,New table,Modification,SPM123,Spanish form 123,Financials,KSP
+SPAMOD180,New table,,SPM180,Spanish form 180,Financials,KSP
+SPAMOD1801,New table,Modification,SPM1801,Spanish form 180,Financials,KSP
+SPAMOD190,New table,,SPM190,Spanish form 190,Financials,KSP
+SPAMOD1901,New table,Modification,SPM1901,Spanish form 190 details,Financials,KSP
+SPAMOD193,New table,,SPM193,Spanish form 193,Financials,KSP
+SPAMOD1931,New table,Modification,SPM1931,Spanish form 193_1,Financials,KSP
+SPAMOD1932,New table,,SPM1932,Spanish form 193_2,Financials,KSP
+SPAMOD216,New table,Modification,SPM216,Spanish form 216,Financials,KSP
+SPAMOD296,New table,,SPM296,Spanish form 296,Financials,KSP
+SPAMOD2961,New table,Modification,SPM2961,Spanish form 296_1,Financials,KSP
+SPAMOD303,New table,Modification,SPM303,Spanish form 303,Financials,KSP
+SPAMOD347,New table,New table,SPM347,Spanish form 347,Financials,KSP
+SPAMOD347D,New table,New table,SPM347D,Spanish form 347,Financials,KSP
+SPAMOD349,New table,,SPM349,Spanish form 349,Financials,KSP
+SPAMOD349D,New table,Modification,SPM349D,Spanish 349 form detail,Financials,KSP
+SPAMOD369,New table,New table,SPM369,Spanish form 369,Financials,KSP
+SPAMOD3691,New table,New table,SPM3691,Spanish form 369,Financials,KSP
+SPAMOD3692,New table,New table,SPM3692,Spanish form 369,Financials,KSP
+SPAMOD390,New table,New table,SPM390,Spanish form 390,Financials,KSP
+SPAMOD3901,New table,New table,SPM3901,Spanish form 390 - detail 1,Financials,KSP
+SPAMOD3902,New table,New table,SPM3902,Spanish form 390 - detail 2,Financials,KSP
+SPAMODCPY,New table,Modification,SPMDC,Spanish forms by company,Financials,KSP
+SPAMODDET,New table,New table,SPMDET,Spanish forms details,Financials,KSP
+SPAMODELS,New table,,SPMOD,Spanish forms,Financials,KSP
+SPASENDINQ,New table,New table,SPSINQ,Sending,Financials,KSP
+SPLIBREG,New table,Modification,SPLREG,Bookkeeping,Financials,KSP
+SPPRTCONF,,,SPP,Price catalog definition,Sales,
+SPREASON,,,SPR,Sales price list reasons,Common Data,
+SPRICCONF,,,SPC,Customer pricing parameters,Common Data,
+SPRICFICH,,,SPF,Customer prices (records),Sales,
+SPRICINCR,,,SPI,Price increase,Sales,
+SPRICLINK,Modification,,SPK,Sales price list search,Sales,
+SPRICLIST,,,SPL,Customer price lists,Common Data,
+SPRICPRTQ,,,SPQ,Sales price catalog,Sales,
+SQUOTE,Modification,Modification,SQH,Quote header,Sales,
+SQUOTED,Modification,Modification,SQD,Quote detail,Sales,
+SREMAC,,,SRM,Base concerned,Common Data,
+SREMACCPN,,,SRN,Components concerned,Common Data,
+SRESAT,,,SRS,Request status history,Help Desk,
+SRESTAT,,,SST,Requested statistics,Common Data,
+SRETEMPL,,,SET,Service request model,Common Data,
+SRETURN,Modification,Modification,SRH,Sales return header,Sales,
+SRETURND,Modification,Modification,SRD,Sales return detail,Sales,
+SSCNSSDCL,New table,New table,HRPSSC,Social security/Insurance,Human Resources administration,KPO
+SSCNSSDCLD,New table,New table,SSD,Social security/Insurance,Human Resources administration,KPO
+SSCNSSFIL,New table,New table,SSCF,Social security/Insurance,Human Resources administration,KPO
+STAGE,New table,Modification,STG,Training period,Human Capital management,FRT
+STAGEPRH,New table,New table,HRSTP,Training period information,Human Capital management,PRF
+STAGETRG,New table,New table,HRSTR,Training targets,Human Capital management,
+STAT,,,SAT,Statistics,Supervisor,
+STATION,,,STX,Weighing location,Manufacturing,MWM
+STATIONBOX,Modification,Modification,SBX,Location/booth configuration,Manufacturing,MWM
+STATPRV,,,SAP,Statistical forecasts,Supervisor,
+STJTMP,,,SJT,Interface - stock journal,Stock,
+STKMVTADJ,Modification,Modification,SMA,Cost adjustment,Stock,
+STKMVTITC,,,SMI,Movement with value pending,Common Data,
+STKREGWRK,,,SRW,Cost adjustment,Stock,
+STKTRS,Modification,Modification,SRT,Stock transactions,Common Data,
+STLPAY,New table,New table,HRSTL,Payments,Human Resources administration,
+STOACCPAR,Modification,Modification,SAC,Actng. interface parameter,Stock,
+STOADCSEARCH,New table,New table,SAS,Stock search setup,Stock,ADC
+STOALL,,,STA,Allocations,Stock,
+STOCK,Modification,Modification,STO,Stock,Stock,
+STOCOST,,,STP,Stock FIFO cost,Stock,
+STOCOSTPIT,New table,New table,STPP,Stock FIFO cost PIT,Common Data,
+STOJOU,Modification,Modification,STJ,Stock journal,Stock,
+STOJOUOVE,,,SJO,Ovhds stock movements,Stock,
+STOJOUVAL,,,SJV,Stock movement values,Stock,
+STOLOC,,,STC,Locations,Stock,
+STOLOCAFF,,,STF,Bin assignment,Stock,
+STOLOCRES,,,SWL,Location work,Stock,
+STOLOT,,,STL,Lot numbers,Stock,
+STOLOTFCY,,,SLF,Lots - sites,Stock,
+STOLOTFCYPIT,New table,New table,SLFP,Lot-site PIT,Common Data,
+STOMVTCOST,,,SMC,Link documents / FIFO stack,Stock,
+STOPAR,,,STE,Stock parameters,Stock,
+STOPRED,,,PRE,Pick ticket detail,Stock,
+STOPREH,,,PRH,Pick ticket header,Stock,
+STOPRELIS,,,PRL,Shipment preparation list,Stock,
+STOPRELISW,,,PLW,Work preparation lists,Stock,
+STOPREW,,,PRW,Work preparation sheet,Stock,
+STOQLYD,Modification,Modification,QLD,Quality control detail,Stock,
+STOQLYH,Modification,Modification,QLH,Quality control header,Stock,
+STOQLYSMP,,,SMP,Qual. control sampling,Common Data,
+STOQUAL,Modification,Modification,STQ,Quality control,Stock,
+STOREO,Modification,Modification,REO,Reorder,Stock,
+STOSER,Modification,Modification,STS,Serial numbers,Stock,
+STOSERW,New table,New table,SSW,Serials in process,Stock,
+STOSRG,Modification,,SRG,Storage,Stock,
+STOSRGW,Modification,Modification,SGW,Storage (details),Stock,
+STOSYNW,,,SYW,Stock resynch work,Stock,
+STOTRK,Modification,Modification,STR,Traceability,Stock,
+STOTRKWRK,,,SKW,Traceability workfile,Stock,
+STOVALCUM,,,SVC,Valuated stock totals report,Stock,
+STOVALWRK,Modification,Modification,STV,Stock valuation report,Stock,
+STOWIPW,,,SWW,Stock being processed,Stock,
+STPPITTMP,New table,New table,STPT,Stock FIFO cost PIT,Common Data,
+SUBCONT,,,PRX,Service supplier,Common Data,
+SUCURSAL,,,SCU,Branch,Common Data,KAG
+SVATCTL,New table,,SVAT,Control SVAT rules,Common Data,KPO
+SVCRFOOT,,,SVF,Sales document - footer el.,Sales,
+SVCRFOOTLOC,New table,New table,SVFLOC,Sales document - footer el.,Sales,
+SVCRINVCND,New table,Modification,SVIC,Scheduled invoice,Sales,
+SVCRINVCNDD,New table,Modification,SVICD,Scheduled invoice,Sales,
+SVCRVAT,Modification,,SVV,Sales document - tax,Sales,
+SVCRVATLOC,New table,New table,SVVLOC,Sales document - tax,Sales,
+SWIEZAG,,,SWIEZ,Temporary table,A/P-A/R accounting,KSW
+SWIIMPBVR,,,SWIIMP,Import Swiss ISR file,A/P-A/R accounting,KSW
+SWIIMPTMP,,,SWITMP,Import Swiss ISR file (temp.),A/P-A/R accounting,KSW
+SWIQRC,New table,,SWIQRC,Swiss QR-data,A/P-A/R accounting,
+SWRKDLV,,,SWD,Automatic delivery generation,Sales,
+SWRKINV,,,SWI,Automatic billing,Sales,
+SWRKINVCND,New table,,SWICND,Automatic billing,Sales,
+SYNCDATA,,,SYD,Synchronization data,CRM activities,
+SYNCLINK,,,SYL,Synchronise cross reference,CRM activities,
+SYNCPAR,,,SYP,Synchronization setup,CRM activities,
+TAAAXXX,,,XXX,Template table to copy,Common Data,
+TABACCINT,Modification,Modification,TCI,Intercompany account mapping,Common Data,INTCV
+TABACCLIK,,,TCK,Reciprocal accounts,Common Data,
+TABALLRUL,,,TRU,Allocation and issue rules,Common Data,
+TABAT,New table,,HRTAT,WI/Occupational disease certificate,Human Resources administration,HRTAT
+TABBOMALT,,,TBO,BOM codes,Common Data,
+TABBUDTYP,Modification,,TBU,Budget transactions,Financials,
+TABCABCUT,,,CUT,BC division rules,Manufacturing,MWM
+TABCHANGE,,,TCH,Currency rate table,Supervisor,
+TABCODEDT,Modification,Modification,TED,Report code table,Common Data,
+TABCOEFF,,,TCO,Coefficients table,Supervisor,
+TABCONTAINER,Modification,Modification,TCTR,Container,Common Data,
+TABCOSTMET,Modification,Modification,TCM,Valuation methods,Common Data,
+TABCOSTMVT,,,TVM,Movement values,Common Data,
+TABCOUAFF,,,TCA,Sequence No assignments,Supervisor,
+TABCOUNTRY,Modification,Modification,TCY,Country table,Supervisor,
+TABCTL,,,TCT,Response table,Common Data,
+TABCUR,Modification,Modification,TCU,Currency table,Supervisor,
+TABDEPAGIO,Modification,Modification,TDA,Early discount/late charge table,Common Data,
+TABEECNAT,,,TEC,Intrastat transaction nature table,Common Data,DEB
+TABEECSCH,,,TSC,Statistical rule table,Common Data,DEB
+TABEXPENS,Modification,,TES,Expenses tables,A/P-A/R accounting,
+TABFILBAN,Modification,Modification,TFB,Bank file definitions,A/P-A/R accounting,
+TABFILCASH,,,TFC,Treasury file,Financials,CASIN
+TABFILTDS,Modification,,TFT,Fee declaration file,Financials,FEE2
+TABFOR,,,TFO,Formula table,Supervisor,
+TABFORLEG,,,TFOLEG,Formulas per legislation,Supervisor,
+TABGEOCOD,,,TGE,Geographic codes,Common Data,
+TABINVCND,New table,,INVCND,Invoicing terms,Common Data,
+TABINVCNDLIN,New table,,INVCNDD,Invoicing terms,Common Data,
+TABLAN,Modification,,TLA,Language table,Supervisor,
+TABLINCFG,,,TLP,Product lines,Common Data,
+TABLOCTYP,,,TLO,Location type table,Stock,
+TABMAT,Modification,Modification,TMA,ID numbers,Common Data,
+TABMODELIV,,,TMD,Delivery mode table,Common Data,
+TABMSG,,,TMS,Message table,Common Data,
+TABPACKAGE,,,TPA,Packaging table,Common Data,
+TABPAM,Modification,,TAM,Payment method table,Common Data,
+TABPAYTERM,,,TPT,Payment term table,Common Data,
+TABPAYTYP,Modification,Modification,TPY,Payment transactions,Common Data,
+TABPIVTYP,Modification,Modification,TPV,Supp invoice type table,Common Data,
+TABPLACE,,,TPC,Transit area,Common Data,
+TABPLACETIME,,,TPCT,Transport lead time,Common Data,
+TABPNHTYP,,,TPN,Return type table,Common Data,TRSNE
+TABPRECOD,,,PRC,Preparation code,Stock,
+TABPRTMOD,Modification,Modification,TPM,Print template table,Common Data,
+TABRATVAT,,,TRA,Tax rates,Common Data,
+TABREOPOL,,,TRP,Reorder policies table,Common Data,
+TABROUALT,,,TRO,BOM routings,Common Data,
+TABROUND,,,TRN,Roundings,Common Data,
+TABSAFSTO,,,TSA,Safety stock coefficients,Stock,
+TABSCA,,,TSR,Rejects,Common Data,
+TABSDHTYP,,,TSD,Table types deliveries,Common Data,
+TABSGHTYP,,,TSG,Stock change type,Common Data,TRSNE
+TABSIVTYP,Modification,Modification,TSV,Customer invoice type table,Common Data,
+TABSOHTYP,Modification,Modification,TSO,Order type table,Sales,
+TABSQHTYP,Modification,Modification,TSQ,Quote type table,Sales,
+TABSRHTYP,,,TRE,Return type table,Sales,
+TABSTASTO,,,TST,Stock status report,Common Data,
+TABSTORUL,Modification,Modification,SRU,Stock management rules,Common Data,
+TABSUBDIV,,,ATU,Geographic subdivisions,Supervisor,
+TABTNHTYP,,,TTN,Transport note type,Common Data,TRSNE
+TABUNAVAIL,,,TUV,Unavailable periods,Common Data,
+TABUNIT,,,TUN,Table of units of measure,Supervisor,
+TABUNNBR,New table,New table,TUNNB,Table of UN numbers,Common Data,
+TABVAC,,,TVC,Tax determination table,Common Data,
+TABVACBPR,,,TVB,BP tax rule table,Common Data,
+TABVACITM,Modification,,TVI,Tax level table,Common Data,
+TABVAT,Modification,Modification,TVT,Tax code table,Common Data,
+TABVATEXE,,,TEX,Tax exemption table,Common Data,
+TABWEEDIA,,,TWD,Weekly structures,Common Data,
+TABWIPSTO,,,TWS,Blocked stock quantities,Stock,
+TABWRKCTR,,,TWC,Work center groups,Manufacturing,
+TACONTAINERC,,,TCTRC,Container clobs,Common Data,
+TANKS,,,TKS,Tanks,Manufacturing,MWM
+TANKSGATES,,,TGT,Gate tank assignments,Manufacturing,MWM
+TASK,Modification,,TSK,Task,Common Data,
+TASSEDIC,New table,,HRATS,Job center certificate,Human Resources administration,
+TASSEDIC2,New table,,HRAT2,Job center certificate,Human Resources administration,
+TASSEDIC3,New table,Modification,HRAT3,Job center certificate,Human Resources administration,
+TAUTILIS,,,TAU,Safe X3 WAS users,Common Data,TCAYT
+TAXLINK,Modification,Modification,TLK,Tax calc. basis calculation (link),Common Data,
+TBASKET,,,TBA,Shopping basket,Common Data,TCAYT
+TBASKETD,,,TBD,Shopping basket line,Common Data,TCAYT
+TCBLOB,,,TBB,Special folders,Common Data,
+TCCLOB,,,TBC,Special text files,Common Data,
+TCOURLIG,New table,,TCL,Standard program lines,Human Capital management,FRT
+TDSPRV,,,TPR,Fee total/service supplier,Financials,DAS
+TDUPDCLC,,,TUC,Serial No. - calculation modification,Manufacturing,
+TEXCLOB,,,TXC,Text files,Common Data,
+TEXCPT,,,TCC,Text counter by table,Common Data,
+TGRLIS,,,TGL,Dictionary of targets,CRM activities,
+TGRLISFIE,,,TLF,Target inquiry,CRM activities,
+TGRLISLNK,,,TLL,Linked tables,CRM activities,
+TGRSSP,,,TGP,Presentation support,CRM activities,
+TIKRESHEA,New table,,TRH,Tickets restaurant,Human Resources administration,FTRH
+TIKRESLIG,New table,Modification,TRL,Tickets restaurant,Human Resources administration,FTRH
+TIMANA,New table,New table,TIA,Analytical time,Human Resources administration,
+TIMCNG,New table,New table,TIC,Holiday duration,Common Data,FHRPA
+TIMCOD,New table,New table,TIM,Nature of events,Common Data,FHRPA
+TIMEADJUST,New table,,TAD,Daylight saving time,Common Data,
+TIMEMP,New table,New table,TIP,Tracked times,Human Resources administration,
+TIMEMPDAT,New table,New table,TID,Time summary,Human Resources administration,
+TIMETRANS,New table,,TTR,Change to daylight saving time,Common Data,
+TIMEZONEINFO,New table,,TZI,Time zones,Common Data,
+TIMRECAP,New table,New table,TIR,Time summary,Human Resources administration,FHRPA
+TIMREGUL,New table,New table,TIG,Time adjustment,Human Resources administration,
+TITMLINK,,,TIK,Linked WAS items,Common Data,TCAYT
+TITMMASTER,,,TIT,Web items,Common Data,TCAYT
+TMP2054,,,T54,2054 fiscal statement Temporary table,Fixed Assets,
+TMP2055,,,T55,Fiscal statem. 2055 temp. table,Fixed Assets,
+TMP2855,,,TVS,Temporary table Fisc. Stmt 2855,Fixed Assets,
+TMP28578,New table,New table,TVS2,Fisc. Stmts 2857 2858,Fixed Assets,
+TMPAED,New table,New table,HRFTMA,AED print temporary table,Human Resources administration,KFR
+TMPARPT,Modification,,TARPT,Temporary print key table,A/P-A/R accounting,
+TMPARPTDET,New table,,TARPTD,Temporary print key table,A/P-A/R accounting,
+TMPBLA,Modification,,TBL,Temporary print key table,Financials,
+TMPCNSBAN,,,TCB,Bank inquiry,A/P-A/R accounting,
+TMPCNSESL1,New table,New table,TESL1,EC Sales List,Financials,ESL
+TMPCNSESL2,New table,New table,TESL2,EC Sales List,Financials,ESL
+TMPCNVECAR,,,TCE,Exch. rate temporary table,Financials,
+TMPCPTDTA,,,TCD,Accounting interface -data,Fixed Assets,
+TMPCRPT,,,TCRPT,Temporary print key table,Common Data,
+TMPCSRQ,Modification,Modification,TCR,Temporary cash requirements,A/P-A/R accounting,
+TMPDCH1,New table,Modification,TM1,Temporary tables (charges),Human Resources administration,
+TMPDCH2,New table,Modification,TM2,Temporary tables (charges),Human Resources administration,
+TMPDEMANDE,New table,,TDM,Temporay request form table,Human Capital management,
+TMPDERO,,,TDE,Temporary table,Fixed Assets,
+TMPDFD,,,TDF,DFDDPEreport temp table,Fixed Assets,
+TMPDUCS,New table,,TDU,DUCS,Human Resources administration,
+TMPDUCSEFF,New table,,HRTDE,DUCS,Human Resources administration,
+TMPEMPLO,New table,New table,HRTCT,Import employee and contract,Common Data,FHRPA
+TMPEMPLOPOR,New table,New table,TCTPO,Contract,Common Data,FPAPH
+TMPEXPENSE,Modification,Modification,EXT,Temporary table - Expenses,A/P-A/R accounting,
+TMPFAS1PAGE,,,T1PG,Tmp. depr. one page report,Fixed Assets,
+TMPFAS246G,Modification,Modification,T246,Tmp. depreciation report,Fixed Assets,
+TMPFASLIST,,,TFL,Temporary print key table,Fixed Assets,
+TMPFASPHY,,,TPH,Temp table elem assignment,Fixed Assets,PHY
+TMPFUP0,,,TF0,Campaign criteria,A/P-A/R accounting,FUP
+TMPFUP1,Modification,,TF1,BPs for reminding,A/P-A/R accounting,FUP
+TMPFUP2,Modification,,TF2,Open items to remind,A/P-A/R accounting,FUP
+TMPFUPCMT,,,TCF,Open item comments,A/P-A/R accounting,FUP
+TMPGACCENTRD,New table,,TMPDAE,Accounting entry lines,Financials,
+TMPGACCENTRY,New table,,TMPHAE,Accounting entries,Financials,
+TMPHISTO,New table,,TMP,Payroll history,Human Resources administration,
+TMPHSR,New table,Modification,THR,Payroll history,Human Resources administration,
+TMPIPTACPT,Deleted table,,IPT,Temporary allocation table,A/P-A/R accounting,
+TMPKRPT,,,TKRPT,Temporary print key table,Stock,
+TMPLEARNT,,,TLR,Temporary table,Fixed Assets,
+TMPLISLOF,,,TLI,Temporary print key table,Fixed Assets,
+TMPLIVRE,New table,,HRTML,Payroll journals,Human Resources administration,
+TMPLIVRESTD,New table,,HRTMD,Payroll journals,Human Resources administration,
+TMPLOFGRP,,,TLG,Temporary table,Fixed Assets,
+TMPLTAVCR,New table,New table,TLTV,Temporary local tax table,Sales,
+TMPMASFA2,,,MF2,Temporary table asset actions,Fixed Assets,
+TMPMASFAS,Modification,Modification,MFS,Temporary table asset actions,Fixed Assets,
+TMPMASLCK,,,TML,Mass action table lock,Fixed Assets,
+TMPMASLEA,,,TLE,Contract actions temp table,Fixed Assets,
+TMPMASLOF,,,MLF,Temporary table,Fixed Assets,
+TMPMASPHY,,,MPY,Temporary table actions elem,Fixed Assets,PHY
+TMPMOB,New table,,TMO,Temporary table (mobility),Human Capital management,
+TMPMSLIVRE,New table,,TMM,Total payroll journals,Human Resources administration,
+TMPODPAY,New table,New table,TOD,Payroll MO,Common Data,FHRPA
+TMPODPAYA,New table,New table,TOA,Analytical pay MO,Common Data,FHRPA
+TMPODPREP,New table,New table,TOR,Print Pay MO,Common Data,HRPAY
+TMPORA,New table,New table,HRTPA,Membership,Human Resources administration,FPAY
+TMPORG,New table,New table,HRTPO,Organizations,Common Data,FPAY
+TMPPAYDUD,Modification,Modification,TPD,Temporary payment proposal,A/P-A/R accounting,
+TMPPAYDUD2,Modification,Modification,TP2,Temporary payment proposal,A/P-A/R accounting,
+TMPPAYTOT,,,PYT,Temporary payment proposal,A/P-A/R accounting,
+TMPPLNFAS,,,TPF,Temporary table schedule actions,Fixed Assets,
+TMPPRPT,,,TPRPT,Temporary print key table,Purchasing,
+TMPREEVAL,,,TRV,Temp table report DEPREEVAL,Fixed Assets,
+TMPSELCTR,New table,,TMC,Contract selection,Common Data,FHRPA
+TMPSELMAT,New table,,TMT,Employee selection,Common Data,FHRPA
+TMPSES,New table,,TSE,Temporary table (session),Human Capital management,
+TMPSIMDERO,,,TDS,Temporary print key table,Fixed Assets,
+TMPSITU,,,TSI,Temp. table Report DEPSITU,Fixed Assets,
+TMPSITUCUR,,Deleted table,TSIC,Temp. table Report DEPSITU,Fixed Assets,
+TMPSRPT,Modification,Modification,TRPT,Temporary print key table,Sales,
+TMPSRPTDET,New table,,TSRPTD,Temporary print key table,Sales,
+TMPSUIMAS,New table,,TSM,Temporary table (TP tracking),Human Capital management,MAS
+TMPTCHANGE,,,TCG,Currency rates temp. table,Fixed Assets,
+TRACKTPLD,New table,,TKTD,Logistical tracking temp. detail,Common Data,
+TRACKTPLH,New table,,TKTH,Logistical tracking template,Common Data,
+TRADESHOW,,,OMT,Professional trade shows,Common Data,
+TRAINER,New table,,HRTRN,Internal trainer,Human Capital management,FRT
+TRANNOTED,,,TND,Transport note,Common Data,TRSNE
+TRANNOTEH,,,TNH,Transport note,Common Data,TRSNE
+TRANSPORT,Modification,,TRNP,Transport,Purchasing,
+TRCABX3,,,TAB,Abel X3 logs,Fixed Assets,
+TRCVCRDOC,,,TVD,Log file of accounting entries,Common Data,
+TRVACC,New table,Modification,WAC,WA rate,Human Resources administration,
+TRVACCRAT,New table,Modification,WAR,WA rate,Human Resources administration,
+TXSA,,,TXS,Financial data extraction parameters,Financials,TDB
+TXSAC,,,TXA,Grid column setup,Financials,TDB
+TXSD,,,TXD,Financial data extraction detail,Financials,TDB
+TXSM,,,TXM,Amounts,Financials,TDB
+TXSP,,,TXP,Value parameters/version,Financials,TDB
+TXSV,,,TXX,Fin data extras variables,Financials,TDB
+TXSW,,,TXW,Versions,Financials,TDB
+TXTBOL,New table,,TXB,Text files,Common Data,
+TXTCTR,New table,,HRTXC,Input document text,Common Data,FHRPA
+TYPACE,,,TPE,Accounting entry types,Fixed Assets,
+TYPACEINT,,,TPI,Accounting entry types,Fixed Assets,
+TYPACELEG,,,TPL,Accounting entry types,Fixed Assets,
+TYPCOMBEL,,,TYC,Communication types,A/P-A/R accounting,KBE
+TYPCOURSE,New table,Modification,TCS,Standard program,Human Capital management,FRT
+TYPCOURSESA,New table,New table,TCSSA,Standard program,Human Capital management,FKSSD
+TYPWEEK,New table,New table,WTY,Reference weeks,Human Resources administration,
+UKAPPLEV,New table,New table,APPLEV,Apprenticeship levy,Common Data,KUK
+UKBACRDM,New table,New table,BACRDM,UK BACS random,Common Data,FUKPH
+UKBACSER,New table,New table,BACSER,UK BACS serial,Common Data,KUK
+UKSMPLVE,New table,New table,SMPLVE,SMP leave,Human Resources administration,FUKPH
+UKSPPLVE,New table,New table,SPPLVE,SPP leave,Human Resources administration,FUKPH
+UKSSPLVE,New table,New table,SSPLVE,SSP Leave,Human Resources administration,FUKPH
+UNFILWRK,Modification,Modification,UNF,Unfilled orders report,Sales,
+UNITOFTIME,,,UOT,Unit of time,Common Data,
+UNPAID,,,UNP,Doubtful receipt entry,A/P-A/R accounting,
+UPORDER,Modification,Modification,UOH,PO history,Purchasing,
+UPORDERC,Modification,Modification,UOC,Cumulative PO history before R,Purchasing,
+UPORDERP,Modification,Modification,UOP,PO price history,Purchasing,
+UPORDERQ,Modification,Modification,UOQ,PO quantity history,Purchasing,
+USERGUIDES,,,UGD,User guides,Manufacturing,MWM
+USRLEGSOA,New table,New table,USLS,Legislation,Human Resources administration,
+VALANA,New table,,VAN,Analytical values,Human Resources administration,
+VALCPY,New table,,VCP,Company values,Human Resources administration,
+VALEMP,New table,Modification,VEP,Employee values,Human Resources administration,
+VALEUR,New table,Modification,VLA,Values,Human Resources administration,
+VALFCY,New table,,VFC,Site values,Human Resources administration,
+VALFDR,New table,,VFD,Legislation values,Human Resources administration,
+VALPRV,New table,,VPR,Provisional values,Human Resources administration,
+VALPRVH,New table,,VPH,Provisional values,Human Resources administration,
+VARIA,New table,Modification,VRA,Variables,Human Resources administration,
+VARTEXT,New table,,VTX,Text of the slip lines,Human Resources administration,
+VATBOX,Modification,Modification,VTB,VAT boxes,Financials,DCL
+VATBOXD,Modification,Modification,VTD,VAT boxes,Financials,DCL
+VATCLS,Modification,Modification,VCL,Tax classification,Common Data,SAFT
+VATENTFRM,Modification,Modification,VEF,VAT form (definition),Financials,DCL
+VATENTFRMD,Modification,Modification,VEFD,VAT form detail (definition),Financials,DCL
+VATEXEREA,Modification,,VER,VAT exemption reasons,Common Data,KPO
+VATFRMENT,Modification,Modification,VFE,VAT form (values),Financials,DCL
+VATFRMENTA,Modification,Modification,VFEA,VAT form,Financials,DCL
+VATFRMENTC,Modification,Modification,VFEC,VAT form by company,Financials,DCL
+VATFRMENTD,Modification,Modification,VFED,VAT form detail (values),Financials,DCL
+VATFRMENTI,New table,New table,VFEI,VAT return service data,Financials,DCL
+VATFRMENTN,Modification,Modification,VFEN,VAT form queries,Financials,DCL
+VATGRP,Modification,Modification,VATGH,VAT entity header,Financials,DCL
+VATGRPD,Modification,Modification,VATGD,VAT entity details,Financials,DCL
+VATHIS,,,VAT,Tax - history,Fixed Assets,
+VATLINITMGER,,,VLI,German VAT line items,A/P-A/R accounting,KDEAT
+VDGERRSP,,,RSP,Recapitulative statem. param.,Financials,KDEAT
+VDGERTRP,,,TRPG,German tax return parameter,Financials,KDEAT
+VDSWITRP,Modification,Modification,TRSP,Switzerland,Financials,KSW
+VFEPSTTMP,New table,New table,VFEP,VAT posting,Financials,DCL
+VPJMSOLITMD,New table,New table,VPSOD,Sold product list,Common Data,PJM
+VPJMSOLITMH,New table,New table,VPSOH,Sales document creation,Common Data,PJM
+VPJMSOLITMO,New table,New table,VPSOO,Sold product list,Common Data,PJM
+VSORDER,Modification,Modification,VOH,Sales order history - header,Sales,
+VSORDERC,Modification,Modification,VOC,Cumulative sales order history,Sales,
+VSORDERP,Modification,Modification,VOP,Sales order history - price,Sales,
+VSORDERQ,Modification,Modification,VOQ,Sales order history - Qties.,Sales,
+VSQUOTE,New table,New table,VQH,Sales quote history - header,Sales,
+VSQUOTED,New table,New table,VQD,Sales quote history - details,Sales,
+VXAMTTPY,New table,New table,VVXAMTP,Material output temporary,Stock,ADC
+WAREHOUSE,,,WRH,Warehouses,Common Data,WRH
+WARFLYER,,,FLY,Warranty vouchers,Common Data,
+WARREQCPN,,,RCW,Warranty request lines,Common Data,
+WARREQUEST,,,RQW,Warranty requests,Common Data,
+WCUNLISDET,,,WCU,Print stock count,Stock,
+WEIGHING,Modification,Modification,WGG,Weighing,Manufacturing,MWM
+WEIGHPRT,,,WGP,Label printing,Manufacturing,MWM
+WHTDTL,New table,Modification,WDL,WHT detail,Financials,KAU
+WHTHDR,New table,Modification,WHR,WHT header,Financials,KAU
+WIPCOST,Modification,Modification,MWI,WIP valuation,Common Data,
+WIPRESW,Modification,Modification,WRW,WIPCOST summary for print,Common Data,
+WIPSCPM,,,MSM,Rejects temporary material,Manufacturing,
+WIPSCPO,,,MSO,Rejects temporary operation,Manufacturing,
+WIPTMP,,,MWT,Wipcost-interface,Manufacturing,
+WIPWSTTMP,New table,New table,WWT,WIPCOST operation detail temp,Common Data,
+WORKCOST,,,MWC,Costing dimension,Manufacturing,
+WORKLOAD,,,WKL,Production load,Manufacturing,
+WORKSTATIO,Modification,Modification,MWS,Work centers,Common Data,
+WPOHBLOB,New table,New table,WBB,Temporary PO blob,Stock,
+WPOHWKT,New table,New table,WKT,Print POs to receive,Stock,
+WRKPURFCS,,,WPF,Purchase cost report,Purchasing,
+WRKSTOCNS,,,WCN,Transfer stock inquiry,Stock,
+WRKSTOPER,,,WSP,Stock by date inquiry,Stock,
+WSTANL,,,WSA,Workstation analysis,Manufacturing,
+WSTOALL,,,WSTA,Allocations,Stock,
+WSTOLOTFCY,,,WSL,Lots - sites,Stock,
+WSTOQLYD,,,WQL,Quality control detail,Stock,
+WSTOREO,,,WREO,Reorders,Stock,
