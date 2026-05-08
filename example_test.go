@@ -53,11 +53,11 @@ ABANK,,,ABN,Bank sort codes,Common Data,
 `
 	tables, _ := parseTables(strings.NewReader(csv))
 	fmt.Printf("loaded %d tables\n", len(tables))
-	fmt.Printf("ABN: %s [%s]\n", tables["ABN"].fullName, tables["ABN"].module)
+	fmt.Printf("ABANK: %s [%s]\n", tables["ABANK"].fullName, tables["ABANK"].module)
 
 	// Output:
 	// loaded 2 tables
-	// ABN: Bank sort codes [Common Data]
+	// ABANK: Bank sort codes [Common Data]
 }
 
 func Example_parseTables_simpleFormat() {
@@ -97,9 +97,8 @@ func Example_writeReport() {
 	//   BPS                   Suppliers                                 [Common Data]
 	//
 	// === Documentation ===
-	// https://online-help.sagex3.com/erp/12/en-us/Content/MCD/ATB_0.htm
-	//
-	// Tip: search for each table abbreviation on the documentation page above.
+	//   BPC                   https://online-help.sagex3.com/erp/12/en-us/Content/MCD/BPC.htm
+	//   BPS                   https://online-help.sagex3.com/erp/12/en-us/Content/MCD/BPS.htm
 }
 
 func Example_writeReport_noTablesFound() {

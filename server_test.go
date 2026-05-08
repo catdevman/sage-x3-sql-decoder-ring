@@ -98,8 +98,8 @@ func TestHandleListTables_EntryShape(t *testing.T) {
 	if got.Module != "Common Data" {
 		t.Errorf("Module: want Common Data, got %q", got.Module)
 	}
-	if got.DocURL != docBaseURL {
-		t.Errorf("DocURL: want %q, got %q", docBaseURL, got.DocURL)
+	if got.DocURL != tableDocURL("BPC") {
+		t.Errorf("DocURL: want %q, got %q", tableDocURL("BPC"), got.DocURL)
 	}
 }
 
@@ -121,8 +121,8 @@ func TestHandleGetTable_Found(t *testing.T) {
 	if resp.FullName != "Customers" {
 		t.Errorf("FullName: want Customers, got %q", resp.FullName)
 	}
-	if resp.DocURL != docBaseURL {
-		t.Errorf("DocURL: want %q, got %q", docBaseURL, resp.DocURL)
+	if resp.DocURL != tableDocURL("BPC") {
+		t.Errorf("DocURL: want %q, got %q", tableDocURL("BPC"), resp.DocURL)
 	}
 }
 
@@ -198,8 +198,8 @@ func TestHandleDecode_TablesIncludeDocURL(t *testing.T) {
 	if len(resp.Tables) == 0 {
 		t.Fatal("expected at least one table in response")
 	}
-	if resp.Tables[0].DocURL != docBaseURL {
-		t.Errorf("DocURL: want %q, got %q", docBaseURL, resp.Tables[0].DocURL)
+	if resp.Tables[0].DocURL != tableDocURL("BPC") {
+		t.Errorf("DocURL: want %q, got %q", tableDocURL("BPC"), resp.Tables[0].DocURL)
 	}
 }
 

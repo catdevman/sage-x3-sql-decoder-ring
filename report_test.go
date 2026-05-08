@@ -18,7 +18,7 @@ func TestWriteReport_ContainsSections(t *testing.T) {
 		"=== Decoded SQL ===",
 		"=== Table Reference ===",
 		"=== Documentation ===",
-		docBaseURL,
+		tableDocURL("BPC"),
 	} {
 		if !strings.Contains(out, want) {
 			t.Errorf("output missing %q", want)

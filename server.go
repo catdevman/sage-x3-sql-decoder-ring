@@ -31,7 +31,7 @@ func toTableResponse(t tableInfo) tableResponse {
 		Abbreviation: t.abbreviation,
 		FullName:     t.fullName,
 		Module:       t.module,
-		DocURL:       docBaseURL,
+		DocURL:       tableDocURL(t.abbreviation),
 	}
 }
 

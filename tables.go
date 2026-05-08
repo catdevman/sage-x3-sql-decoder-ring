@@ -38,7 +38,7 @@ func parseTables(r io.Reader) (map[string]tableInfo, error) {
 	colAbbr, colName, colModule := 0, 1, -1
 	for i, h := range header {
 		switch strings.TrimSpace(strings.ToLower(h)) {
-		case "abbreviation":
+		case "table v2023r1":
 			colAbbr = i
 		case "description":
 			colName = i

@@ -18,9 +18,9 @@ ABANK,,,ABN,Bank sort codes,Common Data,
 		t.Fatalf("expected 2 entries, got %d", len(tables))
 	}
 
-	got := tables["AAB"]
-	if got.abbreviation != "AAB" {
-		t.Errorf("abbreviation: want AAB, got %q", got.abbreviation)
+	got := tables["AABREV"]
+	if got.abbreviation != "AABREV" {
+		t.Errorf("abbreviation: want AABREV, got %q", got.abbreviation)
 	}
 	if got.fullName != "Abbreviation" {
 		t.Errorf("fullName: want Abbreviation, got %q", got.fullName)
@@ -29,8 +29,8 @@ ABANK,,,ABN,Bank sort codes,Common Data,
 		t.Errorf("module: want Supervisor, got %q", got.module)
 	}
 
-	if tables["ABN"].module != "Common Data" {
-		t.Errorf("module: want Common Data, got %q", tables["ABN"].module)
+	if tables["ABANK"].module != "Common Data" {
+		t.Errorf("module: want Common Data, got %q", tables["ABANK"].module)
 	}
 }
 

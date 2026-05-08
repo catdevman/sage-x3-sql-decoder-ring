@@ -324,7 +324,7 @@ func hoverAt(text string, pos lspPosition, tables map[string]tableInfo) *hoverRe
 	if t.module != "" {
 		md += "\n\nModule: " + t.module
 	}
-	md += fmt.Sprintf("\n\n[Open documentation](%s)", docBaseURL)
+	md += fmt.Sprintf("\n\n[Open documentation](%s)", tableDocURL(t.abbreviation))
 
 	return &hoverResult{
 		Contents: markupContent{Kind: "markdown", Value: md},
@@ -359,7 +359,7 @@ func inlayHintsFor(text string, tables map[string]tableInfo) []inlayHint {
 			Position: offsetToPosition(text, abbrEnd),
 			Label:    label,
 			Kind:     1, // InlayHintKind.Type
-			Tooltip:  t.fullName + " — " + docBaseURL,
+			Tooltip:  t.fullName + " — " + tableDocURL(t.abbreviation),
 		})
 	}
 	return hints

@@ -5,7 +5,11 @@ import (
 	"io"
 )
 
-const docBaseURL = "https://online-help.sagex3.com/erp/12/en-us/Content/MCD/ATB_0.htm"
+const docBaseURL = "https://online-help.sagex3.com/erp/12/en-us/Content/MCD/"
+
+func tableDocURL(tableName string) string {
+	return docBaseURL + tableName + ".htm"
+}
 
 // writeReport writes the decoded SQL report to w.
 func writeReport(w io.Writer, original, decoded string, found []tableInfo) {
@@ -32,6 +36,8 @@ func writeReport(w io.Writer, original, decoded string, found []tableInfo) {
 	}
 	fmt.Fprintln(w)
 
-	fmt.Fprintf(w, "=== Documentation ===\n%s\n\n", docBaseURL)
-	fmt.Fprintln(w, "Tip: search for each table abbreviation on the documentation page above.")
+	fmt.Fprintln(w, "=== Documentation ===")
+	for _, t := range found {
+		fmt.Fprintf(w, "  %-20s  %s\n", t.abbreviation, tableDocURL(t.abbreviation))
+	}
 }

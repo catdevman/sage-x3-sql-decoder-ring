@@ -23,9 +23,9 @@ SELECT * FROM Customers [BPC] INNER JOIN Suppliers [BPS] ON BPC.BPCNUM_0 = BPS.B
   BAL                   General balance                           [Financials]
 
 === Documentation ===
-https://online-help.sagex3.com/erp/12/en-us/Content/MCD/ATB_0.htm
-
-Tip: search for each table abbreviation on the documentation page above.
+  BPC                   https://online-help.sagex3.com/erp/12/en-us/Content/MCD/BPC.htm
+  BPS                   https://online-help.sagex3.com/erp/12/en-us/Content/MCD/BPS.htm
+  BAL                   https://online-help.sagex3.com/erp/12/en-us/Content/MCD/BAL.htm
 ```
 
 ## Installation

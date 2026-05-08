@@ -188,7 +188,7 @@ func TestHoverAt_KnownTable(t *testing.T) {
 	if !strings.Contains(result.Contents.Value, "BPC") {
 		t.Errorf("hover should mention BPC, got %q", result.Contents.Value)
 	}
-	if !strings.Contains(result.Contents.Value, docBaseURL) {
+	if !strings.Contains(result.Contents.Value, tableDocURL("BPC")) {
 		t.Errorf("hover should include doc URL")
 	}
 	if result.Contents.Kind != "markdown" {
@@ -325,7 +325,7 @@ func TestInlayHintsFor_TooltipIncludesDocURL(t *testing.T) {
 	if len(hints) == 0 {
 		t.Fatal("expected at least one hint")
 	}
-	if !strings.Contains(hints[0].Tooltip, docBaseURL) {
+	if !strings.Contains(hints[0].Tooltip, tableDocURL("BPC")) {
 		t.Errorf("tooltip should include doc URL, got %q", hints[0].Tooltip)
 	}
 }
