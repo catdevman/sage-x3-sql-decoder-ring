@@ -325,8 +325,9 @@ func TestInlayHintsFor_TooltipIncludesDocURL(t *testing.T) {
 	if len(hints) == 0 {
 		t.Fatal("expected at least one hint")
 	}
-	if !strings.Contains(hints[0].Tooltip, tableDocURL("BPC")) {
-		t.Errorf("tooltip should include doc URL, got %q", hints[0].Tooltip)
+	wantTooltip := fmt.Sprintf("Customers — [Open documentation](%s)", tableDocURL("BPC"))
+	if hints[0].Tooltip != wantTooltip {
+		t.Errorf("tooltip: want %q, got %q", wantTooltip, hints[0].Tooltip)
 	}
 }
 

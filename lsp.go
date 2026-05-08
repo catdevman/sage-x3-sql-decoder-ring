@@ -359,7 +359,7 @@ func inlayHintsFor(text string, tables map[string]tableInfo) []inlayHint {
 			Position: offsetToPosition(text, abbrEnd),
 			Label:    label,
 			Kind:     1, // InlayHintKind.Type
-			Tooltip:  t.fullName + " — " + tableDocURL(t.abbreviation),
+			Tooltip:  fmt.Sprintf("%s — [Open documentation](%s)", t.fullName, tableDocURL(t.abbreviation)),
 		})
 	}
 	return hints
